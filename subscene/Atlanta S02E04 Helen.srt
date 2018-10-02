@@ -1,0 +1,442 @@
+﻿[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.83,0:00:20.25,Default,,0,0,0,,Subtitles by iamtheflash
+Dialogue: 0,0:00:25.66,0:00:27.58,Default,,0,0,0,,♪ You ♪
+Dialogue: 0,0:00:27.62,0:00:28.75,Default,,0,0,0,,♪ Don't know, don't know ♪
+Dialogue: 0,0:00:28.87,0:00:32.71,Default,,0,0,0,,♪ You don't know ♪
+Dialogue: 0,0:00:32.79,0:00:33.83,Default,,0,0,0,,♪ Don't know ♪
+Dialogue: 0,0:00:33.95,0:00:36.37,Default,,0,0,0,,♪ Waiting on you... ♪
+Dialogue: 0,0:00:40.08,0:00:41.75,Default,,0,0,0,,Kenapa kamu parnoan gitu sih?
+Dialogue: 0,0:00:42.69,0:00:44.08,Default,,0,0,0,,Kamu yang parnoan, huh?
+Dialogue: 0,0:00:44.11,0:00:46.48,Default,,0,0,0,,Nggak lah. Aku cuma lagi ngebayangin\Nkamu suka atau nggak ntar disana.
+Dialogue: 0,0:00:46.58,0:00:47.55,Default,,0,0,0,,Helen mana?
+Dialogue: 0,0:00:47.65,0:00:49.30,Default,,0,0,0,,Aku sudah pernah kesana kali.
+Dialogue: 0,0:00:49.35,0:00:50.38,Default,,0,0,0,,Waktu kelas empat. Pas kunjungan lapangan.
+Dialogue: 0,0:00:50.41,0:00:52.20,Default,,0,0,0,,Waktu si kaya Tamika muntah.
+Dialogue: 0,0:00:52.22,0:00:55.56,Default,,0,0,0,,Bukan itu, festival yang ini,{\i1} Fastnacht.{\i}
+Dialogue: 0,0:00:55.66,0:00:57.05,Default,,0,0,0,,Ini benar-benar perayaan tradisional.
+Dialogue: 0,0:00:57.08,0:00:59.75,Default,,0,0,0,,Oh. Well,
+Dialogue: 0,0:00:59.77,0:01:01.74,Default,,0,0,0,,jika kita tidak menyukainya, kita bisa\Nbalik ke losmen,
+Dialogue: 0,0:01:01.75,0:01:03.33,Default,,0,0,0,,dan melakukan hal-hal unik ala losmen.
+Dialogue: 0,0:01:03.98,0:01:05.31,Default,,0,0,0,,"Hal-hal unik ala losmen"? (NGENTOT CUK)
+Dialogue: 0,0:01:06.04,0:01:07.65,Default,,0,0,0,,Yeah, itulah.
+Dialogue: 0,0:01:07.67,0:01:08.83,Default,,0,0,0,,Aku tahu itu terdengar jorok,
+Dialogue: 0,0:01:08.87,0:01:11.16,Default,,0,0,0,,tapi itu jauh lebih baik dari\Nyang kita lakukan pagi ini.
+Dialogue: 0,0:01:11.53,0:01:15.26,Default,,0,0,0,,Dan kamu akan bisa lebih tinggi, jadi kamu\Nbisa lebih percaya diri dengan jilatan itu.
+Dialogue: 0,0:01:15.49,0:01:17.52,Default,,0,0,0,,Kamu memperhatikan itu?
+Dialogue: 0,0:01:21.62,0:01:23.04,Default,,0,0,0,,Sekarang aku yang parnoan deh.
+Dialogue: 0,0:01:25.26,0:01:28.75,Default,,0,0,0,,Ini akan terdengar seperti sebuah\Npertanyaan yang berat, tapi aslinya sih enggak.
+Dialogue: 0,0:01:28.77,0:01:30.31,Default,,0,0,0,,Oke paham.
+Dialogue: 0,0:01:30.98,0:01:33.94,Default,,0,0,0,,Apakah wanita kulit hitam selalu dianggap memiliki rambut coklat?
+Dialogue: 0,0:01:34.85,0:01:50.16,Default,,0,0,0,,Subtitles by iamtheflash (fuckintermilan)
+Dialogue: 0,0:01:56.35,0:01:58.57,Default,,0,0,0,,Kok aneh ya, aku jadi laper nih?
+Dialogue: 0,0:02:00.60,0:02:02.29,Default,,0,0,0,,Kamu juga?
+Dialogue: 0,0:02:07.29,0:02:10.37,Default,,0,0,0,,Oh, shit.
+Dialogue: 0,0:02:15.16,0:02:16.70,Default,,0,0,0,,Sepertinya bakal asik nih.
+Dialogue: 0,0:02:17.37,0:02:19.37,Default,,0,0,0,,Kita akan jadi satu-satunya\Norang kulit hitam disini, ya kan?
+Dialogue: 0,0:02:19.48,0:02:21.08,Default,,0,0,0,,Bagian dari tim Christina.
+Dialogue: 0,0:02:21.83,0:02:24.46,Default,,0,0,0,,Hal yang terpenting adalah\N{\i1} Faschingstanz,{\i}
+Dialogue: 0,0:02:24.59,0:02:26.51,Default,,0,0,0,,dan selalu pastikan kamu menambahkan\Nbeberapa tarian didalamnya
+Dialogue: 0,0:02:26.62,0:02:29.59,Default,,0,0,0,,dengan salah satu yang tradisional.\NMereka akan sangat menyukai itu.
+Dialogue: 0,0:02:29.69,0:02:32.33,Default,,0,0,0,,- Oke.\N- Kita pasti akan memenangkannya.
+Dialogue: 0,0:02:32.43,0:02:33.50,Default,,0,0,0,,Christina akan sangat marah,
+Dialogue: 0,0:02:33.60,0:02:35.40,Default,,0,0,0,,karena Dave nggak bisa menari.
+Dialogue: 0,0:02:35.50,0:02:38.17,Default,,0,0,0,,Aku juga gak lebih baik lho.
+Dialogue: 0,0:02:38.27,0:02:40.35,Default,,0,0,0,,Aku nggak tahu ya. Kamu bisa mencuri perhatian lah.
+Dialogue: 0,0:02:40.37,0:02:42.54,Default,,0,0,0,,Itu sungguh aneh, tapi orang-orang menyukainya.
+Dialogue: 0,0:02:43.34,0:02:47.31,Default,,0,0,0,,Oh, ngomong-ngomong, menurut tradisi,\Nnanti juga ada karakter Moor (komunitas muslim arab afrika yang tinggal di eropa)
+Dialogue: 0,0:02:47.41,0:02:49.35,Default,,0,0,0,,dimana orang itu muncul dengan penampakan wajah yang hitam, jadi...
+Dialogue: 0,0:02:49.45,0:02:51.16,Default,,0,0,0,,- Bagus lah.\N- Mm-hmm.
+Dialogue: 0,0:02:51.18,0:02:53.05,Default,,0,0,0,,Saat kamu masih kecil,\Napa kamu ngga ngerasa kaya,
+Dialogue: 0,0:02:53.07,0:02:54.84,Default,,0,0,0,,aneh untuk semua hal-hal seperti itu?
+Dialogue: 0,0:02:54.91,0:02:56.42,Default,,0,0,0,,Hmm, ngerasa sih.
+Dialogue: 0,0:02:56.92,0:02:59.79,Default,,0,0,0,,Tapi aku lebih memilih jadi seperti Serena\NWilliams aja di perayaan begini.
+Dialogue: 0,0:02:59.93,0:03:02.32,Default,,0,0,0,,Mereka membencinya, tapi mereka\Ngak bisa menolak statistik.
+Dialogue: 0,0:03:02.43,0:03:04.13,Default,,0,0,0,,Kamu betul-betul kompetitif.
+Dialogue: 0,0:03:04.18,0:03:07.12,Default,,0,0,0,,Aku tahu. Dan kamu menyukainya kan.
+Dialogue: 0,0:03:07.27,0:03:15.17,Default,,0,0,0,,Subtitles by iamtheflash
+Dialogue: 0,0:03:17.63,0:03:18.60,Default,,0,0,0,,Hai, sayang.
+Dialogue: 0,0:03:18.62,0:03:19.49,Default,,0,0,0,,Hai!
+Dialogue: 0,0:03:19.51,0:03:21.38,Default,,0,0,0,,- Oh, my God. Hai.\N- Senangnya ketemu lagi.
+Dialogue: 0,0:03:21.48,0:03:23.08,Default,,0,0,0,,- Gimana kabarmu, Van? Kamu gimana?\N- Hai, Dave.
+Dialogue: 0,0:03:23.16,0:03:24.41,Default,,0,0,0,,- Aku baik. Ha, coba lihat.
+Dialogue: 0,0:03:24.52,0:03:25.48,Default,,0,0,0,,- Hai, yo!\N- Luarbiasa.
+Dialogue: 0,0:03:25.58,0:03:26.68,Default,,0,0,0,,- Bagus banget.\N- Suka deh.
+Dialogue: 0,0:03:26.79,0:03:28.95,Default,,0,0,0,,- Coba lihat kamu.\N- Lihat kan, aku sudah bilang dia mau dandan untuk ini.
+Dialogue: 0,0:03:28.98,0:03:29.98,Default,,0,0,0,,Earn.
+Dialogue: 0,0:03:30.05,0:03:31.39,Default,,0,0,0,,Earn!
+Dialogue: 0,0:03:31.49,0:03:33.09,Default,,0,0,0,,Fotoin kami donk?
+Dialogue: 0,0:03:33.11,0:03:34.36,Default,,0,0,0,,- Yeah, yeah, yeah, um...\N- Huh.
+Dialogue: 0,0:03:36.19,0:03:37.19,Default,,0,0,0,,Nah itu dia.
+Dialogue: 0,0:03:37.30,0:03:38.39,Default,,0,0,0,,- Tak foto tiga kali tuh.\N- Makasih.
+Dialogue: 0,0:03:38.50,0:03:40.10,Default,,0,0,0,,Mana kostummu?
+Dialogue: 0,0:03:40.55,0:03:41.61,Default,,0,0,0,,Oh, yeah. Aku gak bawa, gak aku banget.
+Dialogue: 0,0:03:41.64,0:03:42.67,Default,,0,0,0,,Aku benar-benar gak... (gak minat cuk)
+Dialogue: 0,0:03:42.69,0:03:44.07,Default,,0,0,0,,Y-Yeah, tapi kamu harus pake kostum, man.
+Dialogue: 0,0:03:44.17,0:03:46.70,Default,,0,0,0,,Maksudku, ngapain kamu disini kalo?
+Dialogue: 0,0:03:46.83,0:03:49.12,Default,,0,0,0,,- Coba lihat kostumku. Akupake kostum lederhosen, dawg.\N- Yeah.
+Dialogue: 0,0:03:49.24,0:03:50.85,Default,,0,0,0,,Aku-aku paham. Aku hanya tidak tahu.
+Dialogue: 0,0:03:50.87,0:03:52.37,Default,,0,0,0,,Van menyukainya.
+Dialogue: 0,0:03:52.50,0:03:54.33,Default,,0,0,0,,- Kemana-kemana dia pergi ya?\N- Yo.
+Dialogue: 0,0:03:54.41,0:03:55.44,Default,,0,0,0,,- Aku masih punya topeng cadangan dengan cambuk.\N- Aku...
+Dialogue: 0,0:03:55.55,0:03:57.21,Default,,0,0,0,,- Aku oke aja deh, man.\N- Yakin?
+Dialogue: 0,0:03:57.32,0:03:58.25,Default,,0,0,0,,- Ya, man.\N- Kamu akan terlihat bagus menggunakannya.
+Dialogue: 0,0:03:58.33,0:04:00.21,Default,,0,0,0,,Aku cukup nyaman seperti ini.
+Dialogue: 0,0:04:04.42,0:04:05.65,Default,,0,0,0,,Ancuk, apaan tuh?
+Dialogue: 0,0:04:05.76,0:04:08.28,Default,,0,0,0,,Itu{\i1} Schnappviecher.{\i}\NItu iblis pencuri.
+Dialogue: 0,0:04:08.31,0:04:09.99,Default,,0,0,0,,Setiap{\i1} Fastnacht,{\i}\Ndia pasti mencuri sesuatu
+Dialogue: 0,0:04:10.01,0:04:11.67,Default,,0,0,0,,dari salah satu warga desa yang sial.
+Dialogue: 0,0:04:11.70,0:04:13.70,Default,,0,0,0,,Beneran nih!
+Dialogue: 0,0:04:13.92,0:04:16.48,Default,,0,0,0,,Kamu menarik banget!
+Dialogue: 0,0:04:19.20,0:04:20.33,Default,,0,0,0,,Oh.
+Dialogue: 0,0:04:21.77,0:04:26.74,Default,,0,0,0,,Kamu juga... dan aku minta maaf.
+Dialogue: 0,0:04:30.18,0:04:31.48,Default,,0,0,0,,Subtitles by iamtheflash (FORZA JUVE)
+Dialogue: 0,0:04:32.24,0:04:33.82,Default,,0,0,0,,Mana topeng\Nyang kamu bilang tadi?
+Dialogue: 0,0:04:33.85,0:04:35.03,Default,,0,0,0,,Yeah, ada di kotak sana.
+Dialogue: 0,0:04:35.05,0:04:36.09,Default,,0,0,0,,Cool.
+Dialogue: 0,0:04:37.49,0:04:39.12,Default,,0,0,0,,Selamat datang di perayaan{\i1} Fastnacht.{\i}
+Dialogue: 0,0:04:39.22,0:04:40.16,Default,,0,0,0,,Nih, tolong ambil ini.
+Dialogue: 0,0:04:40.26,0:04:41.22,Default,,0,0,0,,- Yuk mainkan.\N- Makasih.
+Dialogue: 0,0:04:41.33,0:04:43.09,Default,,0,0,0,,Kami punya hadiah yang cukup menarik malam ini,
+Dialogue: 0,0:04:43.19,0:04:44.43,Default,,0,0,0,,disponsori oleh Dixie Gas.
+Dialogue: 0,0:04:44.53,0:04:47.77,Default,,0,0,0,,Yuk kasi keriuhan untuk Dixie Gas\Nuntuk hadiah dua kartu nonton di bioskop ini.
+Dialogue: 0,0:04:52.35,0:04:55.05,Default,,0,0,0,,Dan aku tidak tahu\Ntentang kalian semua,
+Dialogue: 0,0:04:55.07,0:04:56.87,Default,,0,0,0,,tapi aku siap untuk Hootz-Kutz. (itu nama gamesnya cuk)
+Dialogue: 0,0:05:02.75,0:05:05.66,Default,,0,0,0,,Cukup pantulkan\Nbola itu ke aku saat dia ke arahmu,
+Dialogue: 0,0:05:05.70,0:05:09.14,Default,,0,0,0,,tapi jangan bilang "Hootz-Kutz"\Nkecuali kamu menyerah. Okay.
+Dialogue: 0,0:05:09.36,0:05:12.13,Default,,0,0,0,,- Dia tidak pernah memainkan ini.\N- Okay, okay.
+Dialogue: 0,0:05:12.16,0:05:13.29,Default,,0,0,0,,Apa kita siap untuk Hootz-Kutz?
+Dialogue: 0,0:05:13.37,0:05:14.62,Default,,0,0,0,,- Yeah!
+Dialogue: 0,0:05:14.70,0:05:17.91,Default,,0,0,0,,Lihat aba-abaku ya. Siap,
+Dialogue: 0,0:05:18.00,0:05:19.60,Default,,0,0,0,,Atur, Mainkan.
+Dialogue: 0,0:05:23.16,0:05:24.58,Default,,0,0,0,,- Oh!\N- LUCAS: Ayolah, Earn.
+Dialogue: 0,0:05:24.61,0:05:26.33,Default,,0,0,0,,Kamu harus menangkap itu, okay?
+Dialogue: 0,0:05:26.35,0:05:28.49,Default,,0,0,0,,- Maaf. Okelah, maaf.\N- Gak apa.
+Dialogue: 0,0:05:28.51,0:05:30.24,Default,,0,0,0,,Main.
+Dialogue: 0,0:05:30.34,0:05:32.84,Default,,0,0,0,,- Itu dia!
+Dialogue: 0,0:05:35.35,0:05:37.15,Default,,0,0,0,,Kita seharusnya memberikan itu pada mereka.
+Dialogue: 0,0:05:37.25,0:05:39.00,Default,,0,0,0,,- Jangan hanya...\N- Oh, ya Tuhan!
+Dialogue: 0,0:05:39.12,0:05:41.28,Default,,0,0,0,,Tukar posisi!
+Dialogue: 0,0:05:42.27,0:05:43.75,Default,,0,0,0,,Tahan, tahan.
+Dialogue: 0,0:05:43.77,0:05:47.47,Default,,0,0,0,,--Subtitles by iamtheflash-- intermilan memang anjing
+Dialogue: 0,0:05:50.70,0:05:53.36,Default,,0,0,0,,Makasih.
+Dialogue: 0,0:05:53.99,0:05:55.65,Default,,0,0,0,,Earn, kau harus berdiri disana, dude.
+Dialogue: 0,0:05:55.67,0:05:56.80,Default,,0,0,0,,Earn.
+Dialogue: 0,0:05:56.83,0:05:58.25,Default,,0,0,0,,- Earn, jangan hanya berdiri saja.\N- Earn.
+Dialogue: 0,0:06:00.50,0:06:01.83,Default,,0,0,0,,Apa yang kamu... whoa, whoa. Whoa.
+Dialogue: 0,0:06:01.84,0:06:03.45,Default,,0,0,0,,Whoa. Itu sinting banget.
+Dialogue: 0,0:06:03.48,0:06:05.07,Default,,0,0,0,,Bagaimana caramu melakukan itu?
+Dialogue: 0,0:06:06.28,0:06:07.58,Default,,0,0,0,,Aku hanya menaruh...
+Dialogue: 0,0:06:07.76,0:06:09.08,Default,,0,0,0,,Aku hanya menaruh bola-bola itu\Ndan memasukkannya kedalam kendi.
+Dialogue: 0,0:06:09.18,0:06:10.61,Default,,0,0,0,,Shh, no, no. No, tunggu.
+Dialogue: 0,0:06:11.29,0:06:13.00,Default,,0,0,0,,Aku cukup sering memainkan Hootz-Kutz
+Dialogue: 0,0:06:13.04,0:06:14.75,Default,,0,0,0,,sejak aku masih kecil, dan aku gak...
+Dialogue: 0,0:06:14.75,0:06:16.41,Default,,0,0,0,,Aku nggak pernah melihat orang melakukan itu.
+Dialogue: 0,0:06:16.86,0:06:19.11,Default,,0,0,0,,- Shit, dude.
+Dialogue: 0,0:06:20.87,0:06:23.87,Default,,0,0,0,,Nggak, serius, man.\NGimana-gimana caramu melakukannya?
+Dialogue: 0,0:06:26.00,0:06:28.79,Default,,0,0,0,,Aku hanya menahan bola-bola itu\Ndan-dan memasukkannya kedalam kendi.
+Dialogue: 0,0:06:33.02,0:06:35.02,Default,,0,0,0,,Oh, ya Tuhanku.
+Dialogue: 0,0:06:40.28,0:06:43.05,Default,,0,0,0,,Earnest{\i1} "Halten"{\i} Marks!
+Dialogue: 0,0:06:43.09,0:06:44.91,Default,,0,0,0,,Berikan hadiahnya pada Earn!
+Dialogue: 0,0:06:51.10,0:06:52.69,Default,,0,0,0,,Earn! Earn!
+Dialogue: 0,0:06:52.71,0:06:55.28,Default,,0,0,0,,Earn! Earn! Earn! Earn! Earn!
+Dialogue: 0,0:07:01.86,0:07:03.29,Default,,0,0,0,,Apa tu{\i1} "halten"?{\i}
+Dialogue: 0,0:07:03.31,0:07:04.87,Default,,0,0,0,,Itu artinya "yang menaruh."
+Dialogue: 0,0:07:04.90,0:07:06.77,Default,,0,0,0,,Kamu benar-benar perlu belajar tentang kebiasaan di Jerman.
+Dialogue: 0,0:07:06.79,0:07:09.24,Default,,0,0,0,,Yeah, Aku tahu. Itu sangat berguna.
+Dialogue: 0,0:07:10.22,0:07:12.29,Default,,0,0,0,,Kamu beruntung aja disana tadi.
+Dialogue: 0,0:07:12.31,0:07:14.31,Default,,0,0,0,,Kamu harus mendengarkanku lain kali.
+Dialogue: 0,0:07:14.56,0:07:16.91,Default,,0,0,0,,Kamu mulai terdengar seperti bapaknya Serena William.
+Dialogue: 0,0:07:17.09,0:07:18.44,Default,,0,0,0,,Halo.
+Dialogue: 0,0:07:18.46,0:07:20.03,Default,,0,0,0,,Apa yang bisa kuambilkan?
+Dialogue: 0,0:07:20.05,0:07:21.08,Default,,0,0,0,,- Wow.\N- Uh...
+Dialogue: 0,0:07:21.19,0:07:23.15,Default,,0,0,0,,(ngebacot jerman)
+Dialogue: 0,0:07:23.25,0:07:26.76,Default,,0,0,0,,(masih ngebacot jerman, jangan salahin unda lah, kada ngerti jua nih)
+Dialogue: 0,0:07:27.22,0:07:29.02,Default,,0,0,0,,- (masih ngebacot jerman)\N- Nggak.
+Dialogue: 0,0:07:29.13,0:07:31.16,Default,,0,0,0,,Okay. (bacooooootttt jerman)
+Dialogue: 0,0:07:31.26,0:07:33.13,Default,,0,0,0,,(hahahaha... kada ngerti ulun wa ae)
+Dialogue: 0,0:07:33.84,0:07:35.00,Default,,0,0,0,,Apa kamu mengerti obrolan kami?
+Dialogue: 0,0:07:35.10,0:07:36.93,Default,,0,0,0,,Nggak.
+Dialogue: 0,0:07:37.23,0:07:38.19,Default,,0,0,0,,Okay.
+Dialogue: 0,0:07:38.22,0:07:42.14,Default,,0,0,0,,(bacot jerman lagi)
+Dialogue: 0,0:07:42.24,0:07:44.17,Default,,0,0,0,,Topengnya, mungkin...?
+Dialogue: 0,0:07:44.28,0:07:45.98,Default,,0,0,0,,Mm... yeah.
+Dialogue: 0,0:07:46.08,0:07:47.08,Default,,0,0,0,,(cot bacot jerman)
+Dialogue: 0,0:07:47.18,0:07:51.75,Default,,0,0,0,,(bacooottt jerman)
+Dialogue: 0,0:07:57.19,0:08:00.02,Default,,0,0,0,,Ding, ding. Gimana dengan pelayanannya?
+Dialogue: 0,0:08:00.12,0:08:02.02,Default,,0,0,0,,(hahaha)
+Dialogue: 0,0:08:02.55,0:08:04.01,Default,,0,0,0,,Wow.
+Dialogue: 0,0:08:05.33,0:08:09.00,Default,,0,0,0,,(bacot jerman)
+Dialogue: 0,0:08:14.47,0:08:15.58,Default,,0,0,0,,Nih.
+Dialogue: 0,0:08:43.29,0:08:44.95,Default,,0,0,0,,Disana selalu banyak cewek-cewek, man.
+Dialogue: 0,0:08:45.04,0:08:46.67,Default,,0,0,0,,Aku tahu, tapi...
+Dialogue: 0,0:08:49.07,0:08:50.72,Default,,0,0,0,,Tapi gimana kamu bisa\Ntahu apa yang kamu mau
+Dialogue: 0,0:08:50.75,0:08:51.71,Default,,0,0,0,,dari sisa umurmu sekarang?
+Dialogue: 0,0:08:51.74,0:08:53.01,Default,,0,0,0,,Kadang-kadang aku merasa seperti\Ndia ingin aku mengalah.
+Dialogue: 0,0:08:53.11,0:08:55.80,Default,,0,0,0,,Maksudku, seperti saat ini,\Nini seperti bukan diriku. Maksudku, ini seperti...
+Dialogue: 0,0:08:55.83,0:08:58.00,Default,,0,0,0,,Kau tahulah, Aku nggak ngerti, mungkin dia ingin
+Dialogue: 0,0:08:58.08,0:08:59.88,Default,,0,0,0,,seseorang yang bisa berbahasa jerman.\NKau tahulah maksudku...
+Dialogue: 0,0:08:59.99,0:09:03.62,Default,,0,0,0,,Seseorang yang bisa menikmati menari dengan musik polka.
+Dialogue: 0,0:09:03.72,0:09:05.05,Default,,0,0,0,,Aku bukan orang seperti itu dude.
+Dialogue: 0,0:09:05.16,0:09:08.50,Default,,0,0,0,,Aku-aku nggak ngerti kenapa dia mau aku\Nuntuk berpura-pura menjadi sosok seperti itu dude.
+Dialogue: 0,0:09:08.54,0:09:11.87,Default,,0,0,0,,Well, dia hanya, kau tahulah,\Ningin menghabiskan waktu bersama-sama denganmu,
+Dialogue: 0,0:09:12.00,0:09:13.96,Default,,0,0,0,,dan itu yang biasanya dilakukan cewek\Njika mereka sangat menyukaimu.
+Dialogue: 0,0:09:13.99,0:09:15.66,Default,,0,0,0,,Mereka hanya ingin terus memutar hidup mereka denganmu.
+Dialogue: 0,0:09:15.66,0:09:17.12,Default,,0,0,0,,Dengan begitu, akan sulit untuk terpisahkan.
+Dialogue: 0,0:09:17.15,0:09:18.08,Default,,0,0,0,,- Hai.\N- Hai.
+Dialogue: 0,0:09:18.10,0:09:20.94,Default,,0,0,0,,Um, jadi, laki-laki akan menari selama tiga menit.
+Dialogue: 0,0:09:21.04,0:09:22.66,Default,,0,0,0,,Kamu mau mencoba untuk melakukan beberapa gerakan?
+Dialogue: 0,0:09:22.68,0:09:25.64,Default,,0,0,0,,Yeah, sebenarnya, aku perlu bicara denganmu sebentar.
+Dialogue: 0,0:09:25.74,0:09:27.74,Default,,0,0,0,,Okay.
+Dialogue: 0,0:09:35.71,0:09:36.85,Default,,0,0,0,,Ping-Pong.
+Dialogue: 0,0:09:36.87,0:09:40.95,Default,,0,0,0,,Nggak. Ini jelas sebuah permainan tradisional pingpong...
+Dialogue: 0,0:09:40.99,0:09:42.16,Default,,0,0,0,,- tablisch... {\i1}\N- Tischtennisplatte.{\i}  -Subtitles by iamtheflash-
+Dialogue: 0,0:09:42.26,0:09:45.56,Default,,0,0,0,,- Yeah, Itulah maksudku.\N- Mm-hmm.
+Dialogue: 0,0:09:45.58,0:09:46.68,Default,,0,0,0,,Yeah, Aku hanya berpikir
+Dialogue: 0,0:09:46.70,0:09:48.44,Default,,0,0,0,,kita dapat sedikit meluangkan waktu untuk\Nmain satu lawan satu bersama.
+Dialogue: 0,0:09:49.58,0:09:52.25,Default,,0,0,0,,Bisakah kita meluangkan sedikit waktu\Nuntuk menari satu lawan satu?
+Dialogue: 0,0:09:52.86,0:09:54.70,Default,,0,0,0,,Ayolah sekali main saja.
+Dialogue: 0,0:09:54.73,0:09:58.36,Default,,0,0,0,,Ayolah. Cuma ini\Nsatu-satunya permainan kulit putih yang aku tahu.
+Dialogue: 0,0:10:00.83,0:10:04.46,Default,,0,0,0,,Okay. Satu kali main ya.
+Dialogue: 0,0:10:04.49,0:10:06.35,Default,,0,0,0,,Jika aku menang,
+Dialogue: 0,0:10:06.95,0:10:08.65,Default,,0,0,0,,tidak ada lagi kata mengeluh.
+Dialogue: 0,0:10:08.75,0:10:10.32,Default,,0,0,0,,Kita menari
+Dialogue: 0,0:10:10.35,0:10:13.79,Default,,0,0,0,,dan namaku ada di\Ndepan piala itu.
+Dialogue: 0,0:10:14.20,0:10:15.43,Default,,0,0,0,,- Cukup adil.\N- Okay.
+Dialogue: 0,0:10:15.45,0:10:17.50,Default,,0,0,0,,- Dan jika aku menang...\N- Mm...
+Dialogue: 0,0:10:17.52,0:10:19.41,Default,,0,0,0,,- Ayolah.\N- Oh.
+Dialogue: 0,0:10:19.43,0:10:21.12,Default,,0,0,0,,- Mm, mm. Mm-hmm.\N- Okay, well,
+Dialogue: 0,0:10:21.15,0:10:23.04,Default,,0,0,0,,jangan kecewa kalo kamu nanti\Nada di posisi ngeseks yang aneh.
+Dialogue: 0,0:10:23.07,0:10:24.93,Default,,0,0,0,,Kamu mau pemanasan? Ayolah.
+Dialogue: 0,0:10:25.04,0:10:26.84,Default,,0,0,0,,Mulai. Poin tiga menang yah.
+Dialogue: 0,0:10:26.94,0:10:27.90,Default,,0,0,0,,Siap?
+Dialogue: 0,0:10:28.01,0:10:30.54,Default,,0,0,0,,- Okay.\N- Siap?
+Dialogue: 0,0:10:33.08,0:10:35.12,Default,,0,0,0,,Sayang, aku pikir kamu main duluan.
+Dialogue: 0,0:10:35.15,0:10:36.85,Default,,0,0,0,,Yeah, okay.
+Dialogue: 0,0:10:36.95,0:10:38.25,Default,,0,0,0,,Ayolah.
+Dialogue: 0,0:10:38.69,0:10:41.05,Default,,0,0,0,,Ayo, Serena. Coba\Ntrik itu. Ya seperti itu.
+Dialogue: 0,0:10:52.91,0:10:54.00,Default,,0,0,0,,ANCUK.
+Dialogue: 0,0:10:54.10,0:10:57.00,Default,,0,0,0,,Itu sudah dua dari tiga poin sayang.
+Dialogue: 0,0:10:57.10,0:10:59.07,Default,,0,0,0,,- Mm-hmm. Ayolah.
+Dialogue: 0,0:10:59.78,0:11:02.03,Default,,0,0,0,,Ayo menari. Ini sudah di titik tanding.
+Dialogue: 0,0:11:02.05,0:11:04.25,Default,,0,0,0,,Kenapa kamu bersikap seperti itu?
+Dialogue: 0,0:11:05.04,0:11:07.00,Default,,0,0,0,,Apa sih yang kamu\Nomongin ini? Ini idemu juga.
+Dialogue: 0,0:11:07.34,0:11:08.26,Default,,0,0,0,,Yeah, tapi ketika kita main basket,
+Dialogue: 0,0:11:08.28,0:11:10.81,Default,,0,0,0,,Aku tidak langsung mengalahkanmu\Ndi hadapan semua orang.
+Dialogue: 0,0:11:13.09,0:11:15.72,Default,,0,0,0,,Gak ada orang disini.\NMereka semua menari di dalam.
+Dialogue: 0,0:11:18.16,0:11:19.79,Default,,0,0,0,,Oh, Tuhanku.
+Dialogue: 0,0:11:22.15,0:11:24.28,Default,,0,0,0,,Aku minta maaf. Apa dia disitu sejak tadi?
+Dialogue: 0,0:11:24.76,0:11:26.91,Default,,0,0,0,,Dia  berdiri dibelakangku?
+Dialogue: 0,0:11:29.12,0:11:30.90,Default,,0,0,0,,Ayo masuk. Ayolah. Kau sudah kalah. Ayo masuk.
+Dialogue: 0,0:11:31.00,0:11:32.74,Default,,0,0,0,,Aku-aku lagi gak mood.
+Dialogue: 0,0:11:35.84,0:11:37.54,Default,,0,0,0,,Seriusan?
+Dialogue: 0,0:11:39.00,0:11:41.26,Default,,0,0,0,,Bangsat, kamu jadi kekanakan gini.
+Dialogue: 0,0:11:41.83,0:11:45.08,Default,,0,0,0,,Baiklah. Aku akan bangsat seperti itu jika memang harus.
+Dialogue: 0,0:11:45.10,0:11:46.23,Default,,0,0,0,,Ini ciri khas.
+Dialogue: 0,0:11:46.25,0:11:49.70,Default,,0,0,0,,- Terserahlah.\N- Tunggu. Bentar dulu. Aku minta maaf. Apa?
+Dialogue: 0,0:11:49.72,0:11:51.88,Default,,0,0,0,,Aku mau bilang aku akan bersikap bangsat seperti itu jika memang harus.
+Dialogue: 0,0:11:51.95,0:11:54.20,Default,,0,0,0,,Kamu gak perlu untuk melakukan omong kosong itu.
+Dialogue: 0,0:11:54.91,0:11:56.96,Default,,0,0,0,,Kita melakukan omong kosong bangsatmu terus selama ini.
+Dialogue: 0,0:11:56.98,0:11:58.18,Default,,0,0,0,,Kita pergi ke klub bugil.
+Dialogue: 0,0:11:58.21,0:12:00.29,Default,,0,0,0,,- Kamu suka kan pergi ke klub bugil.\N- Apa aku terlihat suka pergi ke klub bugil?
+Dialogue: 0,0:12:00.32,0:12:03.42,Default,,0,0,0,,Aku ini perempuan. Apa aku harus pergi\Nuntuk melihat semua pentil dan tetek bangsat itu?
+Dialogue: 0,0:12:03.45,0:12:04.70,Default,,0,0,0,,- Kenapa gak bilang kamu gak suka kesitu.\N- Nggak.
+Dialogue: 0,0:12:04.75,0:12:06.94,Default,,0,0,0,,- Kamu tidak menyukainya.\N- Aku hanya ingin menghabiskan waktuku denganmu.
+Dialogue: 0,0:12:06.95,0:12:08.04,Default,,0,0,0,,- Itu gak masalah untukku.\N- Well, Aku udah nyoba
+Dialogue: 0,0:12:08.10,0:12:10.60,Default,,0,0,0,,- untuk menghabiskan waktu tolol sama kamu.\N- Aku mau pergi menari.
+Dialogue: 0,0:12:10.62,0:12:12.46,Default,,0,0,0,,Itu sungguh goblok.
+Dialogue: 0,0:12:12.85,0:12:14.69,Default,,0,0,0,,Aku gak suka itu.
+Dialogue: 0,0:12:15.03,0:12:16.75,Default,,0,0,0,,Tapi gak bisakah kamu lakukan itu untuk aku?
+Dialogue: 0,0:12:17.81,0:12:19.72,Default,,0,0,0,,Aku tidak berusaha pergi\Nke konser bangsat Alfred
+Dialogue: 0,0:12:19.82,0:12:20.82,Default,,0,0,0,,setiap minggu. Bangsat.
+Dialogue: 0,0:12:20.92,0:12:21.95,Default,,0,0,0,,Aku tidak akan membuang waktu untuk omong kosong itu.
+Dialogue: 0,0:12:22.05,0:12:23.82,Default,,0,0,0,,Bangsat, hal itu yang jadi uang untuk membayar tagihan goblokmu.
+Dialogue: 0,0:12:26.91,0:12:27.82,Default,,0,0,0,,Wow.
+Dialogue: 0,0:12:27.84,0:12:29.09,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:12:35.79,0:12:38.71,Default,,0,0,0,,Kamu betul-betul jahat, man.
+Dialogue: 0,0:12:49.16,0:12:50.58,Default,,0,0,0,,ANCOK KOWE/ BANGSAT KAMU CUK.
+Dialogue: 0,0:12:53.91,0:12:56.70,Default,,0,0,0,,♪ One: don't pick up the phone,\Nyou know he's only calling ♪
+Dialogue: 0,0:12:56.75,0:12:58.29,Default,,0,0,0,,♪ 'Cause he's drunk and alone ♪
+Dialogue: 0,0:13:00.00,0:13:01.47,Default,,0,0,0,,Kemana Earn pergi?
+Dialogue: 0,0:13:01.79,0:13:05.16,Default,,0,0,0,,Ugh. Dia jadi kekanakan.
+Dialogue: 0,0:13:05.24,0:13:08.01,Default,,0,0,0,,Aku gak ngerti apa yang...
+Dialogue: 0,0:13:08.57,0:13:09.74,Default,,0,0,0,,dia mau dariku.
+Dialogue: 0,0:13:09.76,0:13:11.33,Default,,0,0,0,,- Christina. Oh, Tuhanku.\N- Oh! Hai.
+Dialogue: 0,0:13:11.37,0:13:13.56,Default,,0,0,0,,- Gimana kabarmu, Flo?\N- Senang melihatmu lagi. Bagus sekali!
+Dialogue: 0,0:13:13.58,0:13:15.25,Default,,0,0,0,,- Senang melihatmu disini.\N- Ada apa?
+Dialogue: 0,0:13:15.25,0:13:16.71,Default,,0,0,0,,Oh, macam-macam lah.
+Dialogue: 0,0:13:16.75,0:13:18.62,Default,,0,0,0,,- Yeah?\N- Aku tahu. Senang bertemu denganmu.
+Dialogue: 0,0:13:18.62,0:13:21.12,Default,,0,0,0,,- Senang juga bertemu denganmu.\N- Apa kamu melihat Jen disini?
+Dialogue: 0,0:13:21.16,0:13:22.67,Default,,0,0,0,,Ingat samar-samar sih. Aku pikir aku melihatnya.
+Dialogue: 0,0:13:22.69,0:13:24.36,Default,,0,0,0,,- Oh, Tuhanku.\N- Oh! Oh.
+Dialogue: 0,0:13:24.39,0:13:27.45,Default,,0,0,0,,Ini Flo. Flo, ini ibunya Lottie.
+Dialogue: 0,0:13:28.01,0:13:28.95,Default,,0,0,0,,Oh, Tuhanku.
+Dialogue: 0,0:13:28.97,0:13:30.73,Default,,0,0,0,,Senangnya akhirnya bertemu denganmu.
+Dialogue: 0,0:13:30.75,0:13:33.31,Default,,0,0,0,,- Mm-hmm.\N- Kai naksir Lottie.
+Dialogue: 0,0:13:33.34,0:13:35.94,Default,,0,0,0,,Dia hanya terlalu sopan dan\Nmanis saat dia berada di rumah kami.
+Dialogue: 0,0:13:35.96,0:13:37.78,Default,,0,0,0,,- Oh. Dia jauh lebih baik.
+Dialogue: 0,0:13:37.99,0:13:39.89,Default,,0,0,0,,Uh, hai. aku Tek.
+Dialogue: 0,0:13:39.92,0:13:41.61,Default,,0,0,0,,- Senang bertemu denganmu.\N- Sama-sama.
+Dialogue: 0,0:13:41.64,0:13:43.41,Default,,0,0,0,,Sayang, ini ibunya Lottie.
+Dialogue: 0,0:13:44.45,0:13:46.79,Default,,0,0,0,,- Oke. Okay, ceweknya Earn.\N- Yes.
+Dialogue: 0,0:13:46.79,0:13:48.62,Default,,0,0,0,,- Yes.\N- Yap. Yeah, Aku banyak dengar tentang kamu.
+Dialogue: 0,0:13:48.65,0:13:50.04,Default,,0,0,0,,Kau tahu, Earn membuat\Nbeberapa gerakan yang keren
+Dialogue: 0,0:13:50.07,0:13:52.95,Default,,0,0,0,,bersama Paper Boi. Orang-orang sangat menyukainya.
+Dialogue: 0,0:13:52.98,0:13:53.88,Default,,0,0,0,,- Makasih.\N- Jadi...
+Dialogue: 0,0:13:53.90,0:13:55.16,Default,,0,0,0,,Tek mendengar semua teh di label.
+Dialogue: 0,0:13:55.25,0:13:56.20,Default,,0,0,0,,Yeah, teh yang sangat banyak.
+Dialogue: 0,0:13:56.33,0:13:58.93,Default,,0,0,0,,Aku menangani perilisannya.
+Dialogue: 0,0:13:58.96,0:14:00.52,Default,,0,0,0,,Jadi, kamu bekerja bersama Earn,
+Dialogue: 0,0:14:00.55,0:14:02.51,Default,,0,0,0,,atau kamu seorang artis?
+Dialogue: 0,0:14:03.04,0:14:06.04,Default,,0,0,0,,Nggak, Aku tidak lagi berada diantara\Nkedua hal itu sekarang.
+Dialogue: 0,0:14:06.14,0:14:08.10,Default,,0,0,0,,Aku hampir selalu ada di rumah.
+Dialogue: 0,0:14:08.12,0:14:09.83,Default,,0,0,0,,Oh, dia jadi seorang guru.
+Dialogue: 0,0:14:09.88,0:14:12.12,Default,,0,0,0,,- Oh, bagus itu.\N- Yeah.
+Dialogue: 0,0:14:12.14,0:14:13.28,Default,,0,0,0,,Kamu sangat beruntung.
+Dialogue: 0,0:14:13.85,0:14:16.16,Default,,0,0,0,,- Makasih.\N- Yeah.
+Dialogue: 0,0:14:19.38,0:14:20.83,Default,,0,0,0,,Sayang. Ada apa?
+Dialogue: 0,0:14:20.86,0:14:22.05,Default,,0,0,0,,- Tunggu. T-t-tunggu.\N- Aku butuh minum.
+Dialogue: 0,0:14:22.15,0:14:23.15,Default,,0,0,0,,Nggak. Nggak, nggak, nggak.
+Dialogue: 0,0:14:23.25,0:14:24.29,Default,,0,0,0,,Mari-mari duduk dulu.
+Dialogue: 0,0:14:24.39,0:14:26.09,Default,,0,0,0,,Ayo dud... Nggak, nggak, nggak, serius.
+Dialogue: 0,0:14:26.19,0:14:28.46,Default,,0,0,0,,Ayolah. Duduk dulu.
+Dialogue: 0,0:14:28.49,0:14:31.06,Default,,0,0,0,,Aku baik-baik saja.
+Dialogue: 0,0:14:32.24,0:14:33.61,Default,,0,0,0,,Ada apa sih?
+Dialogue: 0,0:14:35.25,0:14:37.00,Default,,0,0,0,,Aku gak ngerti kenapa kamu\Nharus memperkenalkanku
+Dialogue: 0,0:14:37.03,0:14:38.56,Default,,0,0,0,,sebagai ibunya Lottie.
+Dialogue: 0,0:14:38.59,0:14:40.96,Default,,0,0,0,,- Kau tahu nama depanku.\N- Yeah, tapi...
+Dialogue: 0,0:14:41.00,0:14:42.10,Default,,0,0,0,,Dan itu bukan semua yang aku mau
+Dialogue: 0,0:14:42.12,0:14:44.45,Default,,0,0,0,,di sisa hidupku, menjadi ibunya Lottie.
+Dialogue: 0,0:14:44.45,0:14:47.79,Default,,0,0,0,,Tentu saja tidak. Aku tahu itu.
+Dialogue: 0,0:14:47.82,0:14:49.99,Default,,0,0,0,,Tapi kamu membuat omong kosong itu terlihat baik.
+Dialogue: 0,0:14:50.02,0:14:52.95,Default,,0,0,0,,Seperti, itu berbeda untukmu.
+Dialogue: 0,0:14:52.97,0:14:55.01,Default,,0,0,0,,Apa yang kau... Apa maksudmu?
+Dialogue: 0,0:14:55.03,0:14:56.22,Default,,0,0,0,,Kau tahu, itu seperti sesuatu
+Dialogue: 0,0:14:56.32,0:14:59.12,Default,,0,0,0,,yang lebih kamu persiapkan.
+Dialogue: 0,0:15:00.32,0:15:01.83,Default,,0,0,0,,Subtitles by iamtheflash
+Dialogue: 0,0:15:01.85,0:15:03.79,Default,,0,0,0,,- Apa sih maksudmu?\N- Karena...
+Dialogue: 0,0:15:04.98,0:15:07.98,Default,,0,0,0,,kamu tahu, seperti kamu memilih Earn.
+Dialogue: 0,0:15:08.17,0:15:10.10,Default,,0,0,0,,Aku memilih Dave.
+Dialogue: 0,0:15:13.98,0:15:15.15,Default,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:15:15.44,0:15:17.24,Default,,0,0,0,,Yeah, seperti saat kita masih kecil.
+Dialogue: 0,0:15:17.27,0:15:19.13,Default,,0,0,0,,Seperti aku memilih kulit putih.
+Dialogue: 0,0:15:19.15,0:15:20.95,Default,,0,0,0,,Kamu memilih kulit hitam. Seperti itu...
+Dialogue: 0,0:15:21.31,0:15:23.18,Default,,0,0,0,,Okay.
+Dialogue: 0,0:15:23.97,0:15:25.91,Default,,0,0,0,,- Nggak.\N- Kamu... Yeah.
+Dialogue: 0,0:15:25.93,0:15:28.47,Default,,0,0,0,,Aku tidak memilih kulit hitam.
+Dialogue: 0,0:15:30.14,0:15:32.27,Default,,0,0,0,,Ya, kamu memilihnya.
+Dialogue: 0,0:15:32.78,0:15:34.86,Default,,0,0,0,,Kamu tidak pernah keluar bersamaku dan Melanie
+Dialogue: 0,0:15:34.87,0:15:35.95,Default,,0,0,0,,ketika kami mengajakmu.
+Dialogue: 0,0:15:36.09,0:15:38.35,Default,,0,0,0,,Dan kamu hanya mau pergi ke pesta orang kulit hitam saja.
+Dialogue: 0,0:15:38.38,0:15:39.48,Default,,0,0,0,,Maksudku...
+Dialogue: 0,0:15:39.90,0:15:41.58,Default,,0,0,0,,itu seperti kamu butuh identitas itu.
+Dialogue: 0,0:15:41.60,0:15:42.83,Default,,0,0,0,,Yeah, tapi kamu...
+Dialogue: 0,0:15:42.93,0:15:45.70,Default,,0,0,0,,Tapi Melanie tidak pernah bersikap baik padaku.
+Dialogue: 0,0:15:46.73,0:15:47.79,Default,,0,0,0,,Well, maksudku,
+Dialogue: 0,0:15:47.81,0:15:49.73,Default,,0,0,0,,kamu tidak pernah mengundangku ke pestamu.
+Dialogue: 0,0:15:49.84,0:15:51.94,Default,,0,0,0,,Itu karena, um,
+Dialogue: 0,0:15:52.14,0:15:56.29,Default,,0,0,0,,kamu selalu bersikap seperti\Nkamu lebih baik daripada kami,
+Dialogue: 0,0:15:56.32,0:15:58.76,Default,,0,0,0,,dan kamu menjadikan kami kaki tangan
+Dialogue: 0,0:15:58.78,0:16:01.74,Default,,0,0,0,,dan mengatakan omong kosong seperti, "Aku\Nberharap rambutku keriting."
+Dialogue: 0,0:16:01.76,0:16:04.30,Default,,0,0,0,,Yang mana sering kamu lakukan. Kamu\Nhanya... kamu meluruskannya.
+Dialogue: 0,0:16:04.33,0:16:06.83,Default,,0,0,0,,- Jadi itu, terlihat aneh untuk... itu aneh untuk dikatakan.
+Dialogue: 0,0:16:06.86,0:16:09.25,Default,,0,0,0,,- Kau tahu maksudku?\N- Aku tidak, dan aku berpikir
+Dialogue: 0,0:16:09.28,0:16:09.96,Default,,0,0,0,,- kamu sudah pergi terlalu jauh.\N- Apa?
+Dialogue: 0,0:16:09.99,0:16:11.53,Default,,0,0,0,,- Serius?\N- Kau benar-benar mengatakannya padaku
+Dialogue: 0,0:16:11.55,0:16:13.53,Default,,0,0,0,,jika aku akan menjadi seorang "baby mama",
+Dialogue: 0,0:16:13.56,0:16:15.50,Default,,0,0,0,,dan itu terlihat oke karena aku "memilih kulit hitam."
+Dialogue: 0,0:16:15.53,0:16:16.41,Default,,0,0,0,,Well, tentu saja...
+Dialogue: 0,0:16:16.41,0:16:17.31,Default,,0,0,0,,- Serius kamu?\N- Sayang!
+Dialogue: 0,0:16:17.33,0:16:18.70,Default,,0,0,0,,Sayang, kita menang!
+Dialogue: 0,0:16:18.78,0:16:21.70,Default,,0,0,0,,- Mau nggak fotoin bentar? Hp-ku mati.\N- Yeah.
+Dialogue: 0,0:16:21.79,0:16:23.30,Default,,0,0,0,,- Yay.
+Dialogue: 0,0:16:23.44,0:16:25.94,Default,,0,0,0,,Shit. Aku tidak tahu dimana hp-ku.
+Dialogue: 0,0:16:26.42,0:16:27.46,Default,,0,0,0,,Aku pikir aku membawanya.
+Dialogue: 0,0:16:27.48,0:16:28.91,Default,,0,0,0,,- Aku memang membawanya.\N- Beneran? Serius?
+Dialogue: 0,0:16:29.01,0:16:31.16,Default,,0,0,0,,- Yeah.\N- Apakah seseorang terkena Schnapped?
+Dialogue: 0,0:16:31.19,0:16:32.98,Default,,0,0,0,,-Subtitles by iamtheflash-
+Dialogue: 0,0:16:33.36,0:16:35.81,Default,,0,0,0,,Sekarang adalah saat yang mengasyikkan.
+Dialogue: 0,0:16:35.92,0:16:36.98,Default,,0,0,0,,Siapa disini yang sudah di curi
+Dialogue: 0,0:16:37.01,0:16:39.25,Default,,0,0,0,,- oleh{\i1} Schnappviecher?{\i}\N- Disini!
+Dialogue: 0,0:16:39.36,0:16:40.58,Default,,0,0,0,,Disini!
+Dialogue: 0,0:16:40.69,0:16:42.59,Default,,0,0,0,,{\i1}Wudeljagd!{\i}
+Dialogue: 0,0:16:44.66,0:16:46.23,Default,,0,0,0,,{\i1}Wudeljagd!{\i}
+Dialogue: 0,0:16:47.96,0:16:51.60,Default,,0,0,0,,{\i1}Wudeljagd, Wudeljagd!{\i}
+Dialogue: 0,0:16:53.00,0:16:56.43,Default,,0,0,0,,{\i1}Wudeljagd, Wudeljagd, Wudeljagd!{\i}
+Dialogue: 0,0:16:59.50,0:18:01.25,Default,,0,0,0,,_ --Subtitles by iamtheflash--
+Dialogue: 0,0:18:09.45,0:18:10.58,Default,,0,0,0,,Okay.
+Dialogue: 0,0:18:47.23,0:18:49.13,Default,,0,0,0,,Helo?
+Dialogue: 0,0:18:58.50,0:19:00.21,Default,,0,0,0,,Hai.
+Dialogue: 0,0:19:54.78,0:19:56.20,Default,,0,0,0,,Kau menemukannya?
+Dialogue: 0,0:19:58.11,0:19:59.43,Default,,0,0,0,,Uh-huh.
+Dialogue: 0,0:19:59.87,0:20:02.95,Default,,0,0,0,,Vanessa Keifer\Nadalah pejuang tahun ini!
+Dialogue: 0,0:20:22.34,0:20:24.09,Default,,0,0,0,,Kamu mau tanding ulang?
+Dialogue: 0,0:20:27.00,0:20:28.91,Default,,0,0,0,,Apa yang kamu mau?
+Dialogue: 0,0:20:31.20,0:20:33.37,Default,,0,0,0,,Tanding ulang.
+Dialogue: 0,0:20:34.43,0:20:37.14,Default,,0,0,0,,Maksudku di dalam hubungan kita.
+Dialogue: 0,0:20:39.52,0:20:41.17,Default,,0,0,0,,Ini terasa seperti jebakan.
+Dialogue: 0,0:20:41.19,0:20:43.46,Default,,0,0,0,,Ini bukan jebakan.
+Dialogue: 0,0:20:44.71,0:20:47.35,Default,,0,0,0,,Tidak ada omong kosong. Apa yang kamu inginkan?
+Dialogue: 0,0:20:54.63,0:20:56.22,Default,,0,0,0,,Kamu mau aku pergi lebih dulu?
+Dialogue: 0,0:20:56.32,0:20:58.19,Default,,0,0,0,,Silahkan.
+Dialogue: 0,0:20:58.29,0:21:00.29,Default,,0,0,0,,Aku ingin...
+Dialogue: 0,0:21:00.45,0:21:02.58,Default,,0,0,0,,ada komitmen dalam hubungan
+Dialogue: 0,0:21:03.57,0:21:05.12,Default,,0,0,0,,dimana aku dihargai sebagai manusia
+Dialogue: 0,0:21:05.15,0:21:08.48,Default,,0,0,0,,dan bukan seperti aksesoris\Nyang bisa kamu kentot terus. (pakek ndro, biyarin)
+Dialogue: 0,0:21:14.45,0:21:16.50,Default,,0,0,0,,Itu jawaban yang baik.
+Dialogue: 0,0:21:18.67,0:21:20.49,Default,,0,0,0,,Um...
+Dialogue: 0,0:21:22.97,0:21:25.27,Default,,0,0,0,,Aku tidak tahu apa yang aku mau. Aku...
+Dialogue: 0,0:21:25.58,0:21:29.99,Default,,0,0,0,,Aku tahu ini... aturan ini baik untukku.
+Dialogue: 0,0:21:34.00,0:21:36.19,Default,,0,0,0,,Jadi baik untukmu.
+Dialogue: 0,0:21:38.31,0:21:40.83,Default,,0,0,0,,Jadi, kamu tidak ingin mengubah yang lain?
+Dialogue: 0,0:21:43.35,0:21:46.07,Default,,0,0,0,,Ini sangat jelas seperti sebuah jebakan.
+Dialogue: 0,0:21:47.96,0:21:50.98,Default,,0,0,0,,Aku tidak ingin terus-terusan\Nngobrolin ini.
+Dialogue: 0,0:21:52.25,0:21:53.54,Default,,0,0,0,,Aku benar-benar lelah.
+Dialogue: 0,0:21:53.57,0:21:56.27,Default,,0,0,0,,Well, kita tidak harus\Nterus ngobrolin ini sekarang.
+Dialogue: 0,0:21:56.30,0:21:57.43,Default,,0,0,0,,Kita bisa ngobrolin ini besok pagi.
+Dialogue: 0,0:21:57.45,0:22:00.47,Default,,0,0,0,,Well, Aku tidak ingin terus\Nmenunggu untukmu.
+Dialogue: 0,0:22:02.54,0:22:05.50,Default,,0,0,0,,Dan aku tidak ingin kamu untuk\Nmembuang-buang semua waktumu.
+Dialogue: 0,0:22:11.39,0:22:13.23,Default,,0,0,0,,Kalau begitu mari kita selesaikan.
+Dialogue: 0,0:22:17.75,0:22:19.33,Default,,0,0,0,,Jika aku menang,
+Dialogue: 0,0:22:19.84,0:22:22.45,Default,,0,0,0,,kamu hanya akan melihatku jika\Nitu tentang Lottie atau uang.
+Dialogue: 0,0:22:22.86,0:22:24.76,Default,,0,0,0,,Bukan itu maksudku.
+Dialogue: 0,0:22:24.78,0:22:26.28,Default,,0,0,0,,Maka kalahkan aku.
+Dialogue: 0,0:22:29.18,0:22:31.45,Default,,0,0,0,,Aku tidak melihat apakah ini akan terbukti.
+Dialogue: 0,0:22:32.36,0:22:34.57,Default,,0,0,0,,Ini hanya membuktikan jika aku sudah lelah.
+Dialogue: 0,0:22:44.25,0:22:45.25,Default,,0,0,0,,Oke.
+Dialogue: 0,0:22:45.33,0:22:46.58,Default,,0,0,0,,Poin 5 menang ya.
+Dialogue: 0,0:23:15.92,0:23:19.22,Default,,0,0,0,,(Harry Belafonte - My Angel)
+Dialogue: 0,0:23:25.16,0:23:27.50,Default,,0,0,0,,♪ Malaika ♪
+Dialogue: 0,0:23:27.66,0:23:33.29,Default,,0,0,0,,♪ Nakupenda Malaika ♪
+Dialogue: 0,0:23:34.54,0:23:37.12,Default,,0,0,0,,♪ Malaika ♪
+Dialogue: 0,0:23:37.16,0:23:41.29,Default,,0,0,0,,♪ Nakupenda Malaika ♪
+Dialogue: 0,0:23:41.41,0:23:43.54,Default,,0,0,0,,♪ Ningekuoa ♪
+Dialogue: 0,0:23:43.66,0:23:46.25,Default,,0,0,0,,♪ Mali we ♪
+Dialogue: 0,0:23:46.37,0:23:50.45,Default,,0,0,0,,♪ Ningekuoa dada ♪
+Dialogue: 0,0:23:51.16,0:23:55.25,Default,,0,0,0,,♪ Nashindwa na mali sina we ♪
+Dialogue: 0,0:23:55.33,0:23:57.21,Default,,0,0,0,,♪ Ningekuoa ♪
+Dialogue: 0,0:23:57.29,0:23:59.92,Default,,0,0,0,,♪ Malaika ♪
+Dialogue: 0,0:24:00.37,0:24:04.29,Default,,0,0,0,,♪ Nashindwa na mali sina we ♪
+Dialogue: 0,0:24:04.41,0:24:07.20,Default,,0,0,0,,♪ Ningekuoa Malaika ♪
+Dialogue: 0,0:24:07.32,0:24:08.95,Default,,0,0,0,,Maaf.
+Dialogue: 0,0:24:11.83,0:24:13.91,Default,,0,0,0,,♪ Pesa ♪
+Dialogue: 0,0:24:13.95,0:24:17.62,Default,,0,0,0,,♪ Zasumbua roho yangu ♪
+Dialogue: 0,0:24:18.70,0:24:22.33,Default,,0,0,0,,Um, Aku akan menjemput Lottie\Ndari rumah ibuku.
+Dialogue: 0,0:24:23.01,0:24:24.08,Default,,0,0,0,,Besok.
+Dialogue: 0,0:24:24.12,0:24:26.70,Default,,0,0,0,,- ♪ Zasumbua roho yangu ♪\N- Dah.
+Dialogue: 0,0:24:27.79,0:24:30.54,Default,,0,0,0,,- ♪ Nami nifanyeje ♪\N- Dah.
+Dialogue: 0,0:24:30.70,0:24:32.03,Default,,0,0,0,,Oke. Dah.
+Dialogue: 0,0:24:32.54,0:24:35.29,Default,,0,0,0,,♪ Nashindwa na mali sina we ♪
+Dialogue: 0,0:24:35.33,0:24:40.96,Default,,0,0,0,,♪ Ningekuoa Malaika ♪
+Dialogue: 0,0:24:41.93,0:24:46.26,Default,,0,0,0,,♪ Nashindwa na mali sina we ♪
+Dialogue: 0,0:24:46.29,0:24:50.00,Default,,0,0,0,,♪ Ningekuoa Malaika ♪
+Dialogue: 0,0:24:50.02,0:24:52.56,Default,,0,0,0,,Subtitles by iamtheflash
+Dialogue: 0,0:24:52.58,0:24:55.25,Default,,0,0,0,,♪ Malaika ♪
+Dialogue: 0,0:24:55.33,0:25:01.16,Default,,0,0,0,,♪ Nakupenda Malaika ♪
+Dialogue: 0,0:25:01.29,0:25:04.33,Default,,0,0,0,,♪ Malaika ♪
+Dialogue: 0,0:25:04.41,0:25:08.97,Default,,0,0,0,,♪ Nakupenda Malaika ♪
+Dialogue: 0,0:25:09.00,0:25:12.58,Default,,0,0,0,,♪ Ningekuoa mali we ♪

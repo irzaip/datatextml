@@ -1,0 +1,83 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.125000
+Scroll Position: 362
+Active Line: 372
+Video Position: 37260
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:04:27.81,Default,,0,0,0,,{\fnCorbel\fs11\c&fff33&\3c&H000000&\pos(522,24.8)}*CROSS GENE - Touch It* 
+Dialogue: 0,0:00:00.00,0:04:27.81,Default,,0,0,0,,{\fnCorbel\fs11\c&H710FF7&\3c&H000000&\pos(568.889,44.689)}{\c&H710FF7&} {\3c&H000000&}SUB INDO BY ~ FANINDITA PUTRI  
+Dialogue: 0,0:00:20.00,0:00:21.99,Default,,0,0,0,,{\c&H000000&}Sepertinya aku sudah terpesona olehmu  
+Dialogue: 0,0:00:22.00,0:00:24.99,Default,,0,0,0,,{\c&H000000&}Rasanya seolah jantungku telah berhenti berdetak 
+Dialogue: 0,0:00:25.00,0:00:26.99,Default,,0,0,0,,{\c&H000000&}Sebentar saja, hanya sebentar saja  
+Dialogue: 0,0:00:27.00,0:00:29.99,Default,,0,0,0,,{\c&H000000&}Lihatlah diriku yang cemas ini  
+Dialogue: 0,0:00:30.00,0:00:31.99,Default,,0,0,0,,{\c&H000000&}Kau membuatku pusing  
+Dialogue: 0,0:00:32.00,0:00:34.99,Default,,0,0,0,,{\c&H000000&}Kau menempatkanku dalam suasana hati yang aneh  
+Dialogue: 0,0:00:35.00,0:00:36.99,Default,,0,0,0,,{\c&H000000&}Aku tak bisa bernafas, aku tak bisa bernafas  
+Dialogue: 0,0:00:37.00,0:00:38.99,Default,,0,0,0,,{\c&H000000&}Aku benar-benar ingin merasakanmu, girl  
+Dialogue: 0,0:00:39.00,0:00:41.99,Default,,0,0,0,,{\c&H000000&}Kulitmu yang lembut  
+Dialogue: 0,0:00:42.00,0:00:43.99,Default,,0,0,0,,{\c&H000000&}Rambutmu yang terurai  
+Dialogue: 0,0:00:44.00,0:00:45.99,Default,,0,0,0,,{\c&H000000&}mendekatlah sedikit lagi  
+Dialogue: 0,0:00:46.00,0:00:48.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu lagi  
+Dialogue: 0,0:00:49.00,0:00:51.99,Default,,0,0,0,,{\c&H000000&}Jangan merasa gugup, sayang  
+Dialogue: 0,0:00:52.00,0:00:53.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu  
+Dialogue: 0,0:00:55.00,0:00:56.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memilikimu  
+Dialogue: 0,0:00:58.00,0:01:00.99,Default,,0,0,0,,{\c&H000000&}Jangan menolaknya, sayang  
+Dialogue: 0,0:01:02.00,0:01:03.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu  
+Dialogue: 0,0:01:04.00,0:01:05.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memilikimu  
+Dialogue: 0,0:01:08.00,0:01:09.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:01:17.00,0:01:19.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:01:27.00,0:01:29.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:01:30.00,0:01:31.99,Default,,0,0,0,,{\c&H000000&}Kau bilang kau butuh waktu  
+Dialogue: 0,0:01:32.00,0:01:34.99,Default,,0,0,0,,{\c&H000000&}Kau bilang kau masih terlalu malu  
+Dialogue: 0,0:01:35.00,0:01:36.99,Default,,0,0,0,,{\c&H000000&}Berpura-pura seolah kau tak mengetahuinya 
+Dialogue: 0,0:01:37.00,0:01:38.99,Default,,0,0,0,,{\c&H000000&}Bahkan kau mencoba untuk menyembunyikan perasaanmu  
+Dialogue: 0,0:01:39.00,0:01:41.99,Default,,0,0,0,,{\c&H000000&}Namun saat aku melihatmu, aku tak bisa menahannya  
+Dialogue: 0,0:01:42.00,0:01:43.99,Default,,0,0,0,,{\c&H000000&}Aku tak bisa menyembunyikan instingku  
+Dialogue: 0,0:01:44.00,0:01:45.99,Default,,0,0,0,,{\c&H000000&}Aku penasaran, aku ingin lebih mengenalmu lagi 
+Dialogue: 0,0:01:46.00,0:01:48.99,Default,,0,0,0,,{\c&H000000&}Aku masih belum tahu seperti apa warnamu 
+Dialogue: 0,0:01:49.00,0:01:50.99,Default,,0,0,0,,{\c&H000000&}Matamu terus mencerminkan sesuatu yang dalam, girl 
+Dialogue: 0,0:01:51.00,0:01:53.99,Default,,0,0,0,,{\c&H000000&}Hatiku terpikat oleh dirimu yang seperti boneka Barbie 
+Dialogue: 0,0:01:54.00,0:01:57.99,Default,,0,0,0,,{\c&H000000&}Aku gugup, bibirku mengering saat aku berbicara, Semakin kita saling mendekat, kita terbakar, berubah menjadi warna api 
+Dialogue: 0,0:01:58.00,0:02:00.99,Default,,0,0,0,,{\c&H000000&}Jangan merasa gugup, sayang  
+Dialogue: 0,0:02:02.00,0:02:02.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu  
+Dialogue: 0,0:02:04.00,0:02:06.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memilikimu  
+Dialogue: 0,0:02:08.00,0:02:10.99,Default,,0,0,0,,{\c&H000000&}Jangan menolaknya, sayang  
+Dialogue: 0,0:02:11.00,0:02:12.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu  
+Dialogue: 0,0:02:14.00,0:02:15.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memilikimu  
+Dialogue: 0,0:02:17.00,0:02:19.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:02:27.00,0:02:29.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:02:37.00,0:02:38.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan 
+Dialogue: 0,0:02:39.00,0:02:40.99,Default,,0,0,0,,{\c&H000000&}Bibirmu yang lembut  
+Dialogue: 0,0:02:42.00,0:02:43.99,Default,,0,0,0,,{\c&H000000&}Kedua matamu yang gemetar 
+Dialogue: 0,0:02:44.00,0:02:45.99,Default,,0,0,0,,{\c&H000000&}Wajahmu yang kian memanas  
+Dialogue: 0,0:02:46.00,0:02:47.99,Default,,0,0,0,,{\c&H000000&}Desah nafasmu yang kian memburu  
+Dialogue: 0,0:02:49.00,0:02:50.99,Default,,0,0,0,,{\c&H000000&}Jarak yang semakin mendekat  
+Dialogue: 0,0:02:51.00,0:02:52.99,Default,,0,0,0,,{\c&H000000&}Suara hatiku yang mulai terdengar  
+Dialogue: 0,0:02:54.00,0:02:55.99,Default,,0,0,0,,{\c&H000000&}Kehangatan yang terasa  
+Dialogue: 0,0:02:56.00,0:02:57.99,Default,,0,0,0,,{\c&H000000&}Waktu yang seolah berhenti 
+Dialogue: 0,0:02:58.00,0:02:59.99,Default,,0,0,0,,{\c&H000000&}Waktu yang seolah berhenti 
+Dialogue: 0,0:03:01.00,0:03:03.99,Default,,0,0,0,,{\c&H000000&}Jangan merasa gugup, sayang  
+Dialogue: 0,0:03:04.00,0:03:05.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu  
+Dialogue: 0,0:03:06.00,0:03:08.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memilikimu  
+Dialogue: 0,0:03:10.00,0:03:12.99,Default,,0,0,0,,{\c&H000000&}Jangan menolaknya, sayang  
+Dialogue: 0,0:03:14.00,0:03:15.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu  
+Dialogue: 0,0:03:16.00,0:03:18.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memilikimu  
+Dialogue: 0,0:03:20.00,0:03:22.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:03:29.00,0:03:31.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:03:39.00,0:03:41.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+Dialogue: 0,0:04:13.00,0:04:15.99,Default,,0,0,0,,{\c&H000000&}Kau dan aku, kita hampir saling bersentuhan  
+

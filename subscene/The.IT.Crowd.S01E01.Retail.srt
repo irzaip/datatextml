@@ -1,0 +1,1843 @@
+﻿1
+00:00:25,400 --> 00:00:27,640
+"The IT Crowd"
+
+2
+00:00:46,240 --> 00:00:47,560
+Kuharap ini tak membuatmu malu, Jen,
+
+3
+00:00:47,600 --> 00:00:49,680
+tapi menurutku hal terbaik
+untuk dilakukan dengan pegawai baru
+
+4
+00:00:49,720 --> 00:00:52,880
+adalah menaksir mereka
+dengan tatapan tajam yang lama.
+
+5
+00:01:10,760 --> 00:01:11,920
+- Jadi.
+- Jadi.
+
+6
+00:01:11,960 --> 00:01:13,200
+- Hari pertama.
+- Ya.
+
+7
+00:01:13,240 --> 00:01:14,640
+- Menakutkan?
+- Ya.
+
+8
+00:01:14,680 --> 00:01:16,920
+- Jangan takut.
+- Sebenarnya aku tidak takut.
+
+9
+00:01:16,960 --> 00:01:18,680
+- Kau sebaiknya takut.
+- Aku sedikit takut.
+
+10
+00:01:18,720 --> 00:01:20,920
+- Apa? Jangan.
+- Tetapkan pikiranmu.
+
+11
+00:01:21,800 --> 00:01:24,160
+- Kau sudah di sini.
+- Ya.
+
+12
+00:01:24,200 --> 00:01:26,120
+Aku sangat berharap
+
+13
+00:01:26,160 --> 00:01:28,960
+- untuk memahami...
+- Aku akan menempatkanmu di TI.
+
+14
+00:01:29,000 --> 00:01:29,920
+Karena diresumemu tertulis
+
+15
+00:01:29,960 --> 00:01:32,120
+kau memiliki banyak pengalaman
+dengan komputer.
+
+16
+00:01:34,280 --> 00:01:36,640
+Aku memang menuliskannya
+diresumeku, ya.
+
+17
+00:01:36,680 --> 00:01:41,520
+Aku memiliki banyak pengalaman
+tentang perkomputeran
+
+18
+00:01:41,560 --> 00:01:43,520
+seperti surel.
+
+19
+00:01:43,560 --> 00:01:47,280
+Mengirim surel, menerima surel,
+menghapus surel...
+
+20
+00:01:48,560 --> 00:01:49,680
+Aku bisa melanjutkannya.
+
+21
+00:01:50,560 --> 00:01:51,520
+Lakukanlah.
+
+22
+00:01:53,000 --> 00:01:53,800
+Situs.
+
+23
+00:01:54,600 --> 00:01:56,920
+Menggunakan tetikus.
+
+24
+00:01:58,360 --> 00:01:59,680
+Mengklik,
+
+25
+00:01:59,720 --> 00:02:01,280
+mengklik dua kali,
+
+26
+00:02:01,320 --> 00:02:04,240
+layar komputer tentunya,
+papan ketik,
+
+27
+00:02:04,280 --> 00:02:06,360
+serta benda yang terletak
+di bawah lantai.
+
+28
+00:02:06,400 --> 00:02:08,400
+- Diska keras? Ya.
+- Benar.
+
+29
+00:02:08,960 --> 00:02:11,039
+Tentunya kau memahami
+barang-barangmu.
+
+30
+00:02:11,080 --> 00:02:12,160
+Bagus.
+
+31
+00:02:12,200 --> 00:02:13,560
+Firasatku baik tentangmu, Jen.
+
+32
+00:02:13,600 --> 00:02:16,160
+- Mereka membutuhkan manajer baru.
+- Luar biasa.
+
+33
+00:02:16,200 --> 00:02:18,400
+Seperti apa orang-orang
+yang akan bekerja bersamaku?
+
+34
+00:02:18,440 --> 00:02:20,440
+Para kutu buku standar.
+
+35
+00:03:08,440 --> 00:03:09,560
+Halo, TI?
+
+36
+00:03:10,280 --> 00:03:12,440
+Sudahkah kau mencoba mematikan
+dan menyalakannya lagi?
+
+37
+00:03:14,720 --> 00:03:18,120
+Baiklah, tombol di samping,
+apakah berpendar?
+
+38
+00:03:20,080 --> 00:03:21,840
+Ya, kau harus menyalakannya.
+
+39
+00:03:24,120 --> 00:03:25,960
+Tombolnya, sudah kau nyalakan?
+
+40
+00:03:28,800 --> 00:03:31,240
+Ya, kau, ya...
+
+41
+00:03:31,280 --> 00:03:34,160
+Kau tahu cara kerja tombol, bukan?
+
+42
+00:03:34,200 --> 00:03:35,840
+Tidak, bukan kancing.
+
+43
+00:03:35,880 --> 00:03:37,240
+Halo, TI?
+
+44
+00:03:38,080 --> 00:03:39,120
+Ya?
+
+45
+00:03:40,360 --> 00:03:43,280
+Sudahkah kau mencoba memaksakan
+memulai ulang yang tak terduga?
+
+46
+00:03:43,320 --> 00:03:46,360
+Tidak. Itu dia.
+Aku baru mendengarnya menyala.
+
+47
+00:03:47,000 --> 00:03:49,080
+Tidak, itu musik yang kau dengar
+saat ia menyala.
+
+48
+00:03:49,120 --> 00:03:51,160
+Tidak, itu musik yang kau dengar
+saat...
+
+49
+00:03:51,200 --> 00:03:53,080
+Maaf, apa kau dari masa lalu?
+
+50
+00:03:54,040 --> 00:03:55,480
+Diska itu menghubungkan
+sebuah fungsi
+
+51
+00:03:55,520 --> 00:03:57,320
+dengan menghubungkan
+sistem meja panggil.
+
+52
+00:03:57,360 --> 00:03:59,640
+Jadi, tak aman untuk membongkarnya
+kecuali rangkaian lain
+
+53
+00:03:59,680 --> 00:04:01,400
+akan melompat masuk
+dan melakukan sesuatu
+
+54
+00:04:01,440 --> 00:04:04,440
+dan kau tak ingin berakhir
+di tengah ingatan yang tak valid.
+
+55
+00:04:07,080 --> 00:04:08,040
+Halo?
+
+56
+00:04:08,800 --> 00:04:10,000
+Benarkah?
+
+57
+00:04:10,040 --> 00:04:12,400
+Kenapa kau tidak turun ke sini
+dan memaksaku?
+
+58
+00:04:12,440 --> 00:04:15,200
+Apa? Kau kira aku takut?
+Aku tidak takut kepadamu.
+
+59
+00:04:15,240 --> 00:04:18,120
+Kau bisa turun ke sini kapan saja
+dan aku akan menunggumu.
+
+60
+00:04:19,240 --> 00:04:20,480
+Sudah kukatakan kepada wanita itu.
+
+61
+00:04:22,520 --> 00:04:25,560
+Astaga, sudah waktunya kau kembali,
+semua sudah pergi.
+
+62
+00:04:25,600 --> 00:04:27,040
+Kau mempunyai pekerjaan?
+
+63
+00:04:27,080 --> 00:04:28,280
+Gadis di lantai lima.
+
+64
+00:04:28,320 --> 00:04:30,360
+Apa kau dan dia berhubungan?
+
+65
+00:04:31,280 --> 00:04:33,040
+Definisikan "berhubungan".
+
+66
+00:04:33,960 --> 00:04:37,240
+Apa kau masih berbicara kepadanya
+setelah memperbaiki komputernya?
+
+67
+00:04:38,480 --> 00:04:39,280
+Tidak.
+
+68
+00:04:40,360 --> 00:04:41,600
+Saat aku sedang memperbaikinya
+
+69
+00:04:41,640 --> 00:04:43,600
+dia menyandarkan cangkir
+di punggungku.
+
+70
+00:04:44,080 --> 00:04:45,680
+- Tidak mungkin?
+- Ya.
+
+71
+00:04:46,680 --> 00:04:47,800
+Sulit dipercaya.
+
+72
+00:04:47,840 --> 00:04:49,520
+Ya, mereka tak menghormati kita
+di atas sana,
+
+73
+00:04:49,560 --> 00:04:50,840
+sama sekali tak menghormati.
+
+74
+00:04:50,880 --> 00:04:52,720
+Kita semua hanyalah teman
+di saat mereka membutuhkan.
+
+75
+00:04:52,760 --> 00:04:53,560
+Benar.
+
+76
+00:04:53,600 --> 00:04:55,560
+Jika ada teman yang memanfaatkan
+seperti itu,
+
+77
+00:04:55,600 --> 00:04:57,040
+itulah kita bagi mereka.
+
+78
+00:04:57,080 --> 00:04:59,760
+Mereka begitu akrab saat ada masalah
+dengan alat pencetak mereka,
+
+79
+00:04:59,800 --> 00:05:01,040
+tapi setelah diperbaiki...
+
+80
+00:05:01,080 --> 00:05:03,440
+Mereka akan membuang kita
+seperti selai basi.
+
+81
+00:05:03,480 --> 00:05:04,320
+Ya.
+
+82
+00:05:04,360 --> 00:05:07,520
+Selai basi.
+Itulah kita bagi mereka.
+
+83
+00:05:08,880 --> 00:05:11,880
+Sebenarnya, tak seperti itu
+
+84
+00:05:11,920 --> 00:05:13,880
+karena selai bisa bertahan lama.
+
+85
+00:05:16,280 --> 00:05:17,880
+Halo, TI?
+
+86
+00:05:17,920 --> 00:05:19,840
+Sudahkah kau coba mematikan
+dan menyalakannya lagi?
+
+87
+00:05:22,680 --> 00:05:23,960
+Toilet campur?
+
+88
+00:05:24,000 --> 00:05:26,960
+Kau mempunyai toilet campur
+seperti Ally McBeal?
+
+89
+00:05:32,440 --> 00:05:34,440
+Semacam itulah tempat ini, Jen.
+
+90
+00:05:34,480 --> 00:05:38,720
+Banyak orang seksi
+tak banyak bekerja dan berselingkuh.
+
+91
+00:05:40,800 --> 00:05:43,800
+Astaga. Lihat pemandangannya.
+
+92
+00:05:47,360 --> 00:05:50,000
+Aku merasa berada di atas dunia.
+
+93
+00:05:50,040 --> 00:05:52,280
+Jen, aku akan meninggalkanmu
+di sini.
+
+94
+00:05:52,320 --> 00:05:53,760
+Lantai 34.
+
+95
+00:05:55,440 --> 00:05:58,000
+Luar biasa, terima kasih.
+Baik, ke mana aku akan menuju?
+
+96
+00:05:58,040 --> 00:06:01,240
+Turun ke ruang bawah tanah.
+
+97
+00:06:01,280 --> 00:06:02,480
+Semoga berhasil.
+
+98
+00:06:12,960 --> 00:06:16,480
+Keluarlah dari lift.
+
+99
+00:06:16,520 --> 00:06:20,080
+Keluarlah dari lift.
+
+100
+00:06:20,120 --> 00:06:23,640
+Keluarlah dari lift.
+
+101
+00:06:23,680 --> 00:06:28,480
+Keluarlah dari lift.
+
+102
+00:06:40,640 --> 00:06:43,360
+- Tidak akan berbekas.
+- Astaga.
+
+103
+00:06:43,400 --> 00:06:46,800
+Astaga. Baiklah.
+
+104
+00:06:56,560 --> 00:06:57,600
+Halo?
+
+105
+00:06:59,920 --> 00:07:01,000
+Halo?
+
+106
+00:07:41,480 --> 00:07:43,760
+Ya, aku yakin itu Tolstoy
+yang mengatakan...
+
+107
+00:07:43,800 --> 00:07:45,160
+Tampaknya kita punya tamu.
+
+108
+00:07:47,800 --> 00:07:51,080
+Maaf, aku dan Morris sedang terlibat
+dalam diskusi yang cukup serius
+
+109
+00:07:51,120 --> 00:07:53,080
+tentang buku dan sejenisnya.
+
+110
+00:07:53,120 --> 00:07:54,560
+Kami tak mendengarmu datang.
+
+111
+00:07:55,240 --> 00:07:57,640
+Tunggu sebentar, kau bilang itu
+Tolstoy, dia bilang apa?
+
+112
+00:07:57,680 --> 00:07:59,640
+Lupakan saja, Morris.
+
+113
+00:07:59,680 --> 00:08:01,640
+Kapan kau membaca buku Tolstoy?
+
+114
+00:08:01,680 --> 00:08:02,880
+Diamlah, Morris.
+
+115
+00:08:03,520 --> 00:08:05,400
+Kenapa kau berbicara
+dengan suara aneh itu?
+
+116
+00:08:05,440 --> 00:08:08,080
+Aku sama sekali tak ingat
+pembicaraan ini.
+
+117
+00:08:09,960 --> 00:08:13,040
+Aku tak ingin mengganggu kalian
+Aku hanya ingin datang...
+
+118
+00:08:13,080 --> 00:08:15,160
+Jangan bodoh,
+kau tak pernah mengganggu...
+
+119
+00:08:21,360 --> 00:08:23,960
+Banyak orang datang ke sini
+untuk berkunjung.
+
+120
+00:08:24,000 --> 00:08:25,440
+Apa yang kau bicarakan?
+
+121
+00:08:25,480 --> 00:08:27,600
+Siapa yang turun ke sini? Orang apa?
+
+122
+00:08:30,280 --> 00:08:33,320
+Kenapa kau memberiku tanda rahasia
+untuk diam?
+
+123
+00:08:34,720 --> 00:08:38,600
+Jadi, apa yang bisa kami lakukan
+untukmu?
+
+124
+00:08:39,720 --> 00:08:42,760
+Aku adalah kepala yang baru
+di departemen ini.
+
+125
+00:08:44,159 --> 00:08:45,520
+Apa ini kantorku?
+
+126
+00:08:46,920 --> 00:08:48,840
+Kenapa? Apa yang dia...
+
+127
+00:08:48,880 --> 00:08:50,320
+Apa dia baru mengatakan...
+
+128
+00:08:50,360 --> 00:08:53,160
+- Aku kepala di departemen ini.
+- Kupikir aku kepalanya.
+
+129
+00:08:53,840 --> 00:08:55,120
+Salah satu dari kita.
+
+130
+00:08:55,160 --> 00:08:57,320
+Pastinya bukan dia.
+Aku akan menyelesaikan masalah ini.
+
+131
+00:08:57,360 --> 00:08:59,920
+Roy, kepalamu terluka.
+Kepalamu terluka.
+
+132
+00:09:01,640 --> 00:09:02,440
+Hai.
+
+133
+00:09:02,480 --> 00:09:04,400
+Aku tak bermaksud tak sopan
+atau apa pun,
+
+134
+00:09:04,440 --> 00:09:07,920
+tapi aku tak diberi tahu
+tentang perubahan di departemen ini.
+
+135
+00:09:07,960 --> 00:09:09,960
+Apa mereka tak memberitahumu
+tentang aku?
+
+136
+00:09:10,000 --> 00:09:10,800
+Tidak.
+
+137
+00:09:10,840 --> 00:09:14,200
+Kami baik-baik saja di bawah sini,
+terima kasih banyak,
+
+138
+00:09:14,240 --> 00:09:16,600
+kami lebih dari mampu
+dalam mengurus diri kami sendiri.
+
+139
+00:09:16,640 --> 00:09:17,720
+Tentu saja.
+
+140
+00:09:17,760 --> 00:09:19,560
+Apa kau tahu kau berlumuran darah?
+
+141
+00:09:20,960 --> 00:09:21,960
+Moss.
+
+142
+00:09:22,720 --> 00:09:23,960
+Barang Amazon.
+
+143
+00:09:24,520 --> 00:09:25,400
+Luar biasa.
+
+144
+00:09:25,440 --> 00:09:27,960
+Aku tahu apa ini.
+Ini buku Harry Potter yang baru.
+
+145
+00:09:28,000 --> 00:09:31,000
+Aku mendapat edisi anak
+dan edisi dewasa,
+
+146
+00:09:31,040 --> 00:09:34,080
+hanya untuk memeriksa
+apa ada perbedaan dalam naskahnya.
+
+147
+00:09:36,840 --> 00:09:39,360
+Maaf, tapi aku takkan bisa
+berurusan dengan wanita itu.
+
+148
+00:09:40,880 --> 00:09:42,400
+Apa ada orang lain
+yang akan menjawab telepon?
+
+149
+00:09:42,440 --> 00:09:44,600
+Kurasa aku akan mengangkat...
+Bukan, ini bukan telepon.
+
+150
+00:09:44,640 --> 00:09:46,200
+Aku harus berbaring.
+
+151
+00:09:51,560 --> 00:09:52,400
+Masuk.
+
+152
+00:09:53,760 --> 00:09:56,240
+Ya, Denholm.
+
+153
+00:09:56,920 --> 00:09:58,080
+Tidak.
+
+154
+00:09:58,120 --> 00:10:00,240
+Tidak, sejauh ini
+mereka baik-baik saja.
+
+155
+00:10:00,280 --> 00:10:02,640
+Ya. Kurasa kami akan luar biasa.
+
+156
+00:10:03,800 --> 00:10:04,920
+Ya, aku tahu.
+
+157
+00:10:04,960 --> 00:10:07,960
+Baiklah, jaga dirimu.
+Baiklah, ya, akan kulakukan.
+
+158
+00:10:09,760 --> 00:10:11,200
+Baiklah.
+
+159
+00:10:11,240 --> 00:10:12,800
+Jaga dirimu.
+
+160
+00:10:12,840 --> 00:10:14,320
+Baik, selamat tinggal.
+
+161
+00:10:16,400 --> 00:10:17,640
+Halo.
+
+162
+00:10:17,680 --> 00:10:20,640
+Apa yang bisa kulakukan untukmu?
+
+163
+00:10:21,360 --> 00:10:23,680
+Halo. Aku hanya ingin tahu
+
+164
+00:10:23,720 --> 00:10:25,920
+apa kau ingin aku
+menyambungkan teleponmu?
+
+165
+00:10:34,640 --> 00:10:37,040
+Tidak.
+
+166
+00:10:37,080 --> 00:10:40,640
+Telepon ini berfungsi.
+Aku baru berbicara kepada Denholm.
+
+167
+00:10:41,400 --> 00:10:44,080
+- Tapi bagaimana caranya?
+- Apa kau tak keberatan...
+
+168
+00:10:44,120 --> 00:10:46,760
+Apa kau tak keberatan
+untuk menutup pintu itu?
+
+169
+00:10:46,800 --> 00:10:48,000
+Ya, tentu saja.
+
+170
+00:10:50,480 --> 00:10:51,800
+Ya. Dari sisi lainnya.
+
+171
+00:10:53,720 --> 00:10:54,840
+Tentu saja.
+
+172
+00:10:58,320 --> 00:11:00,000
+- Seperti ini?
+- Benar.
+
+173
+00:11:00,960 --> 00:11:02,840
+- Dengan aku berada...
+- Terima kasih.
+
+174
+00:11:14,040 --> 00:11:15,480
+Kau baik-baik saja?
+
+175
+00:11:15,520 --> 00:11:17,760
+Ya, Moss, aku baik-baik saja.
+
+176
+00:11:17,800 --> 00:11:20,560
+Perawat mengatakan
+aku tidak cidera serius.
+
+177
+00:11:20,600 --> 00:11:21,800
+Aku berdiri di sini.
+
+178
+00:11:21,840 --> 00:11:24,320
+Aku tahu.
+Aku bercanda, aku baik-baik saja.
+
+179
+00:11:24,360 --> 00:11:25,680
+Apa yang akan kita lakukan
+tentang dia?
+
+180
+00:11:25,720 --> 00:11:26,920
+Aku baru saja masuk
+
+181
+00:11:26,960 --> 00:11:29,680
+dan dia sedang melakukan
+percakapan pura-pura.
+
+182
+00:11:29,720 --> 00:11:31,000
+- Benarkah?
+- Ya.
+
+183
+00:11:31,040 --> 00:11:33,880
+Setidaknya, dia sedikit aneh.
+
+184
+00:11:36,040 --> 00:11:36,840
+Apa itu?
+
+185
+00:11:36,880 --> 00:11:39,200
+Ini hanya air.
+Terkadang, telingaku panas
+
+186
+00:11:39,240 --> 00:11:40,920
+dan air ini membantu
+mendinginkannya.
+
+187
+00:11:41,640 --> 00:11:44,400
+Dia pimpinan yang cukup aneh.
+
+188
+00:11:44,440 --> 00:11:46,200
+Apa kau menyadari
+betapa dia tak bersemangat
+
+189
+00:11:46,240 --> 00:11:48,640
+saat melihat ZX-IT 1 asli ini?
+
+190
+00:11:48,680 --> 00:11:50,560
+Ya, itu aneh.
+
+191
+00:11:50,600 --> 00:11:52,920
+Seolah dia nyaris tak mengetahui
+apa-apa tentang komputer.
+
+192
+00:11:52,960 --> 00:11:54,200
+Apa?
+
+193
+00:11:55,400 --> 00:11:56,360
+Lihatlah yang kau lakukan.
+
+194
+00:11:56,400 --> 00:11:59,400
+Jangan khawatir, itu sebabnya
+aku selalu membuat dua cangkir teh.
+
+195
+00:12:00,120 --> 00:12:01,520
+Apa yang kau bicarakan?
+
+196
+00:12:01,560 --> 00:12:03,520
+Dia tak mengetahui apa-apa
+tentang komputer.
+
+197
+00:12:03,560 --> 00:12:04,600
+Apa?
+
+198
+00:12:06,360 --> 00:12:08,280
+"The IT Crowd"
+
+199
+00:12:09,080 --> 00:12:10,920
+Aku jelas ingin menyingkirkannya.
+
+200
+00:12:10,960 --> 00:12:12,080
+Aku setuju, ya.
+
+201
+00:12:12,120 --> 00:12:14,520
+Baik, begini rencananya.
+
+202
+00:12:14,560 --> 00:12:18,360
+Rencana? Aku akan memakai kacamata
+yang sedikit lebih besar.
+
+203
+00:12:23,720 --> 00:12:24,760
+Baiklah, ceritakan.
+
+204
+00:12:25,720 --> 00:12:27,320
+- Baiklah. Kita masuk.
+- Kapan?
+
+205
+00:12:28,800 --> 00:12:30,160
+Sebentar lagi.
+
+206
+00:12:30,200 --> 00:12:32,720
+Apa waktu itu cukup bagiku
+untuk mengetahui rencananya?
+
+207
+00:12:33,720 --> 00:12:36,000
+Seharusnya aku
+tak menggunakan kata "rencana".
+
+208
+00:12:36,040 --> 00:12:38,280
+Aku membuatmu terlalu bersemangat.
+
+209
+00:12:38,320 --> 00:12:40,160
+Apa "mengukus"
+adalah kata yang lebih baik?
+
+210
+00:12:40,200 --> 00:12:43,000
+Meskipun itu sama menarikya,
+aku mungkin membutuhkan ini.
+
+211
+00:12:48,080 --> 00:12:50,240
+Yang mau aku katakan adalah...
+
+212
+00:12:50,280 --> 00:12:53,600
+Kita masuk, aku akan menceritakan
+sejumlah bualan tentang komputer
+
+213
+00:12:53,640 --> 00:12:55,440
+dan kita lihat
+apakah dia menanggapinya.
+
+214
+00:12:58,440 --> 00:13:01,320
+Ya. Aku mengerti kenapa kau tak mau
+menggunakan kata "rencana".
+
+215
+00:13:02,400 --> 00:13:04,080
+- Aku yang akan berbicara.
+- Baiklah.
+
+216
+00:13:05,920 --> 00:13:07,480
+Moss.
+
+217
+00:13:07,520 --> 00:13:10,040
+Baik, kita harus melakukannya
+dengan benar.
+
+218
+00:13:10,080 --> 00:13:12,040
+Kita harus tetap tenang.
+
+219
+00:13:12,080 --> 00:13:14,720
+Kita tak ingin masuk ke sana
+tanpa persiapan matang.
+
+220
+00:13:27,200 --> 00:13:28,320
+Tunggu sebentar.
+
+221
+00:13:29,960 --> 00:13:31,360
+Apa yang bisa aku bantu?
+
+222
+00:13:31,400 --> 00:13:33,960
+Kami hanya ingin tahu
+dengan kau menjadi pimpinan,
+
+223
+00:13:34,000 --> 00:13:36,000
+apa kau menginginkan kami
+untuk mengakses data pemasok
+
+224
+00:13:36,040 --> 00:13:37,560
+dan menghubungkanmu ke matriks?
+
+225
+00:13:40,520 --> 00:13:42,960
+Kau mengarang semua itu.
+
+226
+00:13:44,120 --> 00:13:46,600
+Kau tak tahu apa-apa
+tentang komputer, mengakulah!
+
+227
+00:13:46,640 --> 00:13:49,400
+Bisakah kau berhenti menggangguku!
+
+228
+00:13:49,440 --> 00:13:50,560
+Masuklah ke sana
+
+229
+00:13:50,600 --> 00:13:53,720
+dan bekerjalah
+yang berhubungan dengan komputer,
+
+230
+00:13:53,760 --> 00:13:56,640
+aku akan ke sana sebentar lagi
+dan memeriksa kalian!
+
+231
+00:13:57,480 --> 00:13:58,920
+Baiklah, Nyonya.
+
+232
+00:13:58,960 --> 00:14:02,280
+Kau sudah memenangkan babak ini,
+tapi kami bisa menunggu.
+
+233
+00:14:02,960 --> 00:14:04,520
+Kau akan melakukan kesalahan
+suatu hari nanti
+
+234
+00:14:04,560 --> 00:14:07,120
+dan percayalah, kami akan ada
+di sana saat kau melakukannya.
+
+235
+00:14:07,160 --> 00:14:10,080
+Akan ada beberapa bukti
+yang akan membuktikan tanpa keraguan
+
+236
+00:14:10,120 --> 00:14:12,080
+kau tak tahu apa-apa
+tentang komputer.
+
+237
+00:14:12,120 --> 00:14:13,320
+Apa yang kau lakukan?
+
+238
+00:14:14,200 --> 00:14:16,000
+Mencolokkan komputermu.
+
+239
+00:14:17,920 --> 00:14:19,720
+Mungkin sesuatu yang kau katakan
+
+240
+00:14:19,760 --> 00:14:21,760
+atau sesuatu yang kau lakukan.
+
+241
+00:14:21,800 --> 00:14:22,920
+Tapi saat kami menyadarinya
+
+242
+00:14:22,960 --> 00:14:25,240
+dan percayalah
+kami akan menyadarinya!
+
+243
+00:14:25,280 --> 00:14:27,720
+Kau akan hancur, Nona manis!
+
+244
+00:14:33,000 --> 00:14:34,680
+Dia akan menyadarinya sebentar lagi.
+
+245
+00:14:44,280 --> 00:14:47,280
+Sulit dipercaya,
+kalian akan mengadukanku.
+
+246
+00:14:47,320 --> 00:14:51,080
+Kalian seperti sepasang wanita tua
+yang mengerikan.
+
+247
+00:14:51,120 --> 00:14:52,560
+Apa dia bilang?
+
+248
+00:14:53,280 --> 00:14:54,920
+Dia bilang kita seperti wanita tua
+yang mengerikan.
+
+249
+00:14:54,960 --> 00:14:56,160
+Tidak mungkin.
+
+250
+00:14:56,880 --> 00:14:58,240
+Hei, Semuanya.
+
+251
+00:14:58,280 --> 00:14:59,720
+Ada sesuatu yang ingin
+kalian sampaikan?
+
+252
+00:14:59,760 --> 00:15:01,200
+Ya, begini.
+
+253
+00:15:01,240 --> 00:15:03,920
+Lihatlah kalian. Tim TI-ku.
+
+254
+00:15:03,960 --> 00:15:05,960
+- Ya.
+- Semuanya adalah pemain tim.
+
+255
+00:15:06,000 --> 00:15:06,840
+Ya, dia...
+
+256
+00:15:06,880 --> 00:15:08,000
+Tak ada tempat bagi orang
+yang tak bisa bermain
+
+257
+00:15:08,040 --> 00:15:09,320
+sebagai tim dalam timku.
+
+258
+00:15:10,200 --> 00:15:11,000
+Permisi.
+
+259
+00:15:11,560 --> 00:15:12,920
+Halo?
+
+260
+00:15:12,960 --> 00:15:13,840
+Apa?
+
+261
+00:15:14,400 --> 00:15:16,400
+Jika tak bisa bekerja sebagai tim,
+kalian semua dipecat.
+
+262
+00:15:17,240 --> 00:15:19,920
+Baiklah, kau mendengarku, baik.
+Kemasi barang-barangmu dan pergilah.
+
+263
+00:15:21,200 --> 00:15:22,560
+Halo keamanan?
+
+264
+00:15:22,600 --> 00:15:24,640
+Semua orang di lantai empat dipecat.
+
+265
+00:15:24,680 --> 00:15:27,120
+Angkut mereka keluar dari sana,
+dan lakukanlah sebagai satu tim.
+
+266
+00:15:27,160 --> 00:15:28,680
+Ingat, kau adalah tim
+dan jika tak bisa bersikap begitu
+
+267
+00:15:28,720 --> 00:15:30,120
+kau juga akan dipecat.
+
+268
+00:15:31,600 --> 00:15:33,480
+Dawn, sambungkan ke perekrutan.
+
+269
+00:15:33,520 --> 00:15:34,600
+Suruh mereka untuk mencari
+tim keamanan
+
+270
+00:15:34,640 --> 00:15:36,520
+yang bisa bekerja sebagai satu tim.
+
+271
+00:15:36,560 --> 00:15:38,800
+Mereka mungkin harus mengangkut
+tim keamanan lama keluar dari gedung
+
+272
+00:15:38,840 --> 00:15:40,920
+karena tak bertindak seperti tim.
+
+273
+00:15:42,600 --> 00:15:46,560
+Tim.
+
+274
+00:15:46,600 --> 00:15:48,680
+Aku bahkan suka
+mengucapkan kata "tim."
+
+275
+00:15:49,680 --> 00:15:51,760
+Kalian mungkin mengira ini
+adalah foto keluargaku?
+
+276
+00:15:51,800 --> 00:15:52,600
+Bukan.
+
+277
+00:15:53,400 --> 00:15:54,960
+Ini adalah A-Team.
+
+278
+00:15:55,800 --> 00:15:59,520
+Body, Doyle, Tiger,
+Pria Perhiasan.
+
+279
+00:15:59,560 --> 00:16:00,760
+Semuanya.
+
+280
+00:16:02,080 --> 00:16:03,440
+Jadi, apa yang ingin
+kalian sampikan?
+
+281
+00:16:03,480 --> 00:16:05,240
+Ini tak berhasil.
+
+282
+00:16:07,400 --> 00:16:09,000
+- Dia bercanda.
+- Tapi kau bilang...
+
+283
+00:16:09,040 --> 00:16:10,120
+Tidak berhasil?
+
+284
+00:16:10,160 --> 00:16:11,920
+Tidak.
+
+285
+00:16:11,960 --> 00:16:14,280
+Kami sangat bersenang-senang.
+
+286
+00:16:14,320 --> 00:16:16,200
+- Ya.
+- Telingaku mulai terasa panas.
+
+287
+00:16:18,280 --> 00:16:19,240
+Tidak, kau tahu?
+
+288
+00:16:19,280 --> 00:16:22,360
+Kini sebaiknya kami pergi
+karena kau orang yang sangat sibuk
+
+289
+00:16:22,400 --> 00:16:24,400
+dan kami sudah menyita waktumu
+terlalu banyak.
+
+290
+00:16:24,440 --> 00:16:25,960
+Jen, bisakah kau membukakan pintu
+untukku di sana?
+
+291
+00:16:26,000 --> 00:16:27,040
+Tentu saja, Roy.
+
+292
+00:16:27,080 --> 00:16:29,000
+Lalu kenapa kau datang ke sini?
+
+293
+00:16:31,760 --> 00:16:35,680
+Kami memasang sistem aktivasi suara
+di komputermu.
+
+294
+00:16:35,720 --> 00:16:37,120
+Kurasa kau akan menikmatinya.
+
+295
+00:16:37,160 --> 00:16:39,880
+Mungkin akan membutuhkan waktu
+untuk mendapat nada yang tepat,
+
+296
+00:16:39,920 --> 00:16:42,000
+tapi silakan mencobanya.
+Terima kasih banyak.
+
+297
+00:16:42,040 --> 00:16:43,400
+- Selamat tinggal.
+- Terima kasih.
+
+298
+00:16:43,440 --> 00:16:44,840
+Menyenangkan sekali.
+
+299
+00:16:48,400 --> 00:16:49,400
+Halo.
+
+300
+00:16:52,840 --> 00:16:54,080
+Halo, komputer.
+
+301
+00:16:58,040 --> 00:16:58,920
+Halo.
+
+302
+00:17:00,720 --> 00:17:01,800
+Halo.
+
+303
+00:17:02,680 --> 00:17:03,840
+Halo, komputer.
+
+304
+00:17:06,839 --> 00:17:08,040
+Apa kehebatanmu?
+
+305
+00:17:08,079 --> 00:17:10,720
+Jelas sekali kau tak tahu apa-apa
+tentang komputer.
+
+306
+00:17:10,760 --> 00:17:12,079
+Tidak, tapi baiklah.
+
+307
+00:17:12,119 --> 00:17:13,520
+Tapi aku bisa belajar.
+
+308
+00:17:13,560 --> 00:17:16,599
+Maksudku, sebagai contoh, Moss,
+
+309
+00:17:16,640 --> 00:17:18,800
+kau bisa menjelaskan kepadaku
+apa yang kau lakukan saat ini.
+
+310
+00:17:18,839 --> 00:17:20,319
+Dengan senang hati.
+
+311
+00:17:20,359 --> 00:17:23,359
+Aku mengerjakan bagian sederhana
+dari kode pemrograman.
+
+312
+00:17:31,640 --> 00:17:32,920
+Aku mengerti.
+
+313
+00:17:33,960 --> 00:17:36,840
+Astaga, tak, aku berbohong lagi.
+Aku sama sekali tak mengerti itu.
+
+314
+00:17:36,880 --> 00:17:39,080
+Aku tak tahu apa-apa
+tentang komputer,
+
+315
+00:17:39,120 --> 00:17:40,600
+aku benar-benar tak berguna
+untuk kalian.
+
+316
+00:17:40,640 --> 00:17:43,000
+Aku sebaiknya berkemas dan pulang.
+
+317
+00:17:45,520 --> 00:17:48,640
+Hai, apa Roy ada?
+
+318
+00:17:49,960 --> 00:17:51,800
+Halo, wanita mungil.
+
+319
+00:17:51,840 --> 00:17:54,880
+Apa kau tersesat?
+Apa yang bisa kubantu? Aku Roy.
+
+320
+00:17:57,000 --> 00:17:59,040
+Kau ingin aku turun?
+
+321
+00:17:59,640 --> 00:18:02,000
+- Aku sudah turun.
+- Jangan di wajah.
+
+322
+00:18:04,840 --> 00:18:06,960
+Mungkin ini akan memberimu pelajaran
+
+323
+00:18:07,000 --> 00:18:09,520
+untuk memperlakukan orang
+dengan lebih hormat.
+
+324
+00:18:10,680 --> 00:18:13,920
+Apa ini karena pembicaraan kita
+di telepon tadi?
+
+325
+00:18:14,920 --> 00:18:16,760
+Astaga. Apa itu sepatu Manolo?
+
+326
+00:18:16,800 --> 00:18:18,160
+Ya.
+
+327
+00:18:18,200 --> 00:18:20,520
+Mereka mengagumkan.
+Apa harganya mahal?
+
+328
+00:18:20,560 --> 00:18:22,840
+Tidak. Aku membelinya saat obral.
+
+329
+00:18:22,880 --> 00:18:24,200
+Astaga, pintar sekali.
+
+330
+00:18:24,240 --> 00:18:26,200
+Aku tak pernah cukup beruntung
+untuk mendapatkan harga murah.
+
+331
+00:18:26,240 --> 00:18:29,480
+- Aku harus mengajakmu berbelanja.
+- Ya, itu akan luar biasa.
+
+332
+00:18:29,520 --> 00:18:31,320
+Aku akan meneleponmu.
+Senang bertemu denganmu.
+
+333
+00:18:31,360 --> 00:18:32,160
+Jaga dirimu.
+
+334
+00:18:32,200 --> 00:18:34,080
+Senang bertemu denganmu.
+
+335
+00:18:34,120 --> 00:18:35,800
+Ketua.
+
+336
+00:18:35,840 --> 00:18:38,280
+Kau baru saja meredakan masalah.
+
+337
+00:18:38,320 --> 00:18:40,160
+Masalah apa?
+
+338
+00:18:40,200 --> 00:18:41,720
+Itu, ya.
+
+339
+00:18:41,760 --> 00:18:44,120
+Astaga, apa itu sering terjadi?
+
+340
+00:18:44,160 --> 00:18:47,160
+Pemukulan itu cukup sering, ya.
+
+341
+00:18:47,200 --> 00:18:49,520
+Bisa dikatakan kami mengalami
+pemukulan tiap dua minggu.
+
+342
+00:18:49,560 --> 00:18:51,440
+Tidak seburuk itu.
+
+343
+00:18:52,080 --> 00:18:54,160
+Ayolah, Roy, ini cukup buruk.
+
+344
+00:18:54,760 --> 00:18:57,440
+Mungkin aku bisa membantu.
+
+345
+00:18:57,480 --> 00:18:59,760
+Aku pandai berhubungan
+dengan orang lain,
+
+346
+00:18:59,800 --> 00:19:02,160
+orang seperti kalian butuh seseorang
+untuk menghadapi orang lain
+
+347
+00:19:02,200 --> 00:19:05,160
+yaitu orang sepertiku. Astaga.
+
+348
+00:19:05,200 --> 00:19:07,760
+Ide-ide berdatangan.
+Sesuatu sedang terjadi di sini.
+
+349
+00:19:07,800 --> 00:19:10,040
+Baiklah, apa pendapat kalian
+
+350
+00:19:10,080 --> 00:19:12,240
+jika kukatakan
+aku mempunyai rencana
+
+351
+00:19:12,280 --> 00:19:15,320
+untuk menaikkan profilmu
+di lantai atas sebesar 100 persen.
+
+352
+00:19:15,360 --> 00:19:16,480
+Apa pendapat kalian?
+
+353
+00:19:16,520 --> 00:19:18,240
+Itu mustahil. Kau gila.
+
+354
+00:19:18,280 --> 00:19:19,680
+Apa pendapatmu, Roy?
+
+355
+00:19:19,720 --> 00:19:22,240
+Roy pingsan. Baiklah.
+
+356
+00:19:22,280 --> 00:19:25,560
+Aku membutuhkan spidol kecil
+dan beberapa kertas.
+
+357
+00:19:48,560 --> 00:19:52,560
+"Pesta,
+Departemen TI Pukul 5.45 Hari ini"
+
+358
+00:19:54,600 --> 00:19:58,200
+Tidak.
+
+359
+00:19:58,240 --> 00:19:59,320
+Sungguh
+
+360
+00:19:59,360 --> 00:20:00,920
+itu kisah nyata
+
+361
+00:20:00,960 --> 00:20:02,760
+luar biasa.
+
+362
+00:20:02,800 --> 00:20:05,440
+Kenapa kita tak lebih sering bergaul
+dengan orang-orang TI?
+
+363
+00:20:05,480 --> 00:20:08,160
+- Kau lucu.
+- Ya, memang.
+
+364
+00:20:09,880 --> 00:20:12,400
+Kalian seharusnya sering-sering
+datang ke sini
+
+365
+00:20:12,440 --> 00:20:15,000
+agar kalian tahu ini adalah era baru
+bagi Industri Reynholm.
+
+366
+00:20:15,040 --> 00:20:16,960
+Era baru untuk Industri Reynholm.
+
+367
+00:20:18,040 --> 00:20:21,160
+Jika kalian ingin mendengar sesuatu
+yang sangat lucu,
+
+368
+00:20:21,200 --> 00:20:22,400
+cerita yang sangat lucu,
+
+369
+00:20:22,440 --> 00:20:24,120
+kalian harus mendengar apa
+yang terjadi kepada Moss dan aku
+
+370
+00:20:24,160 --> 00:20:28,400
+saat kami sangat mabuk di Amsterdam
+dan Moss kehilangan kacamatanya.
+
+371
+00:20:28,440 --> 00:20:30,080
+Moss!
+
+372
+00:20:30,840 --> 00:20:31,840
+Kemarilah.
+
+373
+00:20:31,880 --> 00:20:34,640
+Ceritakan kepada mereka
+saat kita mabuk di Amsterdam.
+
+374
+00:20:34,680 --> 00:20:36,040
+- Sungguh?
+- Ya.
+
+375
+00:20:36,080 --> 00:20:38,760
+Itu luar biasa. Ini cerita bagus,
+kalian akan menyukainya.
+
+376
+00:20:38,800 --> 00:20:40,720
+Aku akan mengambil
+kotak anggur lagi.
+
+377
+00:20:42,720 --> 00:20:44,000
+Silakan.
+
+378
+00:20:45,680 --> 00:20:46,920
+Baiklah.
+
+379
+00:20:48,000 --> 00:20:50,960
+Suatu malam, kami sangat mabuk.
+
+380
+00:20:51,000 --> 00:20:52,320
+Ya.
+
+381
+00:20:52,360 --> 00:20:54,240
+Kami sangat mabuk
+
+382
+00:20:54,280 --> 00:20:56,280
+hingga kami memutuskan
+untuk menyewa PSK.
+
+383
+00:20:59,520 --> 00:21:00,760
+Saat mereka sampai ke hotel
+
+384
+00:21:00,800 --> 00:21:02,160
+kami terlalu takut
+untuk melakukan apa pun,
+
+385
+00:21:02,200 --> 00:21:04,120
+maka kami mengajak mereka
+ke pameran.
+
+386
+00:21:05,000 --> 00:21:06,120
+Sangat menyenangkan.
+
+387
+00:21:06,160 --> 00:21:07,760
+Pada akhirnya,
+mereka hanya meminta setengah harga.
+
+388
+00:21:07,800 --> 00:21:09,800
+Tapi kami harus membayar
+untuk semua wahana.
+
+389
+00:21:16,560 --> 00:21:19,360
+Bukankah itu cerita terbaik?
+
+390
+00:21:19,400 --> 00:21:21,000
+Astaga.
+
+391
+00:21:21,040 --> 00:21:23,200
+Kau menyuruhku agar tak pernah
+menceritakannya kepada siapa pun.
+
+392
+00:21:23,240 --> 00:21:25,440
+Apa yang kau bicarakan?
+Itu cerita luar biasa.
+
+393
+00:21:25,480 --> 00:21:27,000
+Lalu kau nyaris berjalan ke kanal.
+
+394
+00:21:27,040 --> 00:21:29,240
+Apa sudah sampai
+ke bagian tukang perahu?
+
+395
+00:21:32,840 --> 00:21:35,880
+Maksudmu cerita saat aku
+kehilangan kacamataku?
+
+396
+00:21:39,720 --> 00:21:40,760
+Ya.
+
+397
+00:21:45,240 --> 00:21:47,160
+Menurutmu cerita apa
+yang aku maksud?
+
+398
+00:21:48,360 --> 00:21:49,440
+Moss?
+
+399
+00:21:50,960 --> 00:21:54,000
+Apa yang kau katakan?
+
+400
+00:21:56,560 --> 00:21:58,160
+Tidak masalah bagi kalian.
+
+401
+00:21:59,000 --> 00:22:01,520
+Kalian biasanya
+menjadi piranha sosial...
+
+402
+00:22:05,160 --> 00:22:07,920
+...aku biasanya orang
+yang sangat populer.
+
+403
+00:22:07,960 --> 00:22:09,440
+Gadis tadi
+
+404
+00:22:09,480 --> 00:22:13,080
+yang mencoba memukulku hingga tewas
+menggunakan sepatunya,
+
+405
+00:22:13,120 --> 00:22:14,920
+apa ada yang mempunyai
+nomor teleponnya?
+
+406
+00:22:16,200 --> 00:22:18,680
+Itu adalah pameran yang bagus,
+bukan?
+
+407
+00:22:21,320 --> 00:22:23,320
+Bersama Brandy dan Crystal.
+
+408
+00:22:26,600 --> 00:22:27,800
+Halo, TI
+
+409
+00:22:29,680 --> 00:22:32,080
+Ya. Apa kau sudah mencoba
+mematikan dan menyalakannya lagi?
+
+410
+00:23:03,720 --> 00:23:04,600
+Halo.
+
+411
+00:23:05,280 --> 00:23:06,480
+Halo.
+
+412
+00:23:07,120 --> 00:23:08,720
+Halo.
+
+413
+00:23:08,760 --> 00:23:09,760
+Halo.
+

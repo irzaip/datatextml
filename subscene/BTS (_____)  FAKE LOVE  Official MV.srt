@@ -1,0 +1,87 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.125000
+Scroll Position: 362
+Active Line: 372
+Video Position: 37260
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:05:18.81,Default,,0,0,0,,{\fnCorbel\fs11\c&fff33&\3c&H000000&\pos(522,24.8)}*BTS - Fake Love* 
+Dialogue: 0,0:00:00.00,0:05:18.81,Default,,0,0,0,,{\fnCorbel\fs11\c&H710FF7&\3c&H000000&\pos(568.889,44.689)}{\c&H710FF7&} {\3c&H000000&}SUB INDO BY ~ FANINDITA PUTRI  
+Dialogue: 0,0:00:18.00,0:00:23.99,Default,,0,0,0,,{\c&H000000&}Untukmu, aku bisa berpura-pura bahagia di saat aku sedih 
+Dialogue: 0,0:00:25.00,0:00:29.99,Default,,0,0,0,,{\c&H000000&}Untukmu, aku bisa berpura-pura kuat di saat aku tengah terluka 
+Dialogue: 0,0:00:31.00,0:00:33.99,Default,,0,0,0,,{\c&H000000&}Aku berharap cinta itu sempurna seperti itu cinta sendiri 
+Dialogue: 0,0:00:34.00,0:00:36.99,Default,,0,0,0,,{\c&H000000&}Aku berharap aku bisa menyembunyikan semua kelemahanku 
+Dialogue: 0,0:00:37.00,0:00:41.99,Default,,0,0,0,,{\c&H000000&}Aku menanam sekuntum bunga yang tak bisa mekar dalam mimpi yang tak akan menjadi kenyataan 
+Dialogue: 0,0:00:43.00,0:00:47.99,Default,,0,0,0,,{\c&H000000&}Aku sungguh muak dengan cinta palsu, cinta palsu, cinta palsu
+Dialogue: 0,0:00:49.00,0:00:54.99,Default,,0,0,0,,{\c&H000000&}Aku sungguh menyesal namun itu adalah cinta palsu, cinta palsu, cinta palsu  
+Dialogue: 0,0:00:55.00,0:00:56.99,Default,,0,0,0,,{\c&H000000&}Aku ingin menjadi seorang pria yang baik 
+Dialogue: 0,0:00:57.00,0:00:58.99,Default,,0,0,0,,{\c&H000000&}Hanya untukmu 
+Dialogue: 0,0:00:59.00,0:00:59.99,Default,,0,0,0,,{\c&H000000&}Aku memberikan duniaku  
+Dialogue: 0,0:01:00.00,0:01:01.99,Default,,0,0,0,,{\c&H000000&}Hanya untukmu 
+Dialogue: 0,0:01:02.00,0:01:03.99,Default,,0,0,0,,{\c&H000000&}Aku mengubah segalanya  
+Dialogue: 0,0:01:04.00,0:01:04.99,Default,,0,0,0,,{\c&H000000&}Hanya untukmu 
+Dialogue: 0,0:01:05.00,0:01:06.99,Default,,0,0,0,,{\c&H000000&}Sekarang aku tak tahu siapa diriku 
+Dialogue: 0,0:01:07.00,0:01:08.99,Default,,0,0,0,,{\c&H000000&}Siapakah dirimu? 
+Dialogue: 0,0:01:09.00,0:01:11.99,Default,,0,0,0,,{\c&H000000&}Sebuah hutan yang hanya untuk kita, kau tak disana 
+Dialogue: 0,0:01:12.00,0:01:14.99,Default,,0,0,0,,{\c&H000000&}Jalan yang aku ambil, aku melupakannya 
+Dialogue: 0,0:01:15.00,0:01:17.99,Default,,0,0,0,,{\c&H000000&}Aku bahkan menjadi tak yakin siapa diriku ini 
+Dialogue: 0,0:01:18.00,0:01:20.99,Default,,0,0,0,,{\c&H000000&}Mencoba tuk mengoceh di depan cermin, siapa dirimu sebenarnya
+Dialogue: 0,0:01:21.00,0:01:25.99,Default,,0,0,0,,{\c&H000000&}Untukmu, aku bisa berpura-pura bahagia di saat aku sedih  
+Dialogue: 0,0:01:27.00,0:01:31.99,Default,,0,0,0,,{\c&H000000&}Untukmu, aku bisa berpura-pura kuat di saat aku tengah terluka 
+Dialogue: 0,0:01:33.00,0:01:35.99,Default,,0,0,0,,{\c&H000000&}Aku berharap cinta itu sempurna seperti itu cinta sendiri  
+Dialogue: 0,0:01:36.00,0:01:38.99,Default,,0,0,0,,{\c&H000000&}Aku berharap aku bisa menyembunyikan semua kelemahanku 
+Dialogue: 0,0:01:39.00,0:01:43.99,Default,,0,0,0,,{\c&H000000&}Aku menanam sekuntum bunga yang tak bisa mekar dalam mimpi yang tak akan menjadi kenyataan 
+Dialogue: 0,0:01:45.00,0:01:47.99,Default,,0,0,0,,{\c&H000000&}Aku sangat mencintaimu, aku sangat mencintaimu 
+Dialogue: 0,0:01:48.00,0:01:51.99,Default,,0,0,0,,{\c&H000000&}Untukmu aku membuat sebuah kebohongan yang indah 
+Dialogue: 0,0:01:52.00,0:01:54.99,Default,,0,0,0,,{\c&H000000&}Cinta itu sungguh gila, cinta itu sungguh gila 
+Dialogue: 0,0:01:55.00,0:01:57.99,Default,,0,0,0,,{\c&H000000&}Cobalah tuk menghapus diriku dan jadikan aku sebagai bonekamu 
+Dialogue: 0,0:01:58.00,0:02:00.99,Default,,0,0,0,,{\c&H000000&}Aku sangat mencintaimu, aku sangat mencintaimu 
+Dialogue: 0,0:02:01.00,0:02:03.99,Default,,0,0,0,,{\c&H000000&}Untukmu aku membuat sebuah kebohongan yang indah 
+Dialogue: 0,0:02:04.00,0:02:06.99,Default,,0,0,0,,{\c&H000000&}Cinta itu sungguh gila, cinta itu sungguh gila  
+Dialogue: 0,0:02:07.00,0:02:09.99,Default,,0,0,0,,{\c&H000000&}Cobalah tuk menghapus diriku dan jadikan aku sebagai bonekamu 
+Dialogue: 0,0:02:10.00,0:02:14.99,Default,,0,0,0,,{\c&H000000&}Aku sungguh muak dengan cinta palsu, cinta palsu, cinta palsu  
+Dialogue: 0,0:02:16.00,0:02:21.99,Default,,0,0,0,,{\c&H000000&}Aku sungguh menyesal namun itu adalah cinta palsu, cinta palsu, cinta palsu  
+Dialogue: 0,0:02:23.00,0:02:26.99,Default,,0,0,0,,{\c&H000000&}Mengapa kau sedih? Aku tak tahu, aku tak tahu  
+Dialogue: 0,0:02:27.00,0:02:29.99,Default,,0,0,0,,{\c&H000000&}Tersenyumlah, dan katakan "aku mencintaimu" 
+Dialogue: 0,0:02:30.00,0:02:32.99,Default,,0,0,0,,{\c&H000000&}Lihatlah aku, aku bahkan menyerah pada diriku sendiri 
+Dialogue: 0,0:02:33.00,0:02:35.99,Default,,0,0,0,,{\c&H000000&}Kau bahkan tak bisa mengerti diriku ini 
+Dialogue: 0,0:02:36.00,0:02:38.99,Default,,0,0,0,,{\c&H000000&}Kau bilang aku tak biasa, aku berubah menjadi seperti orang yang dulu kau sukai 
+Dialogue: 0,0:02:39.00,0:02:41.99,Default,,0,0,0,,{\c&H000000&}Kau bilang aku bukanlah diriku yang biasa kau kenal dengan baik 
+Dialogue: 0,0:02:42.00,0:02:44.99,Default,,0,0,0,,{\c&H000000&}Tidak? Apa maksudmu tidak, aku sudah buta  
+Dialogue: 0,0:02:45.00,0:02:47.99,Default,,0,0,0,,{\c&H000000&}Cinta? Apa itu cinta, itu semua hanyalah cinta palsu 
+Dialogue: 0,0:02:49.00,0:02:52.99,Default,,0,0,0,,{\c&H000000&}Aku tak tahu, aku tak tahu, aku tak tahu kenapa 
+Dialogue: 0,0:02:55.00,0:02:58.99,Default,,0,0,0,,{\c&H000000&}Bahkan aku, bahkan aku tak tahu diriku sendiri  
+Dialogue: 0,0:03:02.00,0:03:04.99,Default,,0,0,0,,{\c&H000000&}Aku baru tahu aku baru tahu, aku baru tahu kenapa 
+Dialogue: 0,0:03:06.00,0:03:10.99,Default,,0,0,0,,{\c&H000000&}Karna  itu semua cinta palsu, cinta palsu, cinta palsu 
+Dialogue: 0,0:04:11.00,0:04:13.99,Default,,0,0,0,,{\c&H000000&}Aku sangat mencintaimu, aku sangat mencintaimu 
+Dialogue: 0,0:04:14.00,0:04:16.99,Default,,0,0,0,,{\c&H000000&}Untukmu aku membuat sebuah kebohongan yang indah  
+Dialogue: 0,0:04:17.00,0:04:19.99,Default,,0,0,0,,{\c&H000000&}Cinta itu sungguh gila, cinta itu sungguh gila  
+Dialogue: 0,0:04:20.00,0:04:23.99,Default,,0,0,0,,{\c&H000000&}Cobalah tuk menghapus diriku dan jadikan aku sebagai bonekamu
+Dialogue: 0,0:04:24.00,0:04:26.99,Default,,0,0,0,,{\c&H000000&}Aku sangat mencintaimu, aku sangat mencintaimu 
+Dialogue: 0,0:04:27.00,0:04:29.99,Default,,0,0,0,,{\c&H000000&}Untukmu aku membuat sebuah kebohongan yang indah
+Dialogue: 0,0:04:30.00,0:04:32.99,Default,,0,0,0,,{\c&H000000&}Cinta itu sungguh gila, cinta itu sungguh gila 
+Dialogue: 0,0:04:33.00,0:04:35.99,Default,,0,0,0,,{\c&H000000&}Cobalah tuk menghapus diriku dan jadikan aku sebagai bonekamu 
+Dialogue: 0,0:04:36.00,0:04:40.99,Default,,0,0,0,,{\c&H000000&}Aku sungguh muak dengan cinta palsu, cinta palsu, cinta palsu 
+Dialogue: 0,0:04:42.00,0:04:46.99,Default,,0,0,0,,{\c&H000000&}Aku sungguh menyesal namun itu adalah cinta palsu, cinta palsu, cinta palsu
+Dialogue: 0,0:04:48.00,0:04:53.99,Default,,0,0,0,,{\c&H000000&}Untukmu, aku bisa berpura-pura bahagia di saat aku sedih 
+Dialogue: 0,0:04:54.00,0:04:59.99,Default,,0,0,0,,{\c&H000000&}Untukmu, aku bisa berpura-pura kuat di saat aku tengah terluka 
+Dialogue: 0,0:05:01.00,0:05:03.99,Default,,0,0,0,,{\c&H000000&}Aku berharap cinta itu sempurna seperti itu cinta sendiri 
+Dialogue: 0,0:05:04.00,0:05:06.99,Default,,0,0,0,,{\c&H000000&}Aku berharap aku bisa menyembunyikan semua kelemahanku 
+Dialogue: 0,0:05:07.00,0:05:11.99,Default,,0,0,0,,{\c&H000000&}Aku menanam sekuntum bunga yang tak bisa mekar dalam mimpi yang tak akan menjadi kenyataan 
+
+
+
+

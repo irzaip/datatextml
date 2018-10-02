@@ -1,0 +1,7541 @@
+﻿1
+00:00:10,981 --> 00:00:14,009
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+2
+00:00:17,188 --> 00:00:20,013
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+3
+00:00:23,594 --> 00:00:26,015
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+4
+00:00:29,800 --> 00:00:32,020
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+5
+00:00:35,906 --> 00:00:38,209
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+6
+00:00:38,383 --> 00:00:40,983
+<font color="#0080ff">Penerjemah :</font>
+
+7
+00:00:40,984 --> 00:00:42,428
+<font color="#0080ff">Penerjemah :
+imot</font>
+
+8
+00:00:42,429 --> 00:00:44,497
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+9
+00:00:44,720 --> 00:00:48,220
+<font color="#0080ff">Penerjemah :
+i m o t</font>
+
+10
+00:00:48,319 --> 00:00:51,054
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+11
+00:00:51,087 --> 00:00:54,725
+<i>♪ Ladies and gents this is the moment you've waited for ♪</i>
+<font color="#00ff00">♪ Para hadirin inilah saat yang kalian nantikan ♪</font>
+
+12
+00:00:54,758 --> 00:00:57,160
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+13
+00:00:57,194 --> 00:00:58,795
+<i>♪ You been searchin' in the dark ♪</i>
+<font color="#00ff00">♪ Kalian telah mencari di dalam gelap ♪</font>
+
+14
+00:00:58,829 --> 00:01:00,931
+<i>♪ Your sweat soakin' through the floor ♪</i>
+<font color="#00ff00">♪ Keringatmu membasahi lantai ♪</font>
+
+15
+00:01:00,964 --> 00:01:03,467
+<font color="#00ff00"><i>♪ Whoa...ooo ♪</i></font>
+
+16
+00:01:03,500 --> 00:01:04,868
+<i>♪ And buried in your bones ♪</i>
+<font color="#00ff00">♪ Dan terpendam di tulangmu ♪</font>
+
+17
+00:01:04,901 --> 00:01:07,037
+<i>♪ There's an ache that you can't ignore ♪</i>
+<font color="#00ff00">♪ Ada rasa sakit yang tidak bisa diabaikan ♪</font>
+
+18
+00:01:07,070 --> 00:01:08,372
+<i>♪ Takin' your breath ♪</i>
+<font color="#00ff00">♪ merampas napasmu ♪</font>
+
+19
+00:01:08,405 --> 00:01:09,773
+<i>♪ Stealin' your mind ♪</i>
+<font color="#00ff00">♪ Mencuri pikiranmu ♪</font>
+
+20
+00:01:09,806 --> 00:01:13,544
+<i>♪ And all that was real is left behind ♪</i>
+<font color="#00ff00">♪ Dan semua yang nyata tertinggal ♪</font>
+
+21
+00:01:13,577 --> 00:01:14,845
+<i>♪ Don't fight it ♪</i>
+<font color="#00ff00">♪ Jangan melawannya ♪</font>
+
+22
+00:01:14,878 --> 00:01:16,647
+<i>♪ It's comin' for you, runnin' atcha ♪</i>
+<font color="#00ff00">♪ Ini akan datang ke hadapanmu ♪</font>
+
+23
+00:01:16,680 --> 00:01:18,349
+<i>♪ It's only this moment ♪</i>
+<font color="#00ff00">♪ Hanya saat ini ♪</font>
+
+24
+00:01:18,382 --> 00:01:19,783
+<i>♪ Don't care what comes after ♪</i>
+<font color="#00ff00">♪ Tak peduli apa yang akan terjadi ♪</font>
+
+25
+00:01:19,816 --> 00:01:21,918
+<i>♪ Your fever dream, can't you see ♪</i>
+<font color="#00ff00">♪ impianmu, tidakkah kau lihat ♪</font>
+
+26
+00:01:21,952 --> 00:01:23,454
+<i>♪ Gettin' closer ♪</i>
+<font color="#00ff00">♪ Semakin mendekat ♪</font>
+
+27
+00:01:23,487 --> 00:01:25,989
+<i>♪ Just surrender cause you feel the feelin' takin' over ♪</i>
+<font color="#00ff00">♪ menyerah saja karena kau telah dikuasai ♪</font>
+
+28
+00:01:26,022 --> 00:01:29,293
+<i>♪ It's fire, it's freedom, it's floodin' open ♪</i>
+<font color="#00ff00">♪ Inilah api, ini kebebasan, ini membanjiri ♪</font>
+
+29
+00:01:29,326 --> 00:01:30,961
+<i>♪ It's the preacher in the pulpit ♪</i>
+<font color="#00ff00">♪ Inilah pengkhotbah di mimbar ♪</font>
+
+30
+00:01:30,994 --> 00:01:32,329
+<i>♪ And your blind devotion ♪</i>
+<font color="#00ff00">♪ Dan kesetiaan penuhmu ♪</font>
+
+31
+00:01:32,363 --> 00:01:33,806
+<i>♪ There's somethin' breakin' at the brick ♪</i>
+<font color="#00ff00">♪ Ada sesuatu yang meruntuhkan batu bata ♪</font>
+
+32
+00:01:33,830 --> 00:01:35,407
+<i>♪ Of ev'ry wall that's holdin' ♪</i>
+<font color="#00ff00">♪ dari setiap dinding yang berdiri ♪</font>
+
+33
+00:01:35,431 --> 00:01:36,600
+<i>♪ All that you know ♪</i>
+<font color="#00ff00">♪ Semua yang kau tahu ♪</font>
+
+34
+00:01:36,633 --> 00:01:39,102
+<i>♪ So tell me do you wanna go ♪</i>
+<font color="#00ff00">♪ Jadi katakan padaku, apakah kau ingin pergi ♪</font>
+
+35
+00:01:39,135 --> 00:01:42,439
+<i>♪ Where it's covered in all the colored lights? ♪</i>
+<font color="#00ff00">♪ ke tempat yang dipenuhi lampu warna-warni? ♪</font>
+
+36
+00:01:42,473 --> 00:01:45,108
+<i>♪ Where the runaways are runnin' the night ♪</i>
+<font color="#00ff00">♪ Di mana jalanan menghidupi malam ♪</font>
+
+37
+00:01:45,141 --> 00:01:48,279
+<i>♪ Impossible comes true It's takin' over you ♪</i>
+<font color="#00ff00">♪ Mustahil menjadi nyata. Membuatmu terlena ♪</font>
+
+38
+00:01:48,312 --> 00:01:51,248
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+39
+00:01:51,282 --> 00:01:54,451
+<i>♪ We light it up, we won't come down ♪</i>
+<font color="#00ff00">♪ Kami memulainya dan tak ingin berhenti ♪</font>
+
+40
+00:01:54,485 --> 00:01:57,120
+<i>♪ And the sun can't stop us now ♪</i>
+<font color="#00ff00">♪ Dan mentari tak bisa menghentikan kami ♪</font>
+
+41
+00:01:57,153 --> 00:02:00,391
+<i>♪ Watchin' it come true, it's takin' over you ♪</i>
+<font color="#00ff00">♪ Melihatnya menjadi nyata, membuatmu terlena ♪</font>
+
+42
+00:02:00,424 --> 00:02:03,760
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+43
+00:02:03,794 --> 00:02:06,830
+<i>♪ It's ev'rything you ever want ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau inginkan ♪</font>
+
+44
+00:02:06,863 --> 00:02:09,833
+<i>♪ It's ev'rything you ever need ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau butuhkan ♪</font>
+
+45
+00:02:09,866 --> 00:02:12,636
+<i>♪ And it's here right in front of you ♪</i>
+<font color="#00ff00">♪ Ada di sini tepat di hadapanmu ♪</font>
+
+46
+00:02:12,669 --> 00:02:15,706
+<i>♪ This is where you wanna be ♪</i>
+<font color="#00ff00">♪ Di sinilah yang kau inginkan ♪</font>
+
+47
+00:02:15,739 --> 00:02:18,775
+<i>♪ It's ev'rything you ever want ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau inginkan ♪</font>
+
+48
+00:02:18,809 --> 00:02:21,778
+<i>♪ It's ev'rything you ever need ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau butuhkan ♪</font>
+
+49
+00:02:21,812 --> 00:02:25,081
+<i>♪ And it's here right in front of you ♪</i>
+<font color="#00ff00">♪ Ada di sini tepat di hadapanmu ♪</font>
+
+50
+00:02:25,115 --> 00:02:28,352
+<i>♪ This is where you wanna be ♪</i>
+<font color="#00ff00">♪ Di sinilah yang kau inginkan ♪</font>
+
+51
+00:02:28,385 --> 00:02:31,121
+<i>♪ It's ev'rything you ever want ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau inginkan ♪</font>
+
+52
+00:02:31,154 --> 00:02:34,224
+<i>♪ It's ev'rything you ever need ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau butuhkan ♪</font>
+
+53
+00:02:34,257 --> 00:02:38,562
+<i>♪ And it's here right in front of you ♪</i>
+<font color="#00ff00">♪ Ada di sini tepat di hadapanmu ♪</font>
+
+54
+00:02:38,595 --> 00:02:42,132
+<i>♪ This is where you wanna be ♪</i>
+<font color="#00ff00">♪ Di sinilah yang kau inginkan ♪</font>
+
+55
+00:02:42,165 --> 00:02:45,969
+Inilah semua yang kau inginkan...
+
+56
+00:02:46,002 --> 00:02:49,706
+Inilah semua yang kau butuhkan...
+
+57
+00:02:49,740 --> 00:02:53,377
+Ada di sini tepat di hadapanmu...
+
+58
+00:02:56,413 --> 00:02:57,548
+Aku mengerti, ya.
+
+59
+00:02:57,581 --> 00:02:59,282
+Terima kasih banyak, Tuan Jeffries.
+Terima kasih.
+
+60
+00:02:59,316 --> 00:03:01,036
+Kau akan mendapatkan uangnya hari ini.
+
+61
+00:03:03,820 --> 00:03:05,055
+Ayo pergi.
+
+62
+00:03:06,523 --> 00:03:08,992
+Phineas, cepatlah.
+Kita akan ketinggalan kereta.
+
+63
+00:03:15,766 --> 00:03:17,668
+Berdiri tegak.
+
+64
+00:03:18,802 --> 00:03:21,037
+Bersihkan kotoran itu.
+
+65
+00:03:23,974 --> 00:03:25,509
+<i>Angkat jari kelingkingmu</i>
+
+66
+00:03:27,378 --> 00:03:29,480
+ulurkan lengan, siku di sisi luar.
+
+67
+00:03:32,015 --> 00:03:33,784
+Minum perlahan, jangan pernah diseruput.
+
+68
+00:03:37,788 --> 00:03:41,625
+Angkat kelingking,
+ulurkan lengan...
+
+69
+00:03:41,658 --> 00:03:42,993
+siku di sisi luar.
+
+70
+00:03:43,827 --> 00:03:45,095
+Sejajarkan dengan cangkirmu.
+
+71
+00:03:46,096 --> 00:03:47,664
+Perlahan... turunkan cangkirmu.
+
+72
+00:03:49,065 --> 00:03:50,534
+Bisa kita ulangi lagi?
+
+73
+00:03:51,435 --> 00:03:52,636
+Angkat jari kelingking...
+
+74
+00:03:54,070 --> 00:03:55,338
+Ulurkan lenganmu...
+
+75
+00:03:55,372 --> 00:03:57,040
+Siku di sisi luar
+
+76
+00:03:57,073 --> 00:03:58,842
+Perlahan-lahan.
+
+77
+00:04:03,947 --> 00:04:04,981
+Charity, kemari.
+
+78
+00:04:14,825 --> 00:04:16,727
+Sikapmu.
+
+79
+00:04:16,760 --> 00:04:18,962
+Apakah kami mengajarimu seperti itu?
+
+80
+00:04:20,163 --> 00:04:21,732
+Ini salahku, Tuan.
+
+81
+00:04:23,233 --> 00:04:24,468
+Aku yang membuatnya tertawa.
+
+82
+00:04:24,501 --> 00:04:27,438
+Terima kasih atas kejujuranmu.
+
+83
+00:04:30,006 --> 00:04:32,609
+Menjauhlah dari putriku.
+
+84
+00:04:54,431 --> 00:04:56,366
+Bagaimana kamu bisa keluar?
+
+85
+00:04:56,399 --> 00:04:57,934
+Jendela.
+
+86
+00:05:00,203 --> 00:05:03,507
+Ayah menyuruhku menyelesaikan sekolah.
+
+87
+00:05:03,540 --> 00:05:05,842
+Aku tidak tahu bagaimana masa depanku.
+
+88
+00:05:07,744 --> 00:05:08,912
+Aku tahu.
+
+89
+00:05:10,346 --> 00:05:13,550
+<i>♪ I close my eyes and I can see ♪</i>
+<font color="#00ff00">♪ Aku tutup mataku dan aku bisa melihat ♪</font>
+
+90
+00:05:13,584 --> 00:05:17,488
+<i>♪ A world that's waiting up for me ♪</i>
+<font color="#00ff00">♪ Dunia yang menantiku ♪</font>
+
+91
+00:05:17,521 --> 00:05:20,423
+<i>♪ That I call my own ♪</i>
+<font color="#00ff00">♪ Bahwa aku memanggil diriku sendiri ♪</font>
+
+92
+00:05:23,727 --> 00:05:26,930
+<i>♪ Through the dark, through the door ♪</i>
+<font color="#00ff00">♪ Melalui kegelapan, melalui pintu ♪</font>
+
+93
+00:05:26,963 --> 00:05:30,867
+<i>♪ Through where no one's been before ♪</i>
+<font color="#00ff00">♪ Melalui yang belum pernah dilewati ♪</font>
+
+94
+00:05:30,901 --> 00:05:34,104
+<i>♪ But it feels like home ♪</i>
+<font color="#00ff00">♪ Tapi rasanya seperti di rumah ♪</font>
+
+95
+00:05:36,573 --> 00:05:38,274
+<i>♪ They can say, they can say ♪</i>
+<font color="#00ff00">♪ Mereka boleh bilang ♪</font>
+
+96
+00:05:38,308 --> 00:05:40,611
+<i>♪ It all sounds crazy ♪</i>
+<font color="#00ff00">♪ Semuanya terdengar gila ♪</font>
+
+97
+00:05:42,378 --> 00:05:47,784
+<i>♪ They can say, they can say I've lost my mind ♪</i>
+<font color="#00ff00">♪ Mereka boleh bilang, aku kehilangan akal ♪</font>
+
+98
+00:05:49,352 --> 00:05:51,087
+<i>♪ I don't care, I don't care ♪</i>
+<font color="#00ff00">♪ Aku tidak peduli, aku tidak peduli ♪</font>
+
+99
+00:05:51,121 --> 00:05:53,356
+<i>♪ So call me crazy ♪</i>
+<font color="#00ff00">♪ Jadi, anggap saja aku gila ♪</font>
+
+100
+00:05:55,559 --> 00:06:00,363
+<i>♪ We can live in a world that we design ♪</i>
+<font color="#00ff00">♪ Kita bisa hidup di dunia yang kita rancang ♪</font>
+
+101
+00:06:02,165 --> 00:06:05,068
+<i>♪ ' Cause ev'ry night i lie in bed ♪</i>
+<font color="#00ff00">♪ Karena setiap malam aku berbaring di tempat tidur ♪</font>
+
+102
+00:06:05,101 --> 00:06:08,639
+<i>♪ The brightest colors fill my head ♪</i>
+<font color="#00ff00">♪ Warna-warni terang memenuhi kepalaku ♪</font>
+
+103
+00:06:08,672 --> 00:06:09,840
+<i>♪ A million dreams ♪</i>
+<font color="#00ff00">♪ Sejuta mimpi ♪</font>
+
+104
+00:06:09,873 --> 00:06:12,909
+<i>♪ Are keepin' me awake ♪</i>
+<font color="#00ff00">♪ Membuatku tetap terbangun ♪</font>
+
+105
+00:06:15,145 --> 00:06:18,314
+<i>♪ I think of what the world could be ♪</i>
+<font color="#00ff00">♪ Aku memikirkan dunia akan seperti apa ♪</font>
+
+106
+00:06:18,348 --> 00:06:21,217
+<i>♪ A vision of the one I see ♪</i>
+<font color="#00ff00">♪ Sebuah visi yang aku lihat ♪</font>
+
+107
+00:06:21,251 --> 00:06:27,624
+<i>♪ A million dreams is all it's gonna take ♪</i>
+<font color="#00ff00">♪ Sejuta mimpilah yang aku butuhkan ♪</font>
+
+108
+00:06:27,658 --> 00:06:29,459
+<i>♪ Oh, a million dreams ♪</i>
+<font color="#00ff00">♪ Oh, sejuta mimpi ♪</font>
+
+109
+00:06:29,492 --> 00:06:31,736
+<i>♪ For the world we're gonna make ♪</i>
+<font color="#00ff00">♪ Bagi dunia yang akan kita jalani ♪</font>
+
+110
+00:06:38,935 --> 00:06:40,737
+<i>♪ They can say, they can say ♪</i>
+<font color="#00ff00">♪ Mereka boleh bilang ♪</font>
+
+111
+00:06:40,771 --> 00:06:43,574
+<i>♪ It all sounds crazy ♪</i>
+<font color="#00ff00">♪ Semuanya terdengar gila ♪</font>
+
+112
+00:06:45,075 --> 00:06:47,177
+<i>♪ They can say, they can say ♪</i>
+<font color="#00ff00">♪ Mereka boleh bilang ♪</font>
+
+113
+00:06:47,210 --> 00:06:49,212
+♪ We've lost our minds ♪
+<font color="#00ff00">♪ Kita telah kehilangan akal kita ♪</font>
+
+114
+00:06:49,245 --> 00:06:51,089
+Charity!
+
+115
+00:06:51,815 --> 00:06:53,750
+<i>♪ I don't care, I don't care ♪</i>
+<font color="#00ff00">♪ Aku tidak peduli... ♪</font>
+
+116
+00:06:53,784 --> 00:06:56,186
+<i>♪ If they call us crazy ♪</i>
+<font color="#00ff00">♪ Jika mereka menyebut kita gila ♪</font>
+
+117
+00:06:58,088 --> 00:07:01,592
+<i>♪ Run away to a world that we design ♪</i>
+<font color="#00ff00">♪ Berlari ke dunia yang kita rancang ♪</font>
+
+118
+00:07:04,661 --> 00:07:07,497
+<i>♪ 'Cause ev'ry night i lie in bed ♪</i>
+<font color="#00ff00">♪ Karena setiap malam aku berbaring di tempat tidur ♪</font>
+
+119
+00:07:07,530 --> 00:07:10,767
+<i>♪ The brightest colors fill my head ♪</i>
+<font color="#00ff00">♪ Warna-warni terang memenuhi kepalaku ♪</font>
+
+120
+00:07:10,801 --> 00:07:17,273
+<i>♪ A million dreams are keepin' me awake ♪</i>
+<font color="#00ff00">♪ Sejuta mimpi membuatku terjaga ♪</font>
+
+121
+00:07:17,307 --> 00:07:20,010
+<i>♪ I think of what the world could be ♪</i>
+<font color="#00ff00">♪ Aku memikirkan dunia akan seperti apa ♪</font>
+
+122
+00:07:20,043 --> 00:07:21,311
+Hei!
+
+123
+00:07:21,344 --> 00:07:23,814
+<i>♪ A vision of the one I see ♪</i>
+<font color="#00ff00">♪ Sebuah visi yang aku lihat ♪</font>
+
+124
+00:07:23,847 --> 00:07:26,817
+<i>♪ A million dreams is all it's gonna take ♪</i>
+<font color="#00ff00">♪ Sejuta mimpilah yang aku butuhkan ♪</font>
+
+125
+00:07:26,850 --> 00:07:27,918
+Tidak!
+
+126
+00:07:30,353 --> 00:07:31,922
+<i>♪ Oh, a million dreams ♪</i>
+<font color="#00ff00">♪ Oh, sejuta mimpi ♪</font>
+
+127
+00:07:31,955 --> 00:07:34,257
+<i>♪ For the world we're gonna make ♪</i>
+<font color="#00ff00">♪ Bagi dunia yang akan kita lalui ♪</font>
+
+128
+00:07:50,373 --> 00:07:53,610
+Surat kabar!
+Cerita yang menakjubkan dari seluruh dunia!
+
+129
+00:07:53,644 --> 00:07:56,379
+<i>♪ A million dreams are keepin' me ♪</i>
+<font color="#00ff00">♪ Sejuta mimpilah yang membuatku ♪</font>
+
+130
+00:07:56,412 --> 00:07:59,783
+<i>♪ Awake ♪</i>
+<font color="#00ff00">♪ Terjaga ♪</font>
+
+131
+00:07:59,816 --> 00:08:03,086
+<i>♪ I think of what the world could be ♪</i>
+<font color="#00ff00">♪ Aku memikirkan dunia akan seperti apa ♪</font>
+
+132
+00:08:03,119 --> 00:08:06,089
+<i>♪ A vision of the one I see ♪</i>
+<font color="#00ff00">♪ Sebuah visi yang aku lihat ♪</font>
+
+133
+00:08:06,122 --> 00:08:11,194
+<i>♪ A million dreams is all it's gonna take ♪</i>
+<font color="#00ff00">♪ Sejuta mimpilah yang aku butuhkan ♪</font>
+
+134
+00:08:12,462 --> 00:08:13,897
+<i>♪ Oh, a million dreams ♪</i>
+<font color="#00ff00">♪ Oh, sejuta mimpi ♪</font>
+
+135
+00:08:13,930 --> 00:08:17,668
+<i>♪ For the world we're gonna make ♪</i>
+<font color="#00ff00">♪ Bagi dunia yang akan kita ciptakan ♪</font>
+
+136
+00:08:19,870 --> 00:08:22,906
+Ayo! Bergabunglah dengan
+Great American Railroad!
+
+137
+00:08:22,939 --> 00:08:25,642
+Makan tiga kali sehari.
+Atap ada di atas kepalamu.
+
+138
+00:08:25,676 --> 00:08:29,913
+Upah yang adil dan melimpah.
+Ayo, raih keberuntunganmu!
+
+139
+00:08:29,946 --> 00:08:32,683
+Melihat daratan luas Amerika!
+
+140
+00:08:32,716 --> 00:08:35,385
+Kesempatan menantimu, Tuan.
+Di luar sana bersama rel.
+
+141
+00:08:52,135 --> 00:08:53,804
+Tuan, aku...
+
+142
+00:08:53,837 --> 00:08:55,371
+Aku sadar bukan dari keluarga berkecukupan,
+
+143
+00:08:55,405 --> 00:08:58,274
+tapi.. aku akan menjaga putrimu
+
+144
+00:08:58,308 --> 00:09:01,411
+dan aku akan memberinya
+kehidupan seperti yang Anda berikan.
+
+145
+00:09:07,718 --> 00:09:09,285
+Selamat tinggal, Ibu.
+
+146
+00:09:10,721 --> 00:09:11,955
+Dia akan kembali.
+
+147
+00:09:11,988 --> 00:09:15,558
+Cepat atau lambat,
+dia akan bosan dengan kehidupanmu...
+
+148
+00:09:15,591 --> 00:09:16,893
+yang tidak memiliki apa pun,
+
+149
+00:09:16,927 --> 00:09:18,895
+dan dia akan berlari kembali
+pulang ke rumah.
+
+150
+00:09:28,471 --> 00:09:31,274
+<i>♪ ev'ry night i lie in bed ♪</i>
+<font color="#00ff00">♪ Karena setiap malam aku berbaring di tempat tidur ♪</font>
+
+151
+00:09:31,307 --> 00:09:34,811
+<i>♪ The brightest colors fill my head ♪</i>
+<font color="#00ff00">♪ Warna-warni terang memenuhi kepalaku ♪</font>
+
+152
+00:09:34,845 --> 00:09:40,917
+<i>♪ A million dreams are keepin' me awake ♪</i>
+<font color="#00ff00">♪ Sejuta mimpi membuatku terjaga ♪</font>
+
+153
+00:09:40,951 --> 00:09:44,420
+<i>♪ I think of what the world could be ♪</i>
+<font color="#00ff00">♪ Aku memikirkan dunia akan seperti apa ♪</font>
+
+154
+00:09:44,454 --> 00:09:47,490
+<i>♪ A vision of the one I see ♪</i>
+<font color="#00ff00">♪ Sebuah visi yang aku lihat ♪</font>
+
+155
+00:09:47,523 --> 00:09:52,863
+<i>♪ A million dreams is all it's gonna take ♪</i>
+<font color="#00ff00">♪ Sejuta mimpilah yang aku butuhkan ♪</font>
+
+156
+00:09:53,830 --> 00:09:55,665
+<i>♪ Oh, a million dreams ♪</i>
+<font color="#00ff00">♪ Oh, sejuta mimpi ♪</font>
+
+157
+00:09:55,698 --> 00:09:58,869
+<i>♪ For the world we're gonna make ♪</i>
+<font color="#00ff00">♪ Bagi dunia yang akan kita jalani ♪</font>
+
+158
+00:09:58,902 --> 00:10:02,072
+<i>♪ However big However small ♪</i>
+<font color="#00ff00">♪ Tak peduli besar, tak peduli kecil ♪</font>
+
+159
+00:10:02,105 --> 00:10:06,442
+<i>♪ Let me be a part of it all ♪</i>
+<font color="#00ff00">♪ Biarkan aku menjadi bagian dari itu semua ♪</font>
+
+160
+00:10:06,476 --> 00:10:10,847
+<i>♪ Share your dreams with me ♪</i>
+<font color="#00ff00">♪ Bagikan mimpimu bersamaku ♪</font>
+
+161
+00:10:12,082 --> 00:10:15,085
+<i>♪ You may be right, you may be wrong ♪</i>
+<font color="#00ff00">♪ Kamu mungkin benar, kamu mungkin salah ♪</font>
+
+162
+00:10:15,118 --> 00:10:18,855
+<i>♪ But say that you'll bring me along ♪</i>
+<font color="#00ff00">♪ Asalkan kamu selalu menyertaiku ♪</font>
+
+163
+00:10:18,889 --> 00:10:22,125
+<i>♪ To the world you see ♪</i>
+<font color="#00ff00">♪ Menuju dunia yang kamu lihat ♪</font>
+
+164
+00:10:22,158 --> 00:10:26,496
+<i>♪ To the world I close my eyes to see ♪</i>
+<font color="#00ff00">♪ Menuju dunia kututup mataku untuk melihat ♪</font>
+
+165
+00:10:26,529 --> 00:10:30,967
+<i>♪ I close my eyes to see ♪</i>
+<font color="#00ff00">♪ Aku menutup mataku untuk melihat ♪</font>
+
+166
+00:10:32,035 --> 00:10:35,205
+<i>♪ ' Cause ev'ry night i lie in bed ♪</i>
+<font color="#00ff00">♪ Karena setiap malam aku berbaring di tempat tidur ♪</font>
+
+167
+00:10:35,238 --> 00:10:38,374
+<i>♪ The brightest colors fill my head ♪</i>
+<font color="#00ff00">♪ Warna-warni terang memenuhi kepalaku ♪</font>
+
+168
+00:10:38,408 --> 00:10:42,345
+<i>♪ Are keepin' me awake ♪</i>
+<font color="#00ff00">♪ Membuatku tetap terjaga ♪</font>
+
+169
+00:10:42,378 --> 00:10:45,081
+<i>♪ A million dreams ♪</i>
+<font color="#00ff00">♪ Sejuta mimpi ♪</font>
+
+170
+00:10:45,115 --> 00:10:48,251
+<i>♪ I think of what the world could be ♪</i>
+<font color="#00ff00">♪ Aku memikirkan dunia akan seperti apa ♪</font>
+
+171
+00:10:48,284 --> 00:10:51,421
+<i>♪ A vision of the one I see ♪</i>
+<font color="#00ff00">♪ Sebuah visi yang aku lihat ♪</font>
+
+172
+00:10:51,454 --> 00:10:55,525
+<i>♪ A million dreams is all it's gonna take ♪</i>
+<font color="#00ff00">♪ Sejuta mimpilah yang aku butuhkan ♪</font>
+
+173
+00:10:58,094 --> 00:10:59,762
+<i>♪ A million dreams ♪</i>
+<font color="#00ff00">♪ Sejuta mimpi ♪</font>
+
+174
+00:10:59,796 --> 00:11:02,365
+<i>♪ For the world we're gonna make ♪</i>
+<font color="#00ff00">♪ Bagi dunia yang akan kita jalani ♪</font>
+
+175
+00:11:09,039 --> 00:11:12,809
+<i>♪ For the world we're gonna make ♪</i>
+<font color="#00ff00">♪ Bagi dunia yang akan kita jalani ♪</font>
+
+176
+00:11:20,951 --> 00:11:22,194
+- Tn. Smith?
+- Ya.
+
+177
+00:11:22,218 --> 00:11:23,830
+- Lihatlah ini.
+- Tentu saja.
+
+178
+00:11:42,072 --> 00:11:44,507
+Ya, ya, aku melihatnya.
+
+179
+00:11:44,540 --> 00:11:45,976
+Terima kasih, Chalmers, itu cukup
+
+180
+00:11:46,009 --> 00:11:48,344
+Tuan...
+Phineas Taylor Barnum.
+
+181
+00:11:48,378 --> 00:11:50,213
+Jika diijinkan, Tuan...
+
+182
+00:11:50,246 --> 00:11:51,882
+Aku yakin memiliki keterampilan dan gagasan
+
+183
+00:11:51,915 --> 00:11:53,316
+yang lebih daripada hanya mengetik angka
+
+184
+00:11:53,349 --> 00:11:54,284
+pada mesin itu.
+
+185
+00:11:54,317 --> 00:11:55,761
+Nah, Aku membaca tentang orang Jerman ini,
+
+186
+00:11:55,785 --> 00:11:57,820
+Lilienthal, aku yakin yang membuat
+
+187
+00:11:57,853 --> 00:11:59,990
+Pesawat layang yang dapat membawa
+seorang pria ke langit, Tuan.
+
+188
+00:12:00,023 --> 00:12:01,291
+Bukankah itu luar biasa?
+
+189
+00:12:01,324 --> 00:12:03,459
+Maksudku,
+jika Anda menerapkannya pada bisnis ini,
+
+190
+00:12:03,493 --> 00:12:04,861
+akan menjadi terobosan.
+
+191
+00:12:04,895 --> 00:12:07,730
+Tuan-tuan!
+Bisa minta perhatiannya?
+
+192
+00:12:07,763 --> 00:12:09,599
+Kalian semua diberhentikan.
+
+193
+00:12:10,733 --> 00:12:12,002
+Bangkrut?
+
+194
+00:12:12,035 --> 00:12:14,104
+Kukira perusahaan punya banyak kapal dagang.
+
+195
+00:12:14,137 --> 00:12:16,239
+Ya, di dasar Laut Cina Selatan.
+
+196
+00:12:16,839 --> 00:12:19,342
+Badai topan menenggelamkan kapal-kapal kita.
+
+197
+00:12:25,850 --> 00:12:27,294
+<i>Bukti Kepemilikan Kapal</i>
+
+198
+00:12:56,879 --> 00:12:59,149
+- Kena!
+- Oh, giliranmu!
+
+199
+00:13:00,083 --> 00:13:00,951
+Hei.
+
+200
+00:13:00,984 --> 00:13:03,619
+Astaga! Kamu pulang lebih awal.
+
+201
+00:13:03,853 --> 00:13:05,421
+Sampai ada pemberitahuan lebih lanjut.
+
+202
+00:13:09,259 --> 00:13:11,361
+Yah, aku tidak berpikir
+kau betah di pekerjaan itu.
+
+203
+00:13:11,394 --> 00:13:13,196
+Atau pekerjaan apa pun, sepertinya.
+
+204
+00:13:13,229 --> 00:13:15,665
+Itulah yang membuat hidup kita bersama
+begitu menarik.
+
+205
+00:13:16,332 --> 00:13:18,034
+Charity.
+
+206
+00:13:20,937 --> 00:13:23,639
+Ini bukanlah kehidupan yang
+aku janjikan padamu.
+
+207
+00:13:23,673 --> 00:13:25,541
+Tapi aku memiliki semua yang kuinginkan.
+
+208
+00:13:25,575 --> 00:13:27,110
+Bagaimana dengan sihirnya?
+
+209
+00:13:27,143 --> 00:13:28,844
+Kamu sebut apa dua anak gadis kita?
+
+210
+00:13:31,581 --> 00:13:33,950
+Hei, para rekan,
+lihat siapa mendatangi kita.
+
+211
+00:13:35,685 --> 00:13:36,852
+Ayah!
+
+212
+00:13:36,886 --> 00:13:38,197
+- Kemari!
+- Apakah kamu membawa hadiah?
+
+213
+00:13:38,221 --> 00:13:39,755
+Hadiah untuk apa?
+
+214
+00:13:39,789 --> 00:13:41,391
+- Untuk ulang tahunku!
+- Untuk apa?
+
+215
+00:13:41,424 --> 00:13:44,094
+- Ulang tahunku.
+- Ini bukanlah ulang tahunmu.
+
+216
+00:13:44,127 --> 00:13:47,030
+Okeh, Aku punya hadiah...
+
+217
+00:13:47,063 --> 00:13:49,165
+tapi bukan sembarang hadiah.
+Oh, tidak.
+
+218
+00:13:49,199 --> 00:13:52,635
+Hadiah ulang tahun paling menakjubkan
+yang pernah ada.
+
+219
+00:13:52,668 --> 00:13:55,205
+Mesin luar biasa ini dibuat oleh
+
+220
+00:13:55,238 --> 00:13:57,640
+Leonardo da Vinci,
+400 tahun yang lalu.
+
+221
+00:13:57,673 --> 00:13:59,909
+Tapi cetak birunya
+telah hilang selama berabad-abad
+
+222
+00:13:59,942 --> 00:14:02,011
+sampai minggu lalu,
+di malam yang penuh badai,
+
+223
+00:14:02,044 --> 00:14:03,946
+ketika kapal bajak laut yang tenggelam
+terseret ombak
+
+224
+00:14:03,980 --> 00:14:05,748
+di pantai Nantucket.
+
+225
+00:14:05,781 --> 00:14:08,051
+Mereka menemukan
+kerangka dan harta karun
+
+226
+00:14:08,084 --> 00:14:09,885
+dan cetak biru itu
+ditemukan kembali
+
+227
+00:14:09,919 --> 00:14:14,991
+oleh tidak lain dari...
+J.W. Mercantile.
+
+228
+00:14:15,025 --> 00:14:17,393
+Cetak biru itu melewati mejaku
+dengan sangat cepat
+
+229
+00:14:17,427 --> 00:14:19,462
+tapi aku berhasil mengingatnya.
+
+230
+00:14:19,495 --> 00:14:23,499
+Dan...
+jika aku mengingatnya dengan benar...
+
+231
+00:14:30,273 --> 00:14:32,475
+Selamat ulang tahun, Caroline.
+
+232
+00:14:39,849 --> 00:14:41,517
+Ini adalah pengabul permintaan.
+
+233
+00:14:41,551 --> 00:14:43,553
+Kamu katakan keinginanmu pada alat ini...
+
+234
+00:14:44,454 --> 00:14:47,390
+maka mesin ini akan menjaganya
+sampai menjadi kenyataan.
+
+235
+00:14:47,423 --> 00:14:51,427
+Bahkan jika kamu melupakannya,
+permintaanmu selalu ada di sana.
+
+236
+00:14:51,461 --> 00:14:52,595
+Bisakah aku mengatakan permintaan?
+
+237
+00:14:52,628 --> 00:14:55,098
+Kemarilah, katakan saja.
+
+238
+00:14:55,131 --> 00:14:58,901
+Aku ingin menikahi Santa Claus.
+
+239
+00:14:58,934 --> 00:15:00,736
+Itu permintaan yang bagus.
+
+240
+00:15:01,837 --> 00:15:05,608
+Aku ingin sepatu balet.
+
+241
+00:15:11,681 --> 00:15:13,683
+Hei, itu permintaan yang bagus juga.
+
+242
+00:15:14,317 --> 00:15:16,086
+Apa permintaanmu, Mama?
+
+243
+00:15:17,787 --> 00:15:19,589
+Aku ingin...
+
+244
+00:15:23,993 --> 00:15:26,996
+Bahagia seperti ini untuk selamanya.
+
+245
+00:15:27,029 --> 00:15:28,731
+untukmu dan kamu...
+
+246
+00:15:30,500 --> 00:15:32,335
+dan untuk ayahmu.
+
+247
+00:15:32,835 --> 00:15:34,470
+Membosankan!
+
+248
+00:15:34,504 --> 00:15:36,172
+<i>Membosankan?</i>
+
+249
+00:15:36,206 --> 00:15:39,475
+<i>Sejak kapan kebahagiaan itu membosankan?</i>
+
+250
+00:15:39,509 --> 00:15:42,545
+<i>♪ Ev'ry night i lie in bed ♪</i>
+<font color="#00ff00">♪ Setiap malam aku berbaring di tempat tidur ♪</font>
+
+251
+00:15:42,578 --> 00:15:45,715
+<i>♪ The brightest colors fill my head ♪</i>
+<font color="#00ff00">♪ Warna-warni terang memenuhi kepalaku ♪</font>
+
+252
+00:15:45,748 --> 00:15:50,720
+<i>♪ A million dreams ♪</i>
+<font color="#00ff00">♪ Sejuta mimpi ♪</font>
+
+253
+00:15:52,488 --> 00:15:55,991
+<i>♪ I think of what the world could be ♪</i>
+<font color="#00ff00">♪ Aku memikirkan dunia akan seperti apa ♪</font>
+
+254
+00:15:56,025 --> 00:15:59,229
+<i>♪ A vision of the one I see ♪</i>
+<font color="#00ff00">♪ Sebuah visi yang aku lihat ♪</font>
+
+255
+00:15:59,262 --> 00:16:03,699
+<i>♪ A million dreams is all it's gonna take ♪</i>
+<font color="#00ff00">♪ Sejuta mimpilah yang aku butuhkan ♪</font>
+
+256
+00:16:07,503 --> 00:16:09,572
+<i>♪ A million dreams ♪</i>
+<font color="#00ff00">♪ Sejuta mimpi ♪</font>
+
+257
+00:16:09,605 --> 00:16:12,808
+<i>♪ For the world we're gonna make ♪</i>
+<font color="#00ff00">♪ Bagi dunia yang akan kita jalani ♪</font>
+
+258
+00:16:27,190 --> 00:16:30,693
+Harga daging kambing naik,
+jadi harga daging babi turun.
+
+259
+00:16:31,927 --> 00:16:34,029
+- Charles, kita pergi
+- Hah?
+
+260
+00:16:34,063 --> 00:16:35,531
+Bank ini hanya ingin
+meminjamkan uang
+
+261
+00:16:35,565 --> 00:16:36,799
+kepada orang yang punya uang.
+
+262
+00:16:41,337 --> 00:16:43,873
+Apa yang kau lihat, muka gagal?
+
+263
+00:16:45,941 --> 00:16:47,843
+Tuan Barnum.
+
+264
+00:16:49,845 --> 00:16:53,616
+Usaha yang kau usulkan ini berisiko
+dan agak aneh.
+
+265
+00:16:53,649 --> 00:16:55,585
+Ini taruhan yang bagus, pak.
+
+266
+00:16:55,618 --> 00:16:57,253
+Orang-orang tidak mau mengakuinya...
+
+267
+00:16:57,287 --> 00:17:00,022
+Tapi mereka terpesona dengan
+sesuatu yang eksotis dan mengerikan.
+
+268
+00:17:00,055 --> 00:17:01,691
+Itulah sebabnya kita menatapnya.
+
+269
+00:17:01,724 --> 00:17:04,527
+Bank akan membutuhkan jaminan yang besar.
+
+270
+00:17:05,795 --> 00:17:08,998
+Tentu saja. Aku, uh...
+Aku tidak menyangkalnya.
+
+271
+00:17:09,031 --> 00:17:11,100
+Akta dan hak milik
+dari seluruh armada
+
+272
+00:17:11,133 --> 00:17:12,535
+Kapal perdagangan milikku.
+
+273
+00:17:15,938 --> 00:17:18,408
+Bagaimana bisa
+bank meminjamkan kita $ 10.000?
+
+274
+00:17:18,441 --> 00:17:20,543
+Karena kita ada jaminan yang besar.
+
+275
+00:17:20,576 --> 00:17:22,020
+Tapi, sayang,
+kita tidak punya jaminan apa pun.
+
+276
+00:17:22,044 --> 00:17:23,412
+Tentu saja kita punya.
+
+277
+00:17:23,445 --> 00:17:24,580
+Di Laut Cina Selatan.
+
+278
+00:17:24,614 --> 00:17:25,981
+Di Laut Cina Selatan?
+
+279
+00:17:26,015 --> 00:17:28,218
+Di kedalaman Laut Cina Selatan.
+
+280
+00:17:28,551 --> 00:17:31,421
+Dan apa yang kita beli dengan pinjaman ini?
+
+281
+00:17:31,454 --> 00:17:34,657
+"Museum keganjilan milik Barnum."
+
+282
+00:17:34,690 --> 00:17:36,359
+Museum apa itu?
+
+283
+00:17:39,094 --> 00:17:40,496
+Tempat duduk akan segera dikirim.
+
+284
+00:17:40,530 --> 00:17:42,097
+Tempat di mana orang dapat melihat sesuatu
+
+285
+00:17:42,131 --> 00:17:43,299
+yang belum pernah mereka lihat sebelumnya.
+
+286
+00:17:43,699 --> 00:17:44,500
+Hah?
+
+287
+00:17:44,534 --> 00:17:46,702
+- Patung lilin?
+- Yeah. Ya!
+
+288
+00:17:46,736 --> 00:17:48,571
+Mereka semua terkenal di Eropa.
+Lihatlah.
+
+289
+00:17:48,604 --> 00:17:51,106
+Marie Antoinette dengan tenggorokan yang terpenggal.
+Napoleon.
+
+290
+00:17:51,340 --> 00:17:53,008
+Kemari. Lihat?
+
+291
+00:17:53,042 --> 00:17:55,911
+Kalian telah bertemu dengan beberapa
+orang paling terkenal dalam sejarah.
+
+292
+00:17:55,945 --> 00:17:57,280
+Tapi tidak semuanya dari lilin.
+
+293
+00:17:57,313 --> 00:18:00,783
+Ini adalah si hebat O'Malley.
+
+294
+00:18:00,816 --> 00:18:03,553
+Master sulap tangan.
+Rajanya penipu.
+
+295
+00:18:03,586 --> 00:18:05,488
+Kau tidak terlihat seperti seorang pesulap.
+
+296
+00:18:06,222 --> 00:18:07,757
+Aku seorang pencuri.
+
+297
+00:18:07,790 --> 00:18:09,058
+Pencuri yang sangat handal.
+
+298
+00:18:09,091 --> 00:18:10,926
+Aku menangkapnya saat mengambil arlojiku.
+
+299
+00:18:10,960 --> 00:18:12,027
+- Lihat?
+- Seekor gajah!
+
+300
+00:18:12,061 --> 00:18:13,128
+Bukan sembarang gajah.
+
+301
+00:18:13,162 --> 00:18:14,429
+Aku bisa memberimu
+sesuatu yang sangat bagus.
+
+302
+00:18:14,463 --> 00:18:15,730
+- Katakan saja.
+- Terima kasih
+
+303
+00:18:15,798 --> 00:18:17,500
+Oh ya.
+Ini adalah banteng Ten-ton.
+
+304
+00:18:17,533 --> 00:18:19,602
+langsung dari daratan Afrika.
+
+305
+00:18:19,635 --> 00:18:21,871
+Dan lihat itu!
+
+306
+00:18:22,104 --> 00:18:24,073
+Jerapah tertinggi di dunia.
+
+307
+00:18:24,106 --> 00:18:25,575
+Bolehkah aku memanjat kakinya?
+
+308
+00:18:25,608 --> 00:18:27,977
+Tentu tidak boleh.
+Oke.
+
+309
+00:18:28,010 --> 00:18:30,946
+Sekarang, aku tahu bagaimana kelihatannya.
+
+310
+00:18:30,980 --> 00:18:32,382
+Jika tidak, aku akan khawatir.
+
+311
+00:18:32,415 --> 00:18:34,216
+Maksudku, ini hanya membutuhkan
+sedikit perbaikan, tapi...
+
+312
+00:18:34,250 --> 00:18:35,761
+Pinjaman harus dibayar kembali setiap bulan.
+
+313
+00:18:35,785 --> 00:18:37,563
+Oh, ya, kita akan membayarnya.
+Kita hanya butuh pelanggan.
+
+314
+00:18:37,587 --> 00:18:39,267
+- Ratusan pelanggan.
+- Kita akan mendapatkannya.
+
+315
+00:18:42,525 --> 00:18:44,259
+Selamat datang di Museum Barnum.
+
+316
+00:18:44,293 --> 00:18:45,528
+Ini hanya butuh satu jam saja, Tuan,
+
+317
+00:18:45,561 --> 00:18:47,162
+tapi itu akan mengubah hidupmu
+
+318
+00:18:47,196 --> 00:18:48,807
+Kami punya pertunjukkan setiap jam.
+
+319
+00:18:48,831 --> 00:18:50,065
+Aku suka pakaianmu.
+
+320
+00:18:50,099 --> 00:18:51,534
+Tentunya bukan untuk yang lemah jantung,
+
+321
+00:18:51,567 --> 00:18:53,436
+tapi aku jamin kalian akan menyukainya.
+
+322
+00:18:53,469 --> 00:18:55,538
+Setengah harga bagi siapa saja
+memakai topi.
+
+323
+00:18:55,571 --> 00:18:56,572
+Ho, ho!
+Itu kau, Tuan.
+
+324
+00:18:56,606 --> 00:18:59,609
+Selamat datang di Museum Barnum.
+
+325
+00:19:05,615 --> 00:19:06,549
+<i>Sampah.</i>
+
+326
+00:19:06,582 --> 00:19:08,150
+Astaga, tidak.
+Ini payah.
+
+327
+00:19:08,383 --> 00:19:10,228
+Selamat datang di Museum Barnum,
+tempatnya orang-orang spesial...
+
+328
+00:19:10,352 --> 00:19:12,021
+Sudah berapa tiket?
+
+329
+00:19:12,054 --> 00:19:14,324
+- Tiga.
+- Tiga.
+
+330
+00:19:39,482 --> 00:19:40,983
+<i>Ayah.</i>
+
+331
+00:19:45,555 --> 00:19:46,956
+<i>Ayah.</i>
+
+332
+00:19:52,161 --> 00:19:54,364
+Apakah tiketmu terjual lagi hari ini?
+
+333
+00:19:54,397 --> 00:19:56,499
+Beberapa. Ya.
+
+334
+00:19:56,532 --> 00:19:58,768
+Semua orang buru-buru pulang,
+sekarang kan Jumat,
+
+335
+00:19:58,801 --> 00:20:03,739
+tapi kita menjual beberapa.
+
+336
+00:20:03,773 --> 00:20:07,843
+Aku pikir dirimu memiliki terlalu banyak
+benda mati di museum, Ayah.
+
+337
+00:20:07,877 --> 00:20:09,244
+Begitu?
+
+338
+00:20:09,278 --> 00:20:12,582
+Dia benar.
+Ayah butuh sesuatu yang hidup.
+
+339
+00:20:15,585 --> 00:20:17,219
+Tidurlah, kalian berdua.
+
+340
+00:20:17,252 --> 00:20:19,589
+Sesuatu yang sensasional.
+
+341
+00:20:20,222 --> 00:20:21,791
+Itu kata yang sulit.
+
+342
+00:20:21,824 --> 00:20:23,993
+Ayah yang mengajarkan.
+
+343
+00:20:24,026 --> 00:20:26,996
+Sesuatu yang bukan benda mati.
+
+344
+00:20:27,029 --> 00:20:29,633
+- Seperti putri duyung.
+- Atau unicorn.
+
+345
+00:20:30,900 --> 00:20:33,202
+Unicorn tidak nyata.
+
+346
+00:20:33,235 --> 00:20:35,705
+Yah, putri duyung juga sama.
+
+347
+00:21:02,231 --> 00:21:04,266
+Anda pasti Gertrude Stratton.
+
+348
+00:21:04,299 --> 00:21:05,568
+Aku mencari putramu.
+
+349
+00:21:06,335 --> 00:21:07,670
+Aku tidak punya putra.
+
+350
+00:21:08,370 --> 00:21:09,972
+Ada di catatan rumah sakit.
+
+351
+00:21:10,205 --> 00:21:12,642
+Charles kan? Umur 22
+
+352
+00:21:17,179 --> 00:21:18,681
+Charles!
+
+353
+00:21:20,182 --> 00:21:21,383
+Charles!
+
+354
+00:21:35,230 --> 00:21:36,974
+P.T. Barnum, siap melayanimu.
+
+355
+00:21:38,434 --> 00:21:40,770
+Aku sedang menyusun sebuah pertunjukan
+
+356
+00:21:40,803 --> 00:21:42,037
+dan aku butuh bintang.
+
+357
+00:21:43,172 --> 00:21:45,240
+Kau ingin orang menertawakan diriku?
+
+358
+00:21:45,274 --> 00:21:46,918
+Yah, mereka pasti tertawa, nak,
+
+359
+00:21:47,009 --> 00:21:48,377
+tetapi mereka harus membayarnya.
+
+360
+00:21:57,286 --> 00:21:59,321
+Aku melihat seorang prajurit,
+bukan, seorang jenderal
+
+361
+00:21:59,354 --> 00:22:02,825
+Berkuda melintasi panggung
+dengan pedang dan pistol,
+
+362
+00:22:02,858 --> 00:22:04,426
+- Lalu?
+- Lalu...
+
+363
+00:22:04,460 --> 00:22:06,962
+dan seragam terindah yang pernah dibuat.
+
+364
+00:22:06,996 --> 00:22:08,864
+Orang-orang akan datang
+dari seluruh dunia,
+
+365
+00:22:08,898 --> 00:22:11,867
+dan ketika mereka melihatnya,
+mereka tidak akan tertawa.
+
+366
+00:22:17,072 --> 00:22:18,741
+Mereka akan memberi hormat.
+
+367
+00:22:34,624 --> 00:22:35,891
+Bagaimana menurut kalian, anak-anak?
+
+368
+00:22:42,565 --> 00:22:44,399
+Hei! Kau mencari orang aneh?
+
+369
+00:22:44,433 --> 00:22:46,235
+Aku tahu di mana kau bisa
+menemukan salah satunya.
+
+370
+00:22:47,436 --> 00:22:48,638
+Benarkah?
+
+371
+00:22:53,008 --> 00:22:54,610
+Ayo, anak-anak.
+
+372
+00:22:58,948 --> 00:22:59,815
+Halo.
+
+373
+00:22:59,849 --> 00:23:01,050
+Tuan, kau tidak boleh di sini.
+
+374
+00:23:01,083 --> 00:23:03,052
+Maafkan aku, siapa itu yang bernyanyi?
+
+375
+00:23:06,121 --> 00:23:08,457
+Itu kamu, bukan?
+
+376
+00:23:08,490 --> 00:23:10,392
+Pak, kurasa aku harus memintamu untuk pergi.
+
+377
+00:23:10,425 --> 00:23:12,261
+Kau sangat berbakat, dianugerahi...
+
+378
+00:23:14,997 --> 00:23:16,465
+Luar biasa.
+
+379
+00:23:17,533 --> 00:23:19,134
+Unik.
+
+380
+00:23:20,335 --> 00:23:22,137
+Bahkan bisa kubilang indah.
+
+381
+00:23:24,406 --> 00:23:25,775
+Tuan.
+
+382
+00:23:26,441 --> 00:23:28,510
+Tolong tinggalkan diriku.
+
+383
+00:23:35,851 --> 00:23:37,887
+Mereka tidak paham,
+tapi mereka akan mengerti.
+
+384
+00:23:41,319 --> 00:23:43,985
+<font color="#ff8000">DICARI!
+Orang-orang Unik
+Tua dan Muda.</font>
+
+385
+00:23:52,234 --> 00:23:53,569
+Antrian ini sangat...
+
+386
+00:23:53,603 --> 00:23:57,272
+Ya, Tuhan! Oh, Astaga.
+
+387
+00:23:57,306 --> 00:24:01,711
+Oke. Anne and W.D. Wheeler.
+Kalian bersaudara?
+
+388
+00:24:01,744 --> 00:24:04,446
+- Ya, Pak.
+- Mantap. Apa keahlian kalian?
+
+389
+00:24:04,479 --> 00:24:05,581
+Akrobat tali.
+
+390
+00:24:05,615 --> 00:24:07,950
+Akrobat tali. Okeh.
+
+391
+00:24:07,983 --> 00:24:09,551
+Orang-orang tidak akan menyukainya
+
+392
+00:24:09,585 --> 00:24:11,086
+jika kau menampilkan kami di pentas.
+
+393
+00:24:11,120 --> 00:24:13,222
+Oh, kita lihat saja.
+
+394
+00:24:14,757 --> 00:24:17,559
+Apakah ini di seluruh...
+
+395
+00:24:17,593 --> 00:24:18,794
+Seluruh badan.
+
+396
+00:24:18,828 --> 00:24:20,630
+Mantap.
+Aku tidak perlu melihatnya.
+
+397
+00:24:24,166 --> 00:24:27,670
+- Woohoo!
+- Ya!
+
+398
+00:24:29,772 --> 00:24:31,406
+Bolehkah aku bertanya
+seberapa berat dirimu?
+
+399
+00:24:31,440 --> 00:24:32,975
+Apakah kau punya angkanya?
+
+400
+00:24:33,008 --> 00:24:36,211
+- Aku lebih suka tidak bilang, tapi...
+- Antara kita saja.
+
+401
+00:24:36,245 --> 00:24:38,681
+220 kg...
+
+402
+00:24:38,714 --> 00:24:42,852
+- 340 kg, katamu?
+- 340 kg, boleh juga!
+
+403
+00:24:52,361 --> 00:24:54,129
+Siapa namamu?
+
+404
+00:24:54,163 --> 00:24:56,632
+Vasily Palvos, Pak.
+
+405
+00:24:56,666 --> 00:24:58,233
+Ya, kita harus mengganti nama itu.
+
+406
+00:24:58,267 --> 00:25:00,770
+Uh, kupikir Irish saja.
+
+407
+00:25:02,437 --> 00:25:04,106
+Kita punya pertunjukkan!
+
+408
+00:25:05,741 --> 00:25:08,210
+Itu bagus, tapi aku butuh
+lima kali lebih besar!
+
+409
+00:25:08,243 --> 00:25:09,411
+Dan aku ingin ada di mana-mana!
+
+410
+00:25:09,444 --> 00:25:11,013
+Kereta kuda, sisi kereta api,
+
+411
+00:25:11,046 --> 00:25:14,549
+troli, peti, botol susu,
+di mana saja yang mereka lihat!
+
+412
+00:25:14,583 --> 00:25:17,252
+Barnum's American Museum.
+
+413
+00:25:20,422 --> 00:25:21,957
+Senang bertemu denganmu, Tuan.
+
+414
+00:25:25,560 --> 00:25:28,530
+<i>♪ You stumble through your days ♪</i>
+<font color="#00ff00">♪ Harimu melelahkan ♪</font>
+
+415
+00:25:28,563 --> 00:25:30,532
+<i>♪ Got your head hung low ♪</i>
+<font color="#00ff00">♪ Kepalamu tertunduk ♪</font>
+
+416
+00:25:30,565 --> 00:25:33,903
+<i>♪ Your sky's a shade of gray ♪</i>
+<font color="#00ff00">♪ Langitmu menggelap ♪</font>
+
+417
+00:25:33,936 --> 00:25:35,537
+<i>♪ Like a zombie in a maze ♪</i>
+<font color="#00ff00">♪ Seperti zombie di labirin ♪</font>
+
+418
+00:25:35,570 --> 00:25:36,638
+Pesan 2.
+
+419
+00:25:36,672 --> 00:25:38,640
+<i>♪ You're asleep inside ♪</i>
+<font color="#00ff00">♪ Kau tidur di dalamnya ♪</font>
+
+420
+00:25:38,674 --> 00:25:41,243
+<i>♪ But you can shake awake ♪</i>
+<font color="#00ff00">♪ Tapi kau bisa terbangun ♪</font>
+
+421
+00:25:41,276 --> 00:25:43,278
+<i>♪ 'Cause you're just a dead man walkin' ♪</i>
+<font color="#00ff00">♪ Karena kau hanyalah zombie yang berjalan ♪</font>
+
+422
+00:25:43,312 --> 00:25:45,047
+<i>♪ Thinkin' that's your only option ♪</i>
+<font color="#00ff00">♪ Anggap saja hanya itu pilihanmu ♪</font>
+
+423
+00:25:45,080 --> 00:25:46,816
+<i>♪ But you can flick the switch ♪</i>
+<font color="#00ff00">♪ Tapi kau bisa mengubahnya ♪</font>
+
+424
+00:25:46,849 --> 00:25:49,351
+<i>♪ And brighten up your darkest day ♪</i>
+<font color="#00ff00">♪ dan mencerahkan hari yang gelap ♪</font>
+
+425
+00:25:49,384 --> 00:25:51,153
+<i>♪ Sun is up and the color's blindin' ♪</i>
+<font color="#00ff00">♪ Matahari terbit dan menyilaukan ♪</font>
+
+426
+00:25:51,186 --> 00:25:53,188
+<i>♪ Take a world and redefine it ♪</i>
+<font color="#00ff00">♪ Hadapi dunia dan taklukkan ♪</font>
+
+427
+00:25:53,222 --> 00:25:54,990
+<i>♪ Leave behind your narrow mind ♪</i>
+<font color="#00ff00">♪ Tinggalkan pikiran sempitmu ♪</font>
+
+428
+00:25:55,024 --> 00:25:56,792
+<i>♪ You'll never be the same ♪</i>
+<font color="#00ff00">♪ Kau akan berubah ♪</font>
+
+429
+00:25:56,826 --> 00:26:00,529
+<i>♪ Come alive Come alive ♪</i>
+<font color="#00ff00">♪ Ayo hidupkan, Ayo hidupkan ♪</font>
+
+430
+00:26:00,562 --> 00:26:02,698
+<i>♪ Go and light your light ♪</i>
+<font color="#00ff00">♪ Ayo dan nyalakan cahayamu ♪</font>
+
+431
+00:26:02,732 --> 00:26:04,734
+<i>♪ Let it burn so bright ♪</i>
+<font color="#00ff00">♪ Biarkan menyala terang ♪</font>
+
+432
+00:26:04,767 --> 00:26:08,670
+<i>♪ Reachin' up to the sky ♪</i>
+<font color="#00ff00">♪ Menggapai ke langit ♪</font>
+
+433
+00:26:08,704 --> 00:26:10,840
+<i>♪ And it's open wide ♪</i>
+<font color="#00ff00">♪ Dan itu terbuka lebar ♪</font>
+
+434
+00:26:10,873 --> 00:26:13,142
+<i>♪ You're electrified ♪</i>
+<font color="#00ff00">♪ Kau pun dikejutkan ♪</font>
+
+435
+00:26:13,175 --> 00:26:15,177
+<i>♪ And the world becomes a fantasy ♪</i>
+<font color="#00ff00">♪ Dan dunia menjadi fantasi ♪</font>
+
+436
+00:26:15,210 --> 00:26:17,279
+<i>♪ And you're more than you could ever be ♪</i>
+<font color="#00ff00">♪ Dan kau menjadi lebih baik ♪</font>
+
+437
+00:26:17,312 --> 00:26:20,549
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kau bermimpi dengan mata terbuka lebar ♪</font>
+
+438
+00:26:21,884 --> 00:26:23,328
+<i>♪ And you know you can't go back again ♪</i>
+<font color="#00ff00">♪ Dan kau tahu tak bisa kembali lagi ♪</font>
+
+439
+00:26:23,352 --> 00:26:25,287
+<i>♪ To the world that you were livin' in ♪</i>
+<font color="#00ff00">♪ Ke dunia masa lalumu ♪</font>
+
+440
+00:26:25,320 --> 00:26:28,924
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kau bermimpi dengan mata terbuka lebar ♪</font>
+
+441
+00:26:28,958 --> 00:26:30,993
+<i>♪ So come alive! ♪</i>
+<font color="#00ff00">♪ Ayo hidupkan! ♪</font>
+
+442
+00:26:31,026 --> 00:26:32,762
+Whoa!
+
+443
+00:26:44,774 --> 00:26:45,841
+Lettie! Lettie!
+
+444
+00:26:45,875 --> 00:26:47,242
+- Mereka menunggu!
+- Untuk apa?
+
+445
+00:26:47,376 --> 00:26:48,844
+- Untukmu.
+- Tidak.
+
+446
+00:26:48,878 --> 00:26:50,813
+Mereka belum tahu...
+
+447
+00:26:50,846 --> 00:26:52,214
+tapi mereka akan menyukaimu.
+
+448
+00:26:54,016 --> 00:26:55,084
+Percayalah padaku.
+
+449
+00:27:00,122 --> 00:27:02,457
+Tom! Naik, naik!
+
+450
+00:27:07,797 --> 00:27:09,164
+<i>♪ I see it in your eyes ♪</i>
+<font color="#00ff00">♪ Aku melihatnya di matamu ♪</font>
+
+451
+00:27:10,399 --> 00:27:12,134
+<i>♪ You believe that lie ♪</i>
+<font color="#00ff00">♪ Kamu percaya kebohongan itu ♪</font>
+
+452
+00:27:12,167 --> 00:27:15,470
+<i>♪ That you need to hide your face ♪</i>
+<font color="#00ff00">♪ Kau harus menyembunyikan wajahmu ♪</font>
+
+453
+00:27:15,504 --> 00:27:17,472
+<i>♪ Afraid to step outside ♪</i>
+<font color="#00ff00">♪ Takut melangkah keluar ♪</font>
+
+454
+00:27:18,440 --> 00:27:20,142
+<i>♪ So you lock the door ♪</i>
+<font color="#00ff00">♪ Jadi kau mengunci pintu ♪</font>
+
+455
+00:27:20,175 --> 00:27:23,045
+<i>♪ But don't you stay that way ♪</i>
+<font color="#00ff00">♪ Tapi janganlah lagi seperti itu ♪</font>
+
+456
+00:27:23,078 --> 00:27:25,014
+<i>♪ No more livin' in those shadows ♪</i>
+<font color="#00ff00">♪ Tak ada lagi hidup dalam bayangan ♪</font>
+
+457
+00:27:25,047 --> 00:27:27,082
+<i>♪ You and me, we know how that goes ♪</i>
+<font color="#00ff00">♪ Kau dan aku tahu bagaimana jadinya ♪</font>
+
+458
+00:27:27,116 --> 00:27:28,383
+<i>♪ 'Cause once you see it ♪</i>
+<font color="#00ff00">♪ Karena sekali kau melihatnya ♪</font>
+
+459
+00:27:28,417 --> 00:27:31,253
+<i>♪ Oh, you'll never, never be the same ♪</i>
+<font color="#00ff00">♪ Oh, kau akan merasa berbeda ♪</font>
+
+460
+00:27:31,286 --> 00:27:33,188
+<i>♪ A little bit of lightnin' strikin' ♪</i>
+<font color="#00ff00">♪ Cahaya perlahan masuk  ♪</font>
+
+461
+00:27:33,222 --> 00:27:35,124
+<i>♪ Bottled up to keep on shinin' ♪</i>
+<font color="#00ff00">♪ Jaga agar terus bersinar ♪</font>
+
+462
+00:27:35,157 --> 00:27:36,892
+<i>♪ You can prove there's more to you ♪</i>
+<font color="#00ff00">♪ Kau bisa membuktikan kelebihanmu ♪</font>
+
+463
+00:27:36,926 --> 00:27:38,260
+<i>♪ You cannot be afraid ♪</i>
+<font color="#00ff00">♪ Kau tidak boleh takut ♪</font>
+
+464
+00:27:38,293 --> 00:27:42,631
+<i>♪ Come alive, come alive ♪</i>
+<font color="#00ff00">♪ Ayo hidupkan, Ayo hidupkan ♪</font>
+
+465
+00:27:42,664 --> 00:27:44,599
+<i>♪ Go and light your light ♪</i>
+<font color="#00ff00">♪ Ayo dan nyalakan cahayamu ♪</font>
+
+466
+00:27:44,633 --> 00:27:46,668
+<i>♪ Let it burn so bright ♪</i>
+<font color="#00ff00">♪ Biarkan menyala terang ♪</font>
+
+467
+00:27:46,701 --> 00:27:50,772
+<i>♪ Reachin' up to the sky ♪</i>
+<font color="#00ff00">♪ Menggapai ke langit ♪</font>
+
+468
+00:27:50,806 --> 00:27:52,641
+<i>♪ And it's open wide ♪</i>
+<font color="#00ff00">♪ Dan itu terbuka lebar ♪</font>
+
+469
+00:27:52,674 --> 00:27:54,910
+<i>♪ You're electrified ♪</i>
+<font color="#00ff00">♪ Kau pun dikejutkan ♪</font>
+
+470
+00:27:54,944 --> 00:27:57,012
+<i>♪ And the world becomes a fantasy ♪</i>
+<font color="#00ff00">♪ Dan dunia menjadi fantasi ♪</font>
+
+471
+00:27:57,046 --> 00:27:58,814
+<i>♪ And you're more than you could ever be ♪</i>
+<font color="#00ff00">♪ Dan kau menjadi lebih baik ♪</font>
+
+472
+00:27:58,848 --> 00:28:03,018
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kau bermimpi dengan mata terbuka lebar ♪</font>
+
+473
+00:28:03,052 --> 00:28:05,154
+<i>♪ And you know you can't go back again ♪</i>
+<font color="#00ff00">♪ Dan kau tahu tak bisa kembali lagi ♪</font>
+
+474
+00:28:05,187 --> 00:28:07,322
+<i>♪ To the world that you were livin' in ♪</i>
+<font color="#00ff00">♪ Ke dunia masa lalumu ♪</font>
+
+475
+00:28:07,356 --> 00:28:10,893
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kau bermimpi dengan mata terbuka lebar ♪</font>
+
+476
+00:28:10,926 --> 00:28:12,527
+<i>♪ So come alive! ♪</i>
+<font color="#00ff00">♪ Ayo hiduplah! ♪</font>
+
+477
+00:28:12,561 --> 00:28:14,864
+Bravo!
+
+478
+00:28:17,099 --> 00:28:19,001
+<i>Sangat hebat!</i>
+
+479
+00:28:19,034 --> 00:28:21,770
+<i>- Lagi!
+- Fantastis!</i>
+
+480
+00:28:21,803 --> 00:28:23,205
+Ini buruk.
+
+481
+00:28:24,573 --> 00:28:26,976
+"Kriminal." "Merendahkan."
+
+482
+00:28:27,009 --> 00:28:28,510
+"Sirkus."
+Aku suka "sirkus".
+
+483
+00:28:28,543 --> 00:28:30,279
+<i>Benar sekali, bocah gemuk!</i>
+
+484
+00:28:32,147 --> 00:28:34,349
+<i>Kau mau melindungi wanita berjenggot itu?</i>
+
+485
+00:28:34,383 --> 00:28:35,384
+Hei!
+
+486
+00:28:37,052 --> 00:28:38,553
+- Hei! Cukup sudah!
+- Aneh!
+
+487
+00:28:39,154 --> 00:28:40,622
+Walter!
+
+488
+00:28:40,655 --> 00:28:41,924
+Masuk ke dalam, semuanya. Sekarang!
+
+489
+00:28:41,957 --> 00:28:43,258
+Lihat mereka kabur!
+
+490
+00:28:43,292 --> 00:28:45,827
+<i>- Kami tidak menolak jenis seperti kalian!
+- Pergi dari sini!</i>
+
+491
+00:28:45,861 --> 00:28:48,864
+<i>Ya benar, kalian aneh!
+Tuanmu memanggil!</i>
+
+492
+00:28:48,898 --> 00:28:50,332
+Kurasa sudah cukup, Pak.
+
+493
+00:28:54,503 --> 00:28:56,171
+<i>Tidak ada lagi yang bisa dilihat!</i>
+
+494
+00:28:59,975 --> 00:29:01,815
+Cetak ini pada semua koran di New York.
+
+495
+00:29:01,843 --> 00:29:03,979
+Diskon setengah harga
+bagi siapa saja yang membawa koran itu.
+
+496
+00:29:09,667 --> 00:29:10,667
+<font color="#ff8000">HABIS TERJUAL</font>
+
+497
+00:29:11,153 --> 00:29:13,488
+<i>♪ Come one, come all ♪</i>
+<font color="#00ff00">♪ Ayo, datang semuanya ♪</font>
+
+498
+00:29:13,522 --> 00:29:15,557
+<i>♪ Come in, come on ♪</i>
+<font color="#00ff00">♪ Ayo, masuklah ♪</font>
+
+499
+00:29:15,590 --> 00:29:18,860
+<i>♪ To anyone who's bursting with a dream ♪</i>
+<font color="#00ff00">♪ Bagi siapa saja yang memiliki impian  ♪</font>
+
+500
+00:29:18,894 --> 00:29:21,496
+<i>♪ Come one, come all ♪</i>
+<font color="#00ff00">♪ Ayo, datang semuanya ♪</font>
+
+501
+00:29:21,530 --> 00:29:23,698
+<i>♪ You hear the call ♪</i>
+<font color="#00ff00">♪ Kalian mendengar panggilannya ♪</font>
+
+502
+00:29:23,732 --> 00:29:28,537
+<i>♪ To anyone who's searching for a way to break free ♪</i>
+<font color="#00ff00">♪ Bagi siapa saja yang mencari kebebasan ♪</font>
+
+503
+00:29:28,570 --> 00:29:30,705
+<i>♪ Break free! ♪</i>
+<font color="#00ff00">♪ Kebebasan! ♪</font>
+
+504
+00:29:30,739 --> 00:29:32,541
+<i>♪ Break free! ♪</i>
+<font color="#00ff00">♪ Kebebasan! ♪</font>
+
+505
+00:29:32,574 --> 00:29:34,709
+<i>♪ And the world becomes a fantasy ♪</i>
+<font color="#00ff00">♪ Dan dunia menjadi fantasi ♪</font>
+
+506
+00:29:34,743 --> 00:29:36,645
+<i>♪ And you're more than you could ever be ♪</i>
+<font color="#00ff00">♪ Dan kau menjadi lebih baik ♪</font>
+
+507
+00:29:36,678 --> 00:29:40,649
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kau bermimpi dengan mata terbuka lebar ♪</font>
+
+508
+00:29:40,682 --> 00:29:42,918
+<i>♪ And you know you can't go back again ♪</i>
+<font color="#00ff00">♪ Dan kau tahu tak bisa kembali lagi ♪</font>
+
+509
+00:29:42,952 --> 00:29:44,786
+<i>♪ To the world that you were livin' in ♪</i>
+<font color="#00ff00">♪ Ke dunia masa lalumu ♪</font>
+
+510
+00:29:44,819 --> 00:29:47,656
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kita bermimpi dengan mata terbuka lebar ♪</font>
+
+511
+00:29:47,689 --> 00:29:49,091
+<font color="#00ff00">♪ Hei ♪</font>
+
+512
+00:29:49,124 --> 00:29:51,193
+<i>♪ And the world becomes a fantasy ♪</i>
+<font color="#00ff00">♪ Dan dunia menjadi fantasi ♪</font>
+
+513
+00:29:51,226 --> 00:29:52,894
+<i>♪ And you're more than you could ever be ♪</i>
+<font color="#00ff00">♪ Dan kau menjadi lebih baik ♪</font>
+
+514
+00:29:52,928 --> 00:29:55,797
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kita bermimpi dengan mata terbuka lebar ♪</font>
+
+515
+00:29:55,830 --> 00:29:57,132
+<font color="#00ff00">♪ Ya, yeah ♪</font>
+
+516
+00:29:57,166 --> 00:29:59,268
+<i>♪ And you know you can't go back again ♪</i>
+<font color="#00ff00">♪ Dan kau tahu tak bisa kembali lagi ♪</font>
+
+517
+00:29:59,301 --> 00:30:01,170
+<i>♪ To the world that you were livin' in ♪</i>
+<font color="#00ff00">♪ Ke dunia masa lalumu ♪</font>
+
+518
+00:30:01,203 --> 00:30:05,407
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kita bermimpi dengan mata terbuka lebar ♪</font>
+
+519
+00:30:05,440 --> 00:30:08,743
+<i>♪ 'Cause you're dreamin' with your eyes wide open ♪</i>
+<font color="#00ff00">♪ Karena kita bermimpi dengan mata terbuka lebar ♪</font>
+
+520
+00:30:08,777 --> 00:30:10,479
+<i>♪ So come alive! ♪</i>
+<font color="#00ff00">♪ Ayo hiduplah! ♪</font>
+
+521
+00:30:10,512 --> 00:30:13,882
+<i>♪ Come alive ♪</i>
+<font color="#00ff00">♪ Ayo hidup ♪</font>
+
+522
+00:30:13,915 --> 00:30:16,218
+<font color="#00ff00">♪ Yeah! ♪</font>
+
+523
+00:30:43,945 --> 00:30:46,915
+<i>Kacang-kacangan.
+Dapatkan kacangmu di sini.</i>
+
+524
+00:30:46,948 --> 00:30:50,085
+<i>Kacang panas dan asin.
+masih panas!</i>
+
+525
+00:30:50,119 --> 00:30:52,287
+<i>Satu untukku, satu lagi untuk pasanganku.</i>
+
+526
+00:30:52,721 --> 00:30:54,223
+O'Malley.
+
+527
+00:30:57,892 --> 00:31:00,629
+Ah, Tuan Bennett dari Herald.
+
+528
+00:31:00,662 --> 00:31:02,731
+Ingin melihat pertunjukkan lagi?
+
+529
+00:31:02,764 --> 00:31:03,932
+Katakan padaku, Tuan Barnum,
+
+530
+00:31:03,965 --> 00:31:05,100
+Apakah itu mengganggumu
+
+531
+00:31:05,134 --> 00:31:08,037
+bahwa semua yang kau jual itu palsu?
+
+532
+00:31:08,737 --> 00:31:10,372
+Apakah senyum mereka tampak palsu?
+
+533
+00:31:10,405 --> 00:31:11,649
+Tidak masalah dari mana asalnya.
+
+534
+00:31:11,673 --> 00:31:12,874
+Suka cita itu nyata.
+
+535
+00:31:12,907 --> 00:31:14,443
+Jadi, kau seorang filantropis?
+
+536
+00:31:14,476 --> 00:31:17,179
+Yah, melebih-lebihkan bukanlah
+kejahatan terburuk.
+
+537
+00:31:17,212 --> 00:31:20,182
+Orang akan menderita jika punya sedikit imajinasi,
+dibandingkan yang kaya imajinasi.
+
+538
+00:31:20,215 --> 00:31:22,651
+Keyakinan dari penipuan sejati.
+
+539
+00:31:23,985 --> 00:31:26,188
+Tuan Bennett, kapan terakhir kali kau tersenyum?
+
+540
+00:31:26,221 --> 00:31:28,623
+atau tertawa?
+Tertawa sungguhan?
+
+541
+00:31:30,092 --> 00:31:33,162
+Seorang kritikus teater yang tidak dapat
+menemukan kegembiraan di dalam teater.
+
+542
+00:31:33,195 --> 00:31:35,430
+Sekarang siapa yang menipu?
+
+543
+00:31:37,799 --> 00:31:39,934
+Oh, Tuan Bennett.
+
+544
+00:31:39,968 --> 00:31:42,737
+Kata yang kau gunakan untuk
+menggambarkan pertunjukkanku?
+
+545
+00:31:43,805 --> 00:31:45,206
+Kedengerannya bagus juga.
+
+546
+00:31:55,084 --> 00:31:56,818
+Lewat sini.
+
+547
+00:31:56,851 --> 00:32:00,021
+Bukankah sudah cukup
+buta kepercayaan dalam hidupku?
+
+548
+00:32:00,055 --> 00:32:01,723
+Yah, bukankah itu yang menyenangkan?
+
+549
+00:32:01,756 --> 00:32:05,694
+Jalan terus. Okeh.
+Apa kamu siap?
+
+550
+00:32:12,134 --> 00:32:13,935
+- Inikah?
+- Benar.
+
+551
+00:32:16,805 --> 00:32:19,040
+Ayo. Ayo pergi.
+
+552
+00:32:19,341 --> 00:32:20,575
+Dorong.
+
+553
+00:32:22,711 --> 00:32:23,712
+Wow.
+
+554
+00:32:25,680 --> 00:32:27,482
+Helen, itu untukmu.
+
+555
+00:32:30,119 --> 00:32:33,722
+Dan Caroline, ini untukmu.
+
+556
+00:32:41,096 --> 00:32:42,964
+Ada sekolah balet di ujung jalan.
+
+557
+00:32:42,997 --> 00:32:45,567
+Sebenarnya hanya melewati rumah orang tuamu.
+
+558
+00:32:47,302 --> 00:32:48,737
+Jangan bilang kamu
+membeli rumah ini
+
+559
+00:32:48,770 --> 00:32:51,106
+hanya untuk membuktikan kepada
+orangtuaku akan kesuksesanmu?
+
+560
+00:32:51,140 --> 00:32:53,342
+Bukan itu satu-satunya alasan.
+
+561
+00:32:54,809 --> 00:32:57,146
+Inilah hidup yang aku janjikan padamu.
+
+562
+00:32:57,846 --> 00:32:59,281
+Silahkan?
+
+563
+00:32:59,314 --> 00:33:02,784
+Phin, ini indah,
+
+564
+00:33:02,817 --> 00:33:04,629
+Tapi kamu tahu, kita tidak butuh
+semua ini untuk...
+
+565
+00:33:04,653 --> 00:33:06,087
+Hanya butuh waktu 25 tahun, tapi...
+
+566
+00:33:07,121 --> 00:33:09,757
+...selamat datang di rumah, Charity Barnum.
+
+567
+00:33:47,896 --> 00:33:50,098
+- Halo.
+- Inilah dia Barnum.
+
+568
+00:33:57,272 --> 00:33:59,974
+Hei, sayang, siapa
+lelaki muda itu di sana?
+
+569
+00:34:00,008 --> 00:34:01,776
+Oh, itu Phillip Carlyle.
+
+570
+00:34:01,810 --> 00:34:04,213
+Sedikit skandal, gosipnya.
+
+571
+00:34:04,246 --> 00:34:05,814
+Terakhir kali dia beraksi di London.
+
+572
+00:34:05,847 --> 00:34:07,416
+Beraksi? Kamu membayar uang
+
+573
+00:34:07,449 --> 00:34:10,084
+untuk melihat orang-orang berdiri
+dan berbicara selama dua jam
+
+574
+00:34:10,118 --> 00:34:11,453
+dan mereka memanggilku penipu.
+
+575
+00:34:11,486 --> 00:34:14,823
+Ew, bau apa itu?
+Apakah kau menciumnya?
+
+576
+00:34:14,856 --> 00:34:17,058
+Ew. Ada yang berbau.
+
+577
+00:34:17,091 --> 00:34:19,928
+Oh, aku tahu apa itu.
+Kacang kecil.
+
+578
+00:34:29,671 --> 00:34:31,206
+Ayah bisa melihatnya sekarang.
+
+579
+00:34:31,240 --> 00:34:32,541
+"Balerina utama termuda
+
+580
+00:34:32,574 --> 00:34:34,443
+dalam sejarah Kota Balet. "
+
+581
+00:34:36,144 --> 00:34:37,346
+Aku berhenti.
+
+582
+00:34:37,379 --> 00:34:39,248
+Apa? Kenapa kamu berhenti?
+
+583
+00:34:39,281 --> 00:34:41,683
+Aku terlambat memulainya.
+Aku takkan bisa mengejar ketinggalan.
+
+584
+00:34:41,716 --> 00:34:43,852
+Caroline, kamu penari terbaik di panggung itu.
+
+585
+00:34:45,487 --> 00:34:48,223
+Apa?
+Kamu pikir aku tidak bisa melihat bakat?
+
+586
+00:34:48,257 --> 00:34:50,892
+Balet membutuhkan waktu
+bertahun-tahun kerja keras.
+
+587
+00:34:50,925 --> 00:34:52,294
+Ini tidak seperti sirkus.
+
+588
+00:34:53,995 --> 00:34:55,264
+Kamu tidak bisa memalsukannya.
+
+589
+00:34:59,801 --> 00:35:01,035
+Dia tidak boleh berhenti. Tidak.
+
+590
+00:35:01,069 --> 00:35:02,304
+Tidak, maksudku, dia hanya...
+
+591
+00:35:02,337 --> 00:35:04,148
+Dia hanya merasa dijauhi gadis-gadis lain.
+
+592
+00:35:04,172 --> 00:35:05,674
+Yah, Aku juga berharap begitu.
+
+593
+00:35:05,707 --> 00:35:08,009
+Aku belum pernah melihat primadona kecil.
+
+594
+00:35:08,042 --> 00:35:10,255
+Ya, tapi menjadi primadona itu penting.
+
+595
+00:35:10,279 --> 00:35:11,580
+di dunia yang dia mau.
+
+596
+00:35:11,613 --> 00:35:13,982
+Dia akan belajar mengabaikan mereka
+seperti yang aku lakukan.
+
+597
+00:35:14,015 --> 00:35:15,417
+Dia tidak perlu melakukannya.
+
+598
+00:35:15,450 --> 00:35:17,419
+Masyarakat New York tidak
+akan pernah menerima kita.
+
+599
+00:35:17,452 --> 00:35:19,254
+Jika mereka menerima,
+mereka harus berhenti menghakimi
+
+600
+00:35:19,288 --> 00:35:21,122
+dan benar-benar melakukan sesuatu
+untuk hidup mereka.
+
+601
+00:35:21,155 --> 00:35:22,524
+Ini bukan tentang diriku.
+
+602
+00:35:23,658 --> 00:35:27,702
+Oh. Jadi berbeda
+dengan yang lainnya?
+
+603
+00:35:28,330 --> 00:35:30,965
+Aku hanya ingin dia bangga pada dirinya, keluarganya.
+
+604
+00:35:30,999 --> 00:35:33,067
+Dia bangga.
+
+605
+00:35:33,101 --> 00:35:34,703
+Kita tidak harus menjadi seperti Carlyles.
+
+606
+00:35:40,342 --> 00:35:42,377
+Tuan Carlyle.
+Kau menggelar pertunjukkan ini?
+
+607
+00:35:42,411 --> 00:35:44,546
+Ya, benar.
+
+608
+00:35:44,579 --> 00:35:46,781
+Pengembalian uang tersedia di loket depan.
+
+609
+00:35:46,815 --> 00:35:48,583
+P.T. Barnum.
+
+610
+00:35:48,617 --> 00:35:49,518
+Dari sirkus?
+
+611
+00:35:49,551 --> 00:35:51,520
+Ya. Kau... kau pernah datang?
+
+612
+00:35:51,553 --> 00:35:54,989
+Astaga, tidak.
+Tapi aku lihat sangat ramai.
+
+613
+00:35:55,023 --> 00:35:57,635
+Orang-orang setelah melihat pertunjukanmu
+terlihat lebih bahagia.
+
+614
+00:35:57,659 --> 00:36:00,295
+Bisa dibilang lebih baik dari pertunjukanku.
+
+615
+00:36:00,329 --> 00:36:02,564
+Tapi, kau tidak bermasalah menjual tiketnya?
+
+616
+00:36:04,232 --> 00:36:05,967
+Itu karena aku menjual kebaikan.
+
+617
+00:36:08,269 --> 00:36:09,604
+Boleh aku mentraktir dirimu minuman?
+
+618
+00:36:11,673 --> 00:36:13,975
+Aku ingin menawarkan kerjasama.
+
+619
+00:36:14,008 --> 00:36:16,077
+Menggelar pertunjukan resmi,
+
+620
+00:36:16,110 --> 00:36:19,448
+memperluas daya tarik kami,
+mengejar kehormatan.
+
+621
+00:36:19,481 --> 00:36:21,816
+Kau tahu betapa menderitanya mereka.
+
+622
+00:36:21,850 --> 00:36:23,284
+Maka dari itu bergabunglah ke sirkus.
+
+623
+00:36:23,318 --> 00:36:25,198
+Kau jelas punya bakat
+di dalam bisnis pertunjukan.
+
+624
+00:36:26,455 --> 00:36:28,289
+Ajari aku bagaimana untuk
+manaikkan reputasi.
+
+625
+00:36:29,358 --> 00:36:31,493
+- Kau serius?
+- Mm-hmm.
+
+626
+00:36:31,526 --> 00:36:33,895
+Tuan Barnum, aku tidak bisa lari begitu saja
+lalu bergabung dengan sirkus.
+
+627
+00:36:33,928 --> 00:36:35,897
+Kenapa tidak?
+Terdengar menantang, bukan?
+
+628
+00:36:35,930 --> 00:36:37,875
+Anggap saja aku merasa
+jauh lebih nyaman
+
+629
+00:36:37,899 --> 00:36:39,668
+mengagumi pertunjukanmu dari jauh.
+
+630
+00:36:39,701 --> 00:36:41,336
+Kenyamanan, musuh dari peningkatan.
+
+631
+00:36:41,370 --> 00:36:43,147
+Apakah kau paham kalau bergaul denganmu
+
+632
+00:36:43,171 --> 00:36:44,773
+bisa merusak citraku?
+
+633
+00:36:44,806 --> 00:36:46,541
+Oh, bahkan lebih dari itu.
+
+634
+00:36:46,575 --> 00:36:48,142
+Kau akan mempertaruhkan segalanya.
+
+635
+00:36:48,176 --> 00:36:49,911
+Tapi, sisi baiknya adalah...
+
+636
+00:36:49,944 --> 00:36:53,014
+...kau bisa menemukan kebebasan.
+
+637
+00:36:56,585 --> 00:36:59,554
+<i>♪ Right here, right now i've put the offer out ♪</i>
+<font color="#00ff00">♪ Di sini, saat ini, aku tawarkan ini padamu ♪</font>
+
+638
+00:36:59,588 --> 00:37:02,557
+<i>♪ I don't wanna chase you down I know you see it ♪</i>
+<font color="#00ff00">♪ aku tak mau mengejar karena kau melihatnya ♪</font>
+
+639
+00:37:02,591 --> 00:37:05,994
+<i>♪ You run with me and I can cut you free ♪</i>
+<font color="#00ff00">♪ Kau ikut bersamaku dan menjadi bebas ♪</font>
+
+640
+00:37:06,027 --> 00:37:10,264
+<i>♪ Out of the drudgery and walls you keep in ♪</i>
+<font color="#00ff00">♪ Dari pekerjaan membosankan dan egomu itu ♪</font>
+
+641
+00:37:10,298 --> 00:37:13,668
+<i>♪ So trade your typical for somethin' colorful ♪</i>
+<font color="#00ff00">♪ Jadi tukarlah itu dengan sesuatu berwarna ♪</font>
+
+642
+00:37:13,702 --> 00:37:16,705
+<i>♪ And if it's crazy live a little crazy ♪</i>
+<font color="#00ff00">♪ Jika terdengar gila, terima saja ♪</font>
+
+643
+00:37:16,738 --> 00:37:18,540
+<i>♪ You can play it sensible ♪</i>
+<font color="#00ff00">♪ Kau boleh bermain aman ♪</font>
+
+644
+00:37:18,573 --> 00:37:19,941
+<i>♪ A king of conventional ♪</i>
+<font color="#00ff00">♪ Menjadi raja yang biasa ♪</font>
+
+645
+00:37:19,974 --> 00:37:24,278
+<i>♪ Or you can risk it all and see ♪</i>
+<font color="#00ff00">♪ Atau kau bisa mengambil resiko dan lihat hasilnya ♪</font>
+
+646
+00:37:24,312 --> 00:37:27,015
+<i>♪ Don'tchu wanna get away ♪</i>
+<font color="#00ff00">♪ Tidakkah kau ingin pergi ♪</font>
+
+647
+00:37:27,048 --> 00:37:30,385
+<i>♪ From the same old part you gotta play? ♪</i>
+<font color="#00ff00">♪ Dari hal lama yang kau lakukan? ♪</font>
+
+648
+00:37:30,419 --> 00:37:31,886
+<i>♪ 'Cause I got what you need ♪</i>
+<font color="#00ff00">♪ Karena aku punya yang kau butuhkan ♪</font>
+
+649
+00:37:31,920 --> 00:37:34,823
+<i>♪ So come with me and take the ride ♪</i>
+<font color="#00ff00">♪ Jadi ikutlah bersamaku ♪</font>
+
+650
+00:37:34,856 --> 00:37:37,426
+<i>♪ It'll take you to the other side ♪</i>
+<font color="#00ff00">♪ Yang akan membawamu ke sisi lain ♪</font>
+
+651
+00:37:37,459 --> 00:37:39,861
+<i>♪ 'Cause you can do like you do or you can do like me ♪</i>
+<font color="#00ff00">♪ Kau bisa lakukan yang biasa, atau ikuti aku  ♪</font>
+
+652
+00:37:39,994 --> 00:37:43,231
+<i>♪ Stay in the cage or you finally take the key ♪</i>
+<font color="#00ff00">♪ Tetap terkurung, atau kau ambil kuncinya ♪</font>
+
+653
+00:37:43,264 --> 00:37:44,733
+<i>♪ Oh, damn ♪</i>
+<font color="#00ff00">♪ Oh, sialan ♪</font>
+
+654
+00:37:44,766 --> 00:37:47,502
+<i>♪ Suddenly you're free to fly ♪</i>
+<font color="#00ff00">♪ Tiba-tiba kau bebas terbang ♪</font>
+
+655
+00:37:47,536 --> 00:37:49,671
+<i>♪ It'll take you to the other side ♪</i>
+<font color="#00ff00">♪ Ini akan membawamu ke sisi yang lain ♪</font>
+
+656
+00:37:49,704 --> 00:37:52,407
+<i>♪ Okay, my friend you wanna cut me in ♪</i>
+<font color="#00ff00">♪ Oke, temanku, kau ingin mengajakku ♪</font>
+
+657
+00:37:52,441 --> 00:37:55,677
+<i>♪ Well, I hate to tell you but it just won't happen ♪</i>
+<font color="#00ff00">♪ Aku benci bilang ini, tapi itu takkan terjadi ♪</font>
+
+658
+00:37:55,710 --> 00:37:58,813
+<i>♪ So thanks, but no I think I'm good to go ♪</i>
+<font color="#00ff00">♪ Jadi terima kasih, tapi tidak, aku pergi saja ♪</font>
+
+659
+00:37:58,847 --> 00:38:01,916
+<i>♪ 'Cause I quite enjoy the life you say I'm trapped in ♪</i>
+<font color="#00ff00">♪ Karena aku menikmati terjebak hidup yang kau bilang ♪</font>
+
+660
+00:38:01,950 --> 00:38:05,253
+<i>♪ Now, I admire you and that whole show you do ♪</i>
+<font color="#00ff00">♪ Sekarang aku mengagumi dirimu dan pertunjukan itu ♪</font>
+
+661
+00:38:05,286 --> 00:38:06,688
+<i>♪ You're on to somethin' ♪</i>
+<font color="#00ff00">♪ Kau sedang menuju sesuatu ♪</font>
+
+662
+00:38:06,721 --> 00:38:08,457
+<i>♪ Really, it's somethin' ♪</i>
+<font color="#00ff00">♪ Sungguh, itu adalah sesuatu ♪</font>
+
+663
+00:38:08,490 --> 00:38:09,730
+<i>♪ But I live among the swells ♪</i>
+<font color="#00ff00">♪ Tapi sekelilingku telah sempurna ♪</font>
+
+664
+00:38:09,758 --> 00:38:11,068
+<i>♪ And we don't pick up peanut shells ♪</i>
+<font color="#00ff00">♪ Dan kami tidak tertarik hal sepele ♪</font>
+
+665
+00:38:11,092 --> 00:38:14,362
+<i>♪ I'll have to leave that up to you ♪</i>
+<font color="#00ff00">♪ Kurasa aku takkan ikut denganmu ♪</font>
+
+666
+00:38:14,395 --> 00:38:17,031
+<i>♪ Don'tchu know that I'm okay ♪</i>
+<font color="#00ff00">♪ Tidakkah kau tahu aku ini baik-baik saja ♪</font>
+
+667
+00:38:17,065 --> 00:38:20,469
+<i>♪ With this uptown part I get to play? ♪</i>
+<font color="#00ff00">♪ Dengan yang biasa kulakukan ♪</font>
+
+668
+00:38:20,502 --> 00:38:21,870
+<i>♪ 'Cause I got what I need ♪</i>
+<font color="#00ff00">♪ Karena diriku mendapat yang dibutuhkan ♪</font>
+
+669
+00:38:21,903 --> 00:38:24,706
+<i>♪ And I don't wanna take the ride ♪</i>
+<font color="#00ff00">♪ Dan aku tidak ingin pergi ♪</font>
+
+670
+00:38:24,739 --> 00:38:27,141
+<i>♪ I don't need to see the other side ♪</i>
+<font color="#00ff00">♪ Aku tidak perlu melihat sisi yang lain ♪</font>
+
+671
+00:38:27,175 --> 00:38:29,844
+<i>♪ So go and do like you do I'm good to do like me ♪</i>
+<font color="#00ff00">♪ Jadi kita lakukan saja seperti biasa ♪</font>
+
+672
+00:38:29,878 --> 00:38:33,047
+<i>♪ Ain't in a cage so I don't need to take the key ♪</i>
+<font color="#00ff00">♪ Aku tidak terkurung, jadi tak perlu kunci ♪</font>
+
+673
+00:38:33,081 --> 00:38:34,816
+<i>♪ Oh, damn ♪</i>
+<font color="#00ff00">♪ Oh, sialan ♪</font>
+
+674
+00:38:34,849 --> 00:38:36,918
+<i>♪ Can'tchu see I'm doin' fine? ♪</i>
+<font color="#00ff00">♪ Bukankah kau lihat aku baik-baik saja? ♪</font>
+
+675
+00:38:36,951 --> 00:38:39,153
+<i>♪ I don't need to see the other side ♪</i>
+<font color="#00ff00">♪ Aku tidak perlu melihat sisi yang lain ♪</font>
+
+676
+00:38:39,187 --> 00:38:42,323
+<i>♪ Now, is this really how you'd like to spend your days? ♪</i>
+<font color="#00ff00">♪ Sekarang, apakah kau ingin terus seperti ini? ♪</font>
+
+677
+00:38:42,356 --> 00:38:44,926
+<i>♪ Whisky, misery and parties and plays? ♪</i>
+<font color="#00ff00">♪ Wiski, kesengsaraan, pestamu itu? ♪</font>
+
+678
+00:38:44,959 --> 00:38:46,661
+<i>♪ If I were mixed up with you ♪</i>
+<font color="#00ff00">♪ Jika aku ikut dirimu ♪</font>
+
+679
+00:38:46,695 --> 00:38:48,162
+<i>♪ I'd be the talk of the town ♪</i>
+<font color="#00ff00">♪ Aku akan menjadi bahan omongan di kota ♪</font>
+
+680
+00:38:48,196 --> 00:38:51,365
+<i>♪ Disgraced and disowned, another one of the clowns ♪</i>
+<font color="#00ff00">♪ Memalukan dan tidak diakui, seorang badut ♪</font>
+
+681
+00:38:51,399 --> 00:38:53,434
+<i>♪ But you would finally live a little ♪</i>
+<font color="#00ff00">♪ Tapi akhirnya kau hanya merasakan sedikit ♪</font>
+
+682
+00:38:53,468 --> 00:38:55,036
+<i>♪ Finally laugh a little ♪</i>
+<font color="#00ff00">♪ Akhirnya hanya sedikit tertawa ♪</font>
+
+683
+00:38:55,069 --> 00:38:57,639
+<i>♪ Just let me give you the freedom to dream ♪</i>
+<font color="#00ff00">♪ Biarkan aku membebaskan mimpimu ♪</font>
+
+684
+00:38:57,672 --> 00:38:59,440
+<i>♪ And it'll wake you up ♪</i>
+<font color="#00ff00">♪ Dan itu akan membangunkanmu ♪</font>
+
+685
+00:38:59,474 --> 00:39:01,209
+<i>♪ And cure your aching ♪</i>
+<font color="#00ff00">♪ Dan menyembuhkan sakitmu ♪</font>
+
+686
+00:39:01,242 --> 00:39:04,245
+<i>♪ Take your walls and start 'em breaking ♪</i>
+<font color="#00ff00">♪ Hancurkanlah dinding pembatas itu ♪</font>
+
+687
+00:39:04,278 --> 00:39:09,050
+<i>♪ Now that's a deal that seems worth taking ♪</i>
+<font color="#00ff00">♪ Itulah tawaran yang layak kau ambil ♪</font>
+
+688
+00:39:09,083 --> 00:39:13,655
+<i>♪ But I guess I'll leave that up to you ♪</i>
+<font color="#00ff00">♪ Tapi kurasa semuanya terserah padamu ♪</font>
+
+689
+00:39:17,325 --> 00:39:18,560
+<i>♪ Well, it's intriguing ♪</i>
+<font color="#00ff00">♪ Yah, itu menarik ♪</font>
+
+690
+00:39:18,593 --> 00:39:20,094
+<i>♪ But to go would cost me greatly ♪</i>
+<font color="#00ff00">♪ Tapi jika pergi, akan sangat merugikanku ♪</font>
+
+691
+00:39:20,128 --> 00:39:22,163
+<i>♪ So what percentage of the show ♪</i>
+<font color="#00ff00">♪ Jadi berapa besar bagian  ♪</font>
+
+692
+00:39:22,196 --> 00:39:23,532
+<i>♪ Would I be taking? ♪</i>
+<font color="#00ff00">♪ Yang bisa aku dapatkan? ♪</font>
+
+693
+00:39:23,565 --> 00:39:24,833
+<i>♪ Well, fair enough ♪</i>
+<font color="#00ff00">♪ Baik, cukup adil ♪</font>
+
+694
+00:39:24,866 --> 00:39:26,768
+<i>♪ You'd want a piece of all the action ♪</i>
+<font color="#00ff00">♪ Kau ingin tahu berapa bagianmu ♪</font>
+
+695
+00:39:26,801 --> 00:39:29,771
+<i>♪ I'd give you seven, we could shake and make it happen ♪</i>
+<font color="#00ff00">♪ Aku akan memberimu 7%, kita sepakat? ♪</font>
+
+696
+00:39:29,804 --> 00:39:31,339
+<i>♪ I wasn't born this morning ♪</i>
+<font color="#00ff00">♪ Aku bukan bocah ♪</font>
+
+697
+00:39:31,372 --> 00:39:32,807
+<i>♪ Eighteen would be just fine ♪</i>
+<font color="#00ff00">♪ 18% boleh juga ♪</font>
+
+698
+00:39:32,841 --> 00:39:35,877
+<i>♪ Why not just go ahead and ask for nickels on the dime? ♪</i>
+<font color="#00ff00">♪ Kenapa tidak langsung saja minta uang receh? ♪</font>
+
+699
+00:39:35,910 --> 00:39:37,378
+ - ♪ Fifteen ♪<font color="#00ff00"> - ♪ 15% ♪</font>
+- ♪ I'd do eight ♪ <font color="#00ff00">- ♪ Aku beri 8% ♪</font>
+
+700
+00:39:37,411 --> 00:39:39,080
+- ♪ Twelve ♪ <font color="#00ff00">- ♪ 12% ♪</font>
+- ♪ Maybe nine ♪ <font color="#00ff00">- ♪ Mungkin 9% ♪</font>
+
+701
+00:39:39,113 --> 00:39:40,815
+<i>♪ Ten ♪</i>
+<font color="#00ff00">♪ 10% ♪</font>
+
+702
+00:39:45,186 --> 00:39:46,588
+Umm...
+
+703
+00:39:50,058 --> 00:39:53,361
+Tuan, sepertinya kau mendapatkan rekan baru.
+
+704
+00:39:54,596 --> 00:39:58,867
+Yang kudapatkan.. murid yang kemahalan.
+
+705
+00:40:00,068 --> 00:40:02,771
+<i>♪ Don'tchu wanna get away ♪</i>
+<font color="#00ff00">♪ Tidakkah kau ingin pergi ♪</font>
+
+706
+00:40:02,804 --> 00:40:04,706
+<i>♪ To a whole new ♪</i>
+<font color="#00ff00">♪ Untuk pengalaman baru ♪</font>
+
+707
+00:40:04,739 --> 00:40:06,074
+<i>♪ Part you're gonna play ♪</i>
+<font color="#00ff00">♪ Yang akan kau lakukan ♪</font>
+
+708
+00:40:06,107 --> 00:40:07,809
+<i>♪ 'Cause I got what you need ♪</i>
+<font color="#00ff00">♪ Karena aku punya yang kau butuhkan ♪</font>
+
+709
+00:40:07,842 --> 00:40:10,545
+<i>♪ So come with me and take the ride ♪</i>
+<font color="#00ff00">♪ Jadi ikutlah bersamaku ♪</font>
+
+710
+00:40:10,579 --> 00:40:12,847
+<i>♪ To the other side ♪</i>
+<font color="#00ff00">♪ Menuju ke sisi yang lain ♪</font>
+
+711
+00:40:12,881 --> 00:40:14,549
+<i>♪ So if you do like I do ♪</i>
+<font color="#00ff00">♪ Jadi jika kau suka sepertiku ♪</font>
+
+712
+00:40:14,583 --> 00:40:15,917
+<i>♪ So if you do like me ♪</i>
+<font color="#00ff00">♪ Melakukan yang kulakukan ♪</font>
+
+713
+00:40:15,950 --> 00:40:17,185
+<i>♪ Forget the cage ♪</i>
+<font color="#00ff00">♪ Lupakan kurungan ♪</font>
+
+714
+00:40:17,218 --> 00:40:19,320
+<i>♪ 'Cause we know how to make the key ♪</i>
+<font color="#00ff00">♪ Karena kita tahu cara membuat kuncinya ♪</font>
+
+715
+00:40:19,353 --> 00:40:20,589
+<i>♪ Oh, damn ♪</i>
+<font color="#00ff00">♪ Oh, sialan ♪</font>
+
+716
+00:40:20,622 --> 00:40:22,957
+<i>♪ Suddenly we're free to fly ♪</i>
+<font color="#00ff00">♪ Tiba-tiba kita bisa bebas terbang ♪</font>
+
+717
+00:40:22,991 --> 00:40:25,259
+<i>♪ We're goin' to the other side ♪</i>
+<font color="#00ff00">♪ Kita akan pergi ke sisi yang lain ♪</font>
+
+718
+00:40:25,293 --> 00:40:28,229
+<i>♪ So if you do like I do to the other side ♪</i>
+<font color="#00ff00">♪ Jadi jika kau suka sepertiku ♪
+
+719
+00:40:28,262 --> 00:40:31,532
+<i>♪ So if you do like me, goin' to the other side ♪</i>
+<font color="#00ff00">♪ Melakukan yang kulakukan ♪
+
+720
+00:40:31,566 --> 00:40:32,901
+<i>♪ 'Cause if you do ♪</i>
+<font color="#00ff00">♪ Karena jika kau melakukannya ♪</font>
+
+721
+00:40:32,934 --> 00:40:35,536
+<i>♪ We're goin' to the other side ♪</i>
+<font color="#00ff00">♪ Kita akan menuju ke sisi yang lain ♪</font>
+
+722
+00:40:35,570 --> 00:40:38,607
+<i>♪ We're goin' to the other side ♪</i>
+<font color="#00ff00">♪ Kita akan menuju ke sisi yang lain ♪</font>
+
+723
+00:40:58,593 --> 00:41:00,061
+Siapa itu?
+
+724
+00:41:00,094 --> 00:41:04,198
+Hei, hei! Tidak ada yang membeli topi di sini.
+Segera ke depan, ayo!
+
+725
+00:41:04,232 --> 00:41:05,834
+W.D., Anne, saya ingin memperkenalkan
+
+726
+00:41:05,867 --> 00:41:07,969
+Rekrutan terbaruku, Tn. Phillip Carlyle.
+
+727
+00:41:09,704 --> 00:41:11,640
+- Senang bertemu denganmu.
+- Ya, senang bertemu denganmu.
+
+728
+00:41:12,941 --> 00:41:14,976
+Dan apa atraksimu, Tn. Carlyle?
+
+729
+00:41:15,677 --> 00:41:17,578
+Aku tidak punya atraksi.
+
+730
+00:41:18,880 --> 00:41:20,649
+Semuanya punya atraksi.
+
+731
+00:41:26,387 --> 00:41:27,488
+Tn. Barnum!
+
+732
+00:41:27,521 --> 00:41:28,890
+Ya.
+
+733
+00:41:30,124 --> 00:41:31,259
+Sebaiknya kau melihat ini.
+
+734
+00:41:32,794 --> 00:41:34,328
+Phillip, teruskan!
+
+735
+00:41:38,166 --> 00:41:40,468
+Sekelompok penolak.
+
+736
+00:41:40,501 --> 00:41:41,903
+Selalu ada, bukan?
+
+737
+00:41:43,037 --> 00:41:44,806
+Tidak ada yang menarik keramaian
+selain keramaian itu sendiri.
+
+738
+00:41:44,839 --> 00:41:46,240
+<i>Kami tidak ingin kalian ada di kota kami!</i>
+
+739
+00:41:46,274 --> 00:41:48,176
+<i>Pulanglah, dasar aneh!</i>
+
+740
+00:41:49,010 --> 00:41:50,178
+<i>Orang aneh!</i>
+
+741
+00:41:50,211 --> 00:41:51,245
+"Aib dari kota."
+
+742
+00:41:51,279 --> 00:41:53,782
+"Protes memperkokoh reputasi Tn. Barnum
+
+743
+00:41:53,815 --> 00:41:56,685
+sebagai penyalur hal menjijikkan dan tidak pantas. "
+
+744
+00:41:56,718 --> 00:42:00,554
+"Menjijikkan dan tidak pantas."
+Tn. Bennett, diriku tersipu.
+
+745
+00:42:00,588 --> 00:42:03,457
+Bukan, aku tersipu.
+
+746
+00:42:03,491 --> 00:42:05,159
+Apa pedulimu pada yang Bennett pikirkan?
+
+747
+00:42:05,193 --> 00:42:07,095
+- Dia itu angkuh.
+- Dan sombong.
+
+748
+00:42:07,128 --> 00:42:09,263
+Ya, dan semua orang sombong di New York membacanya.
+
+749
+00:42:09,297 --> 00:42:10,699
+Dia yang membentuk opini masyarakat.
+
+750
+00:42:10,732 --> 00:42:13,167
+Pada semua kontroversi yang berkembang?
+
+751
+00:42:13,201 --> 00:42:15,036
+Yeah, begitulah...
+Hei.
+
+752
+00:42:15,069 --> 00:42:16,914
+- Apakah kau ada pemikiran tentang ini?
+- Phillip!
+
+753
+00:42:16,938 --> 00:42:19,240
+Kau tahu...?
+Kalau soal itu, aku ada solusi.
+
+754
+00:42:19,273 --> 00:42:20,508
+Helen, ayo.
+
+755
+00:42:20,541 --> 00:42:21,810
+"Pengurus Istana
+
+756
+00:42:21,843 --> 00:42:23,712
+"Mendapat perintah dari sang Ratu
+
+757
+00:42:23,745 --> 00:42:25,680
+untuk mengundang Tuan Phineas T. Barnum
+
+758
+00:42:25,714 --> 00:42:27,015
+dan rombongan teaternya
+
+759
+00:42:27,048 --> 00:42:30,584
+hadir ke acara di Istana Buckingham. "
+
+760
+00:42:30,618 --> 00:42:33,888
+Ratu Victoria itu?
+Apa ini nyata?
+
+761
+00:42:33,922 --> 00:42:35,857
+Aku harus berusaha sedikit.
+
+762
+00:42:35,890 --> 00:42:38,126
+Jika ingin masyarakat menerima kalian,
+
+763
+00:42:38,159 --> 00:42:39,427
+Mungkin kalian harus memulainya...
+
+764
+00:42:39,460 --> 00:42:42,230
+dari bagian yang paling atas.
+
+765
+00:42:43,231 --> 00:42:44,866
+Apakah kita semua diundang?
+
+766
+00:42:53,574 --> 00:42:54,985
+Kurasa aku hanya perlu memberitahu Ratu,
+
+767
+00:42:55,009 --> 00:42:56,945
+kalau kita semua ikut...
+
+768
+00:42:57,746 --> 00:42:59,380
+atau sama sekali tak ada yang ikut.
+
+769
+00:43:04,818 --> 00:43:07,488
+Ratu Inggris!
+Tidak ada yang lebih baik lagi dari itu.
+
+770
+00:43:15,496 --> 00:43:16,736
+Kenapa kita tidak lewat belakang?
+
+771
+00:43:16,765 --> 00:43:17,875
+Kita ini hiburan.
+
+772
+00:43:17,899 --> 00:43:20,068
+Bukankah kau pakai kostum?
+
+773
+00:43:23,938 --> 00:43:26,775
+Yang Mulia...
+Tuan Phineas T. Barnum...
+
+774
+00:43:26,808 --> 00:43:31,712
+dan rombongan keanehan dari Amerika!
+
+775
+00:43:35,516 --> 00:43:37,285
+<i>Apa itu nyata?</i>
+
+776
+00:43:50,131 --> 00:43:54,836
+Yang Mulia.
+Ijinkan saya menghadirkan Tuan Barnum.
+
+777
+00:43:54,869 --> 00:43:57,271
+Kehormatan bagiku, Tuan Barnum.
+
+778
+00:43:58,039 --> 00:44:00,373
+Dan diriku sudah mendengar semuanya
+tentang kolonel kecilmu
+
+779
+00:44:00,407 --> 00:44:02,410
+Dari teman-temanku di Amerika.
+
+780
+00:44:03,211 --> 00:44:04,913
+Jenderal, Bu.
+
+781
+00:44:04,946 --> 00:44:06,747
+Kau bahkan lebih kecil
+dari yang aku bayangkan.
+
+782
+00:44:06,781 --> 00:44:08,116
+Yah, Anda tidak bisa
+
+783
+00:44:08,149 --> 00:44:10,151
+menggapai bagian atas sendiri, sayang.
+
+784
+00:44:32,706 --> 00:44:33,975
+Barusan sudah terlewati.
+
+785
+00:44:35,877 --> 00:44:37,611
+Yang Mulia.
+
+786
+00:44:37,645 --> 00:44:38,947
+Phillip.
+
+787
+00:44:39,347 --> 00:44:41,049
+Nona Jenny Lind.
+
+788
+00:44:49,123 --> 00:44:50,859
+Siapa itu?
+
+789
+00:44:50,892 --> 00:44:52,793
+Penyanyi opera itu?
+
+790
+00:44:53,461 --> 00:44:54,795
+Penyanyi, huh?
+
+791
+00:44:55,930 --> 00:44:58,967
+Dia penyanyi paling terkenal di Eropa.
+
+792
+00:44:59,000 --> 00:45:01,669
+Berkali-kali tiket di "La Scala" terjual habis.
+
+793
+00:45:01,702 --> 00:45:04,238
+Belum lagi Opera Prancis.
+
+794
+00:45:08,542 --> 00:45:09,810
+Ah.
+
+795
+00:45:10,644 --> 00:45:11,913
+Apa yang kau lakukan?
+
+796
+00:45:11,946 --> 00:45:13,958
+Mengikuti kau, jadi kau bisa
+memperkenalkan diriku pada Nona Lind.
+
+797
+00:45:13,982 --> 00:45:15,950
+- Memperkenalkan dirimu? Aku tidak kenal dia
+- Yeah.
+
+798
+00:45:15,984 --> 00:45:17,427
+Semua orang mengenalnya.
+Kau baru saja bilang begitu.
+
+799
+00:45:17,451 --> 00:45:19,296
+Ya, tepat sekali.
+Kau tidak boleh langsung seperti ini.
+
+800
+00:45:19,320 --> 00:45:21,055
+Kenapa tidak?
+Kita orang, sama dengan dirinya.
+
+801
+00:45:24,592 --> 00:45:25,994
+Nona Lind.
+
+802
+00:45:26,694 --> 00:45:28,429
+Namaku Phillip Carlyle.
+
+803
+00:45:30,398 --> 00:45:33,367
+Dan pria luar biasa di sampingku ini...
+
+804
+00:45:33,401 --> 00:45:34,869
+Phineas Taylor Barnum.
+
+805
+00:45:34,903 --> 00:45:36,004
+Senang bertemu denganmu...
+
+806
+00:45:36,037 --> 00:45:37,305
+Tentu saja, kau orang Amerika itu.
+
+807
+00:45:37,338 --> 00:45:40,074
+Aku yakin pernah mendengar tentangmu.
+
+808
+00:45:40,108 --> 00:45:42,576
+Oh, baiklah,
+jika kau pernah mendengar tentang diriku
+
+809
+00:45:42,610 --> 00:45:44,645
+Pastinya aku melakukan sesuatu yang benar.
+
+810
+00:45:44,678 --> 00:45:47,015
+Atau sesuatu yang sangat salah.
+
+811
+00:45:47,048 --> 00:45:49,918
+Yah, di dunia pemberitaan,
+hampir tidak ada bedanya.
+
+812
+00:45:49,951 --> 00:45:53,154
+Aku yakin itu kata-katanya bandit, Tn. Barnum.
+
+813
+00:45:53,187 --> 00:45:55,990
+Pemain pertunjukan, Nona Lind,
+hanya pemain pertunjukan.
+
+814
+00:45:56,024 --> 00:45:58,259
+Bagiku yang terbaik di Atlantik.
+
+815
+00:45:58,292 --> 00:46:00,694
+Yah, jika kau mengakuinya sendiri.
+
+816
+00:46:00,728 --> 00:46:03,932
+Ya, tapi kurasa tidak perlu.
+
+817
+00:46:03,965 --> 00:46:04,999
+- Oh tidak. Tidak.
+- Benar?
+
+818
+00:46:05,033 --> 00:46:07,001
+Tidak, dia salah satu yang terbaik.
+
+819
+00:46:07,035 --> 00:46:09,037
+Oh, dirimu sangat baik sekali.
+Nona Lind...
+
+820
+00:46:09,070 --> 00:46:10,204
+Aku langsung saja ke intinya
+
+821
+00:46:10,238 --> 00:46:11,639
+Aku ingin membawa dirimu ke New York.
+
+822
+00:46:11,672 --> 00:46:13,975
+Dan jika kau setuju,
+aku akan menjadikan dirimu penyanyi paling terkenal
+
+823
+00:46:14,008 --> 00:46:16,177
+bukan di Eropa saja,
+tetapi di seluruh dunia.
+
+824
+00:46:16,210 --> 00:46:17,811
+Mmm.
+
+825
+00:46:17,845 --> 00:46:20,014
+Dan pernahkah kau mendengar aku bernyanyi?
+
+826
+00:46:20,048 --> 00:46:22,883
+- Tentu saja....
+- Tidak, belum pernah.
+
+827
+00:46:22,917 --> 00:46:25,686
+Tapi seperti diriku,
+reputasimu sudah mewakili,
+
+828
+00:46:25,719 --> 00:46:27,621
+dan, yah, aku percaya reputasimu
+
+829
+00:46:27,655 --> 00:46:29,657
+melebihi dari seleraku sendiri, jadi...
+
+830
+00:46:29,690 --> 00:46:32,360
+Aku belum pernah ke Amerika.
+
+831
+00:46:32,393 --> 00:46:34,095
+Kau akan bernyanyi di teater termegah
+
+832
+00:46:34,128 --> 00:46:36,830
+dengan orkestra terbaik
+di kota terbesar di Bumi.
+
+833
+00:46:36,864 --> 00:46:38,466
+"Jenny Lind."
+
+834
+00:46:38,499 --> 00:46:39,767
+"Semalam saja."
+
+835
+00:46:39,800 --> 00:46:41,002
+Atau mungkin dua malam.
+
+836
+00:46:41,035 --> 00:46:43,437
+Dan, 20% dari penjualan tiket,
+
+837
+00:46:43,471 --> 00:46:45,239
+itu akan menjadi bagian untuk usahamu.
+
+838
+00:46:45,273 --> 00:46:47,608
+Sebagian besar pendapatanku untuk amal, Tn. Barnum.
+
+839
+00:46:47,641 --> 00:46:48,876
+Untuk anak yatim piatu dan janda.
+
+840
+00:46:48,909 --> 00:46:51,512
+"Sang Suara Merdu, Berhati Malaikat."
+
+841
+00:46:51,545 --> 00:46:52,546
+Itu brilian.
+
+842
+00:46:52,580 --> 00:46:54,058
+Maksudku, pers akan menggila untuk cerita itu.
+
+843
+00:46:54,082 --> 00:46:55,649
+Itu bukanlah cerita.
+
+844
+00:46:55,683 --> 00:46:57,651
+Bolehkah diriku menanyakan sesuatu, Tn. Barnum?
+
+845
+00:46:57,685 --> 00:46:59,120
+Apa saja.
+
+846
+00:47:00,454 --> 00:47:01,489
+Kenapa diriku?
+
+847
+00:47:04,092 --> 00:47:05,326
+Orang-orang datang ke acaraku
+
+848
+00:47:05,359 --> 00:47:08,296
+karena kesenangan yang semu.
+
+849
+00:47:08,329 --> 00:47:10,698
+Sekali saja,
+aku ingin memberi mereka sesuatu yang nyata.
+
+850
+00:47:17,105 --> 00:47:18,639
+Nona Lind.
+
+851
+00:47:30,718 --> 00:47:33,521
+Semua orang ada di sini.
+Lihatlah ini.
+
+852
+00:47:33,554 --> 00:47:35,156
+Bahkan para "Winthrops".
+
+853
+00:47:35,589 --> 00:47:37,258
+Apa kamu senang?
+
+854
+00:47:37,891 --> 00:47:40,094
+Kurasa begitu jika ini berjalan lancar.
+
+855
+00:47:40,128 --> 00:47:42,997
+Ya, Tuhan.
+Kuharap dia bisa bernyanyi.
+
+856
+00:47:44,898 --> 00:47:46,276
+Kenapa mereka lama sekali?
+
+857
+00:47:46,300 --> 00:47:47,801
+Mereka masih menuju kursi masing-masing.
+
+858
+00:47:47,835 --> 00:47:49,103
+- Ngomong-ngomong soal itu...
+- Ya?
+
+859
+00:47:49,137 --> 00:47:51,114
+Tom dan Lettie, yang lainnya,
+mereka baru saja tiba.
+
+860
+00:47:51,138 --> 00:47:52,140
+Apa?
+
+861
+00:47:52,173 --> 00:47:54,175
+Di mana aku harus menempatkan mereka?
+Tempatmu?
+
+862
+00:47:54,208 --> 00:47:56,477
+Tempatku? Tidak, tidak,
+tidak, di sana sedikit terlihat.
+
+863
+00:47:56,510 --> 00:47:57,611
+Terlihat?
+
+864
+00:47:57,645 --> 00:47:59,156
+Suaranya akan lebih jelas di ruang berdiri.
+
+865
+00:47:59,180 --> 00:48:00,381
+Di situlah seharusnya mereka.
+
+866
+00:48:01,782 --> 00:48:02,950
+Nona Lind sudah siap sekarang.
+
+867
+00:48:02,983 --> 00:48:04,452
+Baik. Terima kasih, Puji Tuhan!
+
+868
+00:48:06,454 --> 00:48:08,056
+Ini luar biasa.
+
+869
+00:48:08,089 --> 00:48:10,324
+- Bukankah ini luar biasa?
+- Yeah.
+
+870
+00:48:10,358 --> 00:48:12,460
+- Aku menyukainya.
+- Lihatlah tirainya.
+
+871
+00:48:25,606 --> 00:48:28,109
+Hadirin sekalian,
+terima kasih atas kesabaran kalian.
+
+872
+00:48:28,142 --> 00:48:29,910
+
+
+873
+00:48:29,943 --> 00:48:31,645
+
+
+874
+00:48:31,679 --> 00:48:33,214
+<i>Apakah itu Barnum?</i>
+
+875
+00:48:33,247 --> 00:48:34,615
+Ini bukanlah sirkus.
+
+876
+00:48:35,583 --> 00:48:37,585
+Diriku baru-baru ini mendapat kehormatan...
+
+877
+00:48:37,618 --> 00:48:41,122
+mendengar suara yang paling merdu
+
+878
+00:48:41,155 --> 00:48:42,256
+Yang pernah kudengar.
+
+879
+00:48:42,290 --> 00:48:44,125
+<i>Tiba-tiba, dia menjadi penikmat suara.</i>
+
+880
+00:48:44,158 --> 00:48:47,428
+Sekarang, aku tahu kedengarannya
+seperti Barnum Humbug...
+
+881
+00:48:47,461 --> 00:48:49,563
+Tapi aku punya 100 botol
+sampanye berkualitas bersama esnya.
+
+882
+00:48:49,597 --> 00:48:52,100
+Yang mengatakan ini
+bukanlah pertunjukan sampingan.
+
+883
+00:48:54,968 --> 00:48:56,604
+Ijinkan aku mempersembahkan...
+
+884
+00:48:56,637 --> 00:48:58,406
+"The Swedish Nightingale..."
+
+885
+00:48:59,107 --> 00:49:00,741
+Nona Jenny Lind.
+
+886
+00:49:14,236 --> 00:49:17,176
+<font color="#0080ff">terjemahan
+i m o t</font>
+
+887
+00:49:25,633 --> 00:49:30,070
+<i>♪ I'm tryin' to hold my breath ♪</i>
+<font color="#00ff00">♪ Aku berusaha menahan napas ♪</font>
+
+888
+00:49:31,505 --> 00:49:35,509
+<i>♪ Let it stay this way ♪</i>
+<font color="#00ff00">♪ Menjaganya tetap utuh ♪</font>
+
+889
+00:49:35,543 --> 00:49:40,514
+<i>♪ Can't let this moment end ♪</i>
+<font color="#00ff00">♪ Tidak bisa membiarkan momen ini berakhir ♪</font>
+
+890
+00:49:40,548 --> 00:49:44,785
+<i>♪ You set off a dream in me ♪</i>
+<font color="#00ff00">♪ Kamu membuat mimpi di dalam diriku ♪</font>
+
+891
+00:49:46,320 --> 00:49:50,023
+<i>♪ Gettin' louder now ♪</i>
+<font color="#00ff00">♪ Semakin besar sekarang ♪</font>
+
+892
+00:49:50,057 --> 00:49:54,295
+<i>♪ Can you hear it echoing? ♪</i>
+<font color="#00ff00">♪ Bisakah dirimu mendengarnya bergema? ♪</font>
+
+893
+00:49:56,297 --> 00:49:59,633
+<i>♪ Take my hand ♪</i>
+<font color="#00ff00">♪ Genggam tanganku ♪</font>
+
+894
+00:49:59,667 --> 00:50:03,604
+<i>♪ Will you share this with me? ♪</i>
+<font color="#00ff00">♪ Maukah kamu berbagi ini denganku? ♪</font>
+
+895
+00:50:03,637 --> 00:50:07,841
+<i>♪ 'Cause, darlin', without you ♪</i>
+<font color="#00ff00">♪ Karena, sayang, tanpamu... ♪</font>
+
+896
+00:50:09,610 --> 00:50:13,381
+<i>♪ All the shine of a thousand spotlights ♪</i>
+<font color="#00ff00">♪ Semua kilau dari ribuan cahaya ♪</font>
+
+897
+00:50:13,414 --> 00:50:16,884
+<i>♪ All the stars we steal from the night sky ♪</i>
+<font color="#00ff00">♪ Semua bintang yang kita curi dari langit malam ♪</font>
+
+898
+00:50:16,917 --> 00:50:20,954
+<i>♪ Will never be enough ♪</i>
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+899
+00:50:20,988 --> 00:50:24,492
+<i>♪ Never be enough ♪</i>
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+900
+00:50:24,525 --> 00:50:28,028
+<i>♪ Towers of gold are still too little ♪</i>
+<font color="#00ff00">♪ Menara emas masih terlalu kecil ♪</font>
+
+901
+00:50:28,061 --> 00:50:31,165
+<i>♪ These hands could hold the world ♪</i>
+<font color="#00ff00">♪ Tangan ini bisa meraih dunia ♪</font>
+
+902
+00:50:31,199 --> 00:50:34,768
+<i>♪ But it'll never be enough ♪</i>
+<font color="#00ff00">♪ Tapi itu tidak akan pernah cukup ♪</font>
+
+903
+00:50:35,736 --> 00:50:40,674
+<i>♪ Never be enough ♪</i>
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+904
+00:50:40,708 --> 00:50:42,943
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+905
+00:50:42,976 --> 00:50:45,346
+<i>♪ Never, never ♪</i>
+<font color="#00ff00">♪ Tidak pernah, tidak pernah ♪</font>
+
+906
+00:50:46,347 --> 00:50:48,916
+<i>♪ Never, never ♪</i>
+<font color="#00ff00">♪ Tidak pernah, tidak pernah ♪</font>
+
+907
+00:50:49,917 --> 00:50:52,820
+<i>♪ Never, for me ♪</i>
+<font color="#00ff00">♪ Tidak pernah, untukku ♪</font>
+
+908
+00:50:53,287 --> 00:50:55,423
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+909
+00:50:55,456 --> 00:50:58,459
+<i>♪ Never enough ♪</i>
+<font color="#00ff00">♪ Tidak pernah cukup ♪</font>
+
+910
+00:50:59,126 --> 00:51:02,696
+<i>♪ Never enough ♪</i>
+<font color="#00ff00">♪ Tidak pernah cukup ♪</font>
+
+911
+00:51:02,730 --> 00:51:05,999
+<i>♪ Never enough ♪</i>
+<font color="#00ff00">♪ Tidak pernah cukup ♪</font>
+
+912
+00:51:06,033 --> 00:51:07,768
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+913
+00:51:07,801 --> 00:51:10,037
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+914
+00:51:10,070 --> 00:51:13,674
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+915
+00:51:13,707 --> 00:51:17,511
+<i>♪ All the shine of a thousand spotlights ♪</i>
+<font color="#00ff00">♪ Semua kilau dari ribuan cahaya ♪</font>
+
+916
+00:51:17,545 --> 00:51:20,914
+<i>♪ All the stars we steal from the night sky ♪</i>
+<font color="#00ff00">♪ Semua bintang yang kita curi dari langit malam ♪</font>
+
+917
+00:51:20,948 --> 00:51:24,518
+<i>♪ Will never be enough ♪</i>
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+918
+00:51:24,552 --> 00:51:28,289
+<i>♪ Never be enough ♪</i>
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+919
+00:51:28,322 --> 00:51:31,692
+<i>♪ Towers of gold are still too little ♪</i>
+<font color="#00ff00">♪ Menara emas masih terlalu kecil ♪</font>
+
+920
+00:51:31,725 --> 00:51:34,695
+<i>♪ These hands could hold the world ♪</i>
+<font color="#00ff00">♪ Tangan ini bisa meraih dunia ♪</font>
+
+921
+00:51:34,728 --> 00:51:39,199
+<i>♪ But it'll never be enough ♪</i>
+<font color="#00ff00">♪ Tapi itu tidak akan pernah cukup ♪</font>
+
+922
+00:51:39,233 --> 00:51:43,237
+<i>♪ Never be enough ♪</i>
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+923
+00:51:46,139 --> 00:51:48,876
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+924
+00:51:48,909 --> 00:51:50,778
+<i>♪ Never, never ♪</i>
+<font color="#00ff00">♪ Tidak pernah, tidak pernah ♪</font>
+
+925
+00:51:52,045 --> 00:51:53,714
+<i>♪ Never, never ♪</i>
+<font color="#00ff00">♪ Tidak pernah, tidak pernah ♪</font>
+
+926
+00:51:55,483 --> 00:51:58,986
+<i>♪ Never, for me ♪</i>
+<font color="#00ff00">♪ Tidak pernah, untukku ♪</font>
+
+927
+00:51:59,019 --> 00:52:01,021
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+928
+00:52:01,054 --> 00:52:03,123
+<i>♪ Never enough ♪</i>
+<font color="#00ff00">♪ Tidak pernah cukup ♪</font>
+
+929
+00:52:03,156 --> 00:52:04,892
+<i>♪ Never, never ♪</i>
+<font color="#00ff00">♪ Tidak pernah, tidak pernah ♪</font>
+
+930
+00:52:04,925 --> 00:52:06,827
+<i>♪ Never enough ♪</i>
+<font color="#00ff00">♪ Tidak pernah cukup ♪</font>
+
+931
+00:52:06,860 --> 00:52:08,496
+<i>♪ Never, never ♪</i>
+<font color="#00ff00">♪ Tidak pernah, tidak pernah ♪</font>
+
+932
+00:52:08,529 --> 00:52:10,531
+<i>♪ Never enough ♪</i>
+<font color="#00ff00">♪ Tidak pernah cukup ♪</font>
+
+933
+00:52:11,432 --> 00:52:15,135
+<i>♪ For me, for me ♪</i>
+<font color="#00ff00">♪ Untukku, untukku ♪</font>
+
+934
+00:52:15,168 --> 00:52:20,308
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+935
+00:52:24,378 --> 00:52:26,880
+<i>♪ For me ♪</i>
+<font color="#00ff00">♪ Untukku ♪</font>
+
+936
+00:52:50,838 --> 00:52:51,905
+<i>Mantap!</i>
+
+937
+00:52:53,907 --> 00:52:54,942
+<i>Lagi!</i>
+
+938
+00:52:54,975 --> 00:52:56,344
+<i>Hebat!</i>
+
+939
+00:52:56,977 --> 00:52:58,479
+<i>Luar biasa!</i>
+
+940
+00:52:59,112 --> 00:53:00,448
+<i>Lagi!</i>
+
+941
+00:53:01,081 --> 00:53:02,081
+<i>Sempurna!!</i>
+
+942
+00:53:04,385 --> 00:53:05,453
+<i>Bravo!</i>
+
+943
+00:53:07,555 --> 00:53:08,555
+<i>Sedap!</i>
+
+944
+00:53:12,626 --> 00:53:14,466
+Jenny, ini istriku, Charity,
+dan gadis-gadis kami.
+
+945
+00:53:14,495 --> 00:53:16,530
+Tentu saja, dan aku telah
+banyak mendengar tentang kalian!
+
+946
+00:53:16,564 --> 00:53:19,367
+Dan ayahmu memberitahuku
+bahwa kamu penggemar balet.
+
+947
+00:53:19,400 --> 00:53:21,134
+Ya, aku belajar balet.
+
+948
+00:53:21,168 --> 00:53:22,703
+Benarkah?
+
+949
+00:53:22,736 --> 00:53:25,305
+- Tentu saja.
+- Tentu saja begitu.
+
+950
+00:53:25,339 --> 00:53:26,440
+Dan bagaimana denganmu, Helen?
+
+951
+00:53:26,474 --> 00:53:28,075
+Dirimu terlihat seperti seorang putri, Nyonya.
+
+952
+00:53:29,276 --> 00:53:33,714
+Diriku harus mengakui, Barnum...
+dia luar biasa
+
+953
+00:53:33,747 --> 00:53:36,450
+Cukup untuk membawa kegembiraan bagi kritikus
+yang suka mengkritik jelek, bukan?
+
+954
+00:53:36,484 --> 00:53:39,787
+Mmm...
+Dan di tangan pengagum nyata seni,
+
+955
+00:53:39,820 --> 00:53:43,123
+dia bisa menjadi sesuatu di negeri ini.
+
+956
+00:53:43,156 --> 00:53:45,225
+Sayang sekali, dia jatuh ke tanganmu.
+
+957
+00:53:45,258 --> 00:53:47,194
+Kau benar-benar lebih baik
+saat menulis, Pak Bennett,
+
+958
+00:53:47,227 --> 00:53:48,596
+Sukar dipercaya juga.
+
+959
+00:53:48,629 --> 00:53:50,063
+- Tuan Barnum...
+- Ya.
+
+960
+00:53:50,097 --> 00:53:51,608
+<i>- Aku ingin sekali bertemu Nona Lind.
+- Pasti kau akan bertemu Nona Lind.</i>
+
+961
+00:53:51,632 --> 00:53:53,443
+<i>- Maukah dirimu memperkenalkan kami?
+- Baiklah tunggu sebentar...</i>
+
+962
+00:53:53,467 --> 00:53:55,135
+- Phineas.
+- Ya.
+
+963
+00:53:55,168 --> 00:53:56,704
+Dirimu sudah...
+
+964
+00:53:56,737 --> 00:53:58,539
+Berhasil.
+
+965
+00:54:00,107 --> 00:54:01,542
+Terima kasih.
+
+966
+00:54:04,512 --> 00:54:06,414
+Ijinkan diriku memperkenalkan kepada Anda.
+
+967
+00:54:08,215 --> 00:54:10,518
+Uh, permisi, Jenny.
+
+968
+00:54:10,551 --> 00:54:13,220
+Aku ingin dirimu bertemu
+dengan orang tuanya Charity.
+
+969
+00:54:13,253 --> 00:54:14,688
+Tn. dan Nn. Hallett.
+
+970
+00:54:14,722 --> 00:54:15,923
+Ah, suatu kehormatan.
+
+971
+00:54:15,956 --> 00:54:18,034
+- Apa kabar? Senang bertemu denganmu
+- Senang berjumpa denganmu.
+
+972
+00:54:18,058 --> 00:54:20,360
+- Ibu.
+- Halo, sayang.
+
+973
+00:54:20,394 --> 00:54:23,163
+Apakah mereka...
+
+974
+00:54:23,196 --> 00:54:24,898
+Ya, mereka cucu perempuanmu.
+
+975
+00:54:24,932 --> 00:54:26,066
+Phineas, jangan di sini.
+
+976
+00:54:26,099 --> 00:54:27,067
+Tidak di sini?
+
+977
+00:54:27,100 --> 00:54:28,612
+Kamu takut aku akan
+mempermalukan orang tuamu
+
+978
+00:54:28,636 --> 00:54:30,638
+di hadapan teman-teman berkelas mereka?
+
+979
+00:54:30,671 --> 00:54:32,406
+Aku benar-benar tidak berpikir
+memiliki kekuatan itu.
+
+980
+00:54:32,440 --> 00:54:34,708
+Orang tidak penting seperti diriku
+
+981
+00:54:34,742 --> 00:54:38,879
+yang jelas ditakdirkan untuk menjalani
+kehidupan yang tidak penting.
+
+982
+00:54:38,912 --> 00:54:42,115
+Setelah semua keberuntungan itu,
+tetap saja anak seorang penjahit.
+
+983
+00:54:43,150 --> 00:54:44,585
+Keluar.
+
+984
+00:54:49,022 --> 00:54:51,725
+Nah, Phineas...
+
+985
+00:54:51,759 --> 00:54:54,495
+Aku yakin...
+aku pernah bilang kalau sampanye gratis itu
+
+986
+00:54:54,528 --> 00:54:56,063
+adalah resep untuk hal buruk.
+
+987
+00:54:57,164 --> 00:54:58,098
+Charity.
+
+988
+00:54:58,131 --> 00:55:02,102
+- Sekarang semuanya tolong angkat gelasnya?
+- Charity.
+
+989
+00:55:02,135 --> 00:55:03,437
+Untuk Tuan Barnum...
+
+990
+00:55:03,471 --> 00:55:05,238
+yang telah menunjukkan kepada kita semua...
+
+991
+00:55:05,272 --> 00:55:08,041
+bahwa ambisi seorang pria,
+hanya bisa dibatasi...
+
+992
+00:55:08,075 --> 00:55:09,677
+...oleh imajinasinya.
+
+993
+00:55:11,512 --> 00:55:13,947
+- Untuk Barnum!
+- Terima kasih.
+
+994
+00:55:13,981 --> 00:55:14,981
+Untuk Tn. Barnum.
+
+995
+00:55:18,751 --> 00:55:20,387
+Terima kasih.
+
+996
+00:55:20,420 --> 00:55:23,023
+Sulit untuk memahami kekayaan dan kedudukan
+
+997
+00:55:23,056 --> 00:55:25,025
+ketika kamu dilahirkan ke dalamnya.
+
+998
+00:55:26,860 --> 00:55:30,163
+Terkadang aku merasa tidak layak di sini.
+
+999
+00:55:31,298 --> 00:55:32,866
+Dirimu?
+
+1000
+00:55:34,034 --> 00:55:36,670
+Aku lahir di luar nikah...
+
+1001
+00:55:36,704 --> 00:55:38,972
+dan itu aib bagi keluargaku.
+
+1002
+00:55:39,840 --> 00:55:41,775
+Dan kehidupan selalu menegur diriku
+
+1003
+00:55:41,809 --> 00:55:43,186
+bahwa diriku
+tidak pantas mendapat tempat di dunia ini.
+
+1004
+00:55:43,210 --> 00:55:47,848
+Dan itu meninggalkan lubang
+yang tidak bisa digantikan oleh tepuk tangan.
+
+1005
+00:55:53,787 --> 00:55:55,088
+- Tn. Phineas!
+- Kawan-kawan...
+
+1006
+00:55:55,122 --> 00:55:56,857
+Astaga, wanita itu bisa bernyanyi!
+
+1007
+00:55:56,890 --> 00:55:57,758
+Aku tahu.
+
+1008
+00:55:57,791 --> 00:55:59,793
+Menurutmu dia suka pria berseragam?
+
+1009
+00:55:59,827 --> 00:56:01,538
+Aku yakin begitu.
+Oke, apa yang kalian lakukan di sini?
+
+1010
+00:56:01,562 --> 00:56:03,096
+Kalian ada pertunjukan satu jam lagi, bukan?
+
+1011
+00:56:03,130 --> 00:56:05,141
+Cukup waktu bagi kita untuk mendapat
+setidaknya tiga minuman, bukan?
+
+1012
+00:56:05,165 --> 00:56:06,299
+Ayo masuk, ayo.
+
+1013
+00:56:06,333 --> 00:56:07,835
+- Tidak, tidak, tidak. Lettie!
+- Apa?
+
+1014
+00:56:07,868 --> 00:56:10,671
+Sudah sangat ramai di sini, oke?
+Dan aku tidak bisa mengajak kalian bergabung...
+
+1015
+00:56:10,704 --> 00:56:11,539
+Kawan!
+
+1016
+00:56:11,572 --> 00:56:12,706
+Siapa yang akan membayar tiket masuk
+
+1017
+00:56:12,740 --> 00:56:14,183
+jika kalian berada di luar sana
+dan dilihat seluruh dunia?
+
+1018
+00:56:14,207 --> 00:56:16,309
+- Oke? Semoga pertunjukkan kalian lancar.
+- Tunggu.
+
+1019
+00:56:16,343 --> 00:56:18,278
+<i>Hadirin sekalian, mari bersulang!</i>
+
+1020
+00:56:18,311 --> 00:56:21,214
+<i>Jenny, Amerika mungkin belum mengetahuinya...</i>
+
+1021
+00:56:21,248 --> 00:56:23,216
+<i>tetapi mereka akan menyukaimu.</i>
+
+1022
+00:56:23,250 --> 00:56:25,018
+<i>Untuk Nona Lind!</i>
+
+1023
+00:56:31,859 --> 00:56:35,195
+<i>♪ I am not a stranger to the dark ♪</i>
+<font color="#00ff00">♪ Aku bukan orang asing bagi kegelapan ♪</font>
+
+1024
+00:56:36,530 --> 00:56:38,932
+<i>♪ Hide away, they say ♪</i>
+<font color="#00ff00">♪ Bersembunyilah, mereka bilang ♪</font>
+
+1025
+00:56:38,966 --> 00:56:42,202
+<i>♪ 'Cause we don't want your broken parts ♪</i>
+<font color="#00ff00">♪ "Karena kami tidak ingin bagianmu yang rusak" ♪</font>
+
+1026
+00:56:42,235 --> 00:56:47,407
+<i>♪ I've learned to be ashamed of all my scars ♪</i>
+<font color="#00ff00">♪ Aku terbiasa merasa malu akan semua bekas lukaku ♪</font>
+
+1027
+00:56:47,440 --> 00:56:49,943
+<i>♪ Run away, they say ♪</i>
+<font color="#00ff00">♪ Larilah, mereka bilang ♪</font>
+
+1028
+00:56:49,977 --> 00:56:52,880
+<i>♪ No one'll love you as you are ♪</i>
+<font color="#00ff00">♪ Tidak ada yang akan menyukaimu apa adanya ♪</font>
+
+1029
+00:56:52,913 --> 00:56:56,216
+<i>♪ But I won't let them break me down to dust ♪</i>
+<font color="#00ff00">♪ Tapi takkan kubiarkan mereka menghancurkanku menjadi debu ♪</font>
+
+1030
+00:56:56,249 --> 00:56:59,787
+<i>♪ I know that there's a place for us ♪</i>
+<font color="#00ff00">♪ Aku tahu ada tempat untuk kami ♪</font>
+
+1031
+00:56:59,820 --> 00:57:05,192
+<i>♪ For we are glorious ♪</i>
+<font color="#00ff00">♪ Karena kami berjiwa mulia ♪</font>
+
+1032
+00:57:05,225 --> 00:57:09,963
+<i>♪ When the sharpest words wanna cut me down ♪</i>
+<font color="#00ff00">♪ Ketika kata-kata paling tajam ingin melukai diriku ♪</font>
+
+1033
+00:57:09,997 --> 00:57:11,464
+<i>♪ I'm gonna send a flood ♪</i>
+<font color="#00ff00">♪ Aku akan mengirim banjir ♪</font>
+
+1034
+00:57:11,498 --> 00:57:14,602
+<i>♪ Gonna drown 'em out ♪</i>
+<font color="#00ff00">♪ Yang akan menenggelamkan mereka ♪</font>
+
+1035
+00:57:14,635 --> 00:57:17,270
+<i>♪ I am brave I am bruised ♪</i>
+<font color="#00ff00">♪ Aku berani, aku berbeda ♪</font>
+
+1036
+00:57:17,304 --> 00:57:19,673
+<i>♪ I am who I'm meant to be ♪</i>
+<font color="#00ff00">♪ Aku sudah ditakdirkan begini♪</font>
+
+1037
+00:57:19,707 --> 00:57:20,874
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1038
+00:57:20,908 --> 00:57:24,945
+<i>♪ Look out 'cause here I come ♪</i>
+<font color="#00ff00">♪ Awas, karena aku datang ♪</font>
+
+1039
+00:57:24,978 --> 00:57:26,747
+<i>♪ And I'm marchin' on ♪</i>
+<font color="#00ff00">♪ Dan diriku berbaris ♪</font>
+
+1040
+00:57:26,780 --> 00:57:29,516
+<i>♪ To the beat I drum ♪</i>
+<font color="#00ff00">♪ diiringi irama drumku ♪</font>
+
+1041
+00:57:29,549 --> 00:57:32,352
+<i>♪ I'm not scared to be seen ♪</i>
+<font color="#00ff00">♪ Aku tidak takut untuk terlihat ♪</font>
+
+1042
+00:57:32,385 --> 00:57:34,688
+<i>♪ I make no apologies ♪</i>
+<font color="#00ff00">♪ Aku tidak pernah menyesal ♪</font>
+
+1043
+00:57:34,722 --> 00:57:35,989
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1044
+00:57:36,023 --> 00:57:38,291
+<font color="#00ff00">♪ Ooo...oh ♪</font>
+
+1045
+00:57:38,325 --> 00:57:40,861
+<font color="#00ff00">♪ Ooo...oh ♪</font>
+
+1046
+00:57:40,894 --> 00:57:42,696
+<font color="#00ff00">♪ Ooo...oh ♪</font>
+
+1047
+00:57:42,730 --> 00:57:44,998
+<i>Apa yang mereka lakukan di sini?</i>
+
+1048
+00:57:45,032 --> 00:57:46,033
+<font color="#00ff00">♪ Oo...oh ♪</font>
+
+1049
+00:57:46,066 --> 00:57:48,501
+<font color="#00ff00">♪ Oo...oh, Oo...oh ♪</font>
+
+1050
+00:57:48,535 --> 00:57:50,570
+<font color="#00ff00">♪ Oh, oh ♪</font>
+
+1051
+00:57:50,604 --> 00:57:53,974
+<i>♪ Another round of bullets hits my skin ♪</i>
+<font color="#00ff00">♪ Sekali lagi peluru menembus kulitku ♪</font>
+
+1052
+00:57:54,007 --> 00:57:56,109
+<i>♪ Ey, oh, oh ♪ Well, fire away ♪</i>
+<font color="#00ff00">♪ Ey, oh, oh, tembak saja ♪</font>
+
+1053
+00:57:56,143 --> 00:58:00,580
+<i>♪ 'Cause today I won't let the shame sink in ♪</i>
+<font color="#00ff00">♪ Karena hari ini takkan kubiarkan rasa malu menenggelamkanku ♪</font>
+
+1054
+00:58:00,614 --> 00:58:03,016
+<i>♪ We are burstin' through the barricades ♪</i>
+<font color="#00ff00">♪ Kami melesat melewati rintangan ♪</font>
+
+1055
+00:58:03,050 --> 00:58:05,018
+<i>♪ And reachin' for the sun ♪</i>
+<font color="#00ff00">♪ Dan menggapai matahari ♪</font>
+
+1056
+00:58:05,052 --> 00:58:07,655
+<i>♪ We are warriors ♪</i>
+<font color="#00ff00">♪ Kami adalah pejuang ♪</font>
+
+1057
+00:58:07,688 --> 00:58:09,556
+<i>♪ Yeah, that's what we've become ♪</i>
+<font color="#00ff00">♪ Ya, itulah jati diri kami ♪</font>
+
+1058
+00:58:09,589 --> 00:58:10,834
+<i>♪ Yeah, that's what we've become ♪</i>
+<font color="#00ff00">♪ Ya, itulah jati diri kami ♪</font>
+
+1059
+00:58:10,858 --> 00:58:13,661
+<i>♪ I won't let them break me down to dust ♪</i>
+<font color="#00ff00">♪ Takkan kubiarkan mereka menghancurkanku menjadi debu ♪</font>
+
+1060
+00:58:13,694 --> 00:58:15,295
+<i>♪ I know that there's a place for us ♪</i>
+<font color="#00ff00">♪ Aku tahu ada tempat untuk kami ♪</font>
+
+1061
+00:58:15,328 --> 00:58:16,797
+<i>Pulang saja!</i>
+
+1062
+00:58:16,830 --> 00:58:20,801
+<i>♪ For we are glorious ♪</i>
+<font color="#00ff00">♪ Karena kami berjiwa mulia ♪</font>
+
+1063
+00:58:20,834 --> 00:58:23,570
+<i>♪ When the sharpest words wanna cut me down ♪</i>
+<font color="#00ff00">♪ Ketika kata-kata paling tajam ingin melukai diriku ♪</font>
+
+1064
+00:58:23,603 --> 00:58:25,272
+<font color="#00ff00">♪ Ey, ey, ey ♪</font>
+
+1065
+00:58:25,305 --> 00:58:28,709
+<i>♪ I'm gonna send a flood, gonna drown 'em out ♪</i>
+<font color="#00ff00">♪ Aku akan mengirim banjir, ingin menenggelamkan mereka ♪</font>
+
+1066
+00:58:28,742 --> 00:58:29,910
+<font color="#00ff00">♪ Ey, ey, ey ♪</font>
+
+1067
+00:58:29,943 --> 00:58:32,512
+<i>♪ I am brave, I am bruised ♪</i>
+<font color="#00ff00">♪ Aku berani, aku berbeda ♪</font>
+
+1068
+00:58:32,545 --> 00:58:34,815
+<i>♪ I am who I'm meant to be ♪</i>
+<font color="#00ff00">♪ Aku sudah ditakdirkan begini♪</font>
+
+1069
+00:58:34,848 --> 00:58:36,016
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1070
+00:58:36,049 --> 00:58:38,618
+<i>♪ Look out ' cause here I come ♪</i>
+<font color="#00ff00">♪ Awas, karena aku akan datang ♪</font>
+
+1071
+00:58:38,652 --> 00:58:40,553
+<i>♪ Ey, ey, ey ♪</i>
+<font color="#00ff00">♪ Ey, ey, ey ♪</font>
+
+1072
+00:58:40,587 --> 00:58:41,722
+<i>♪ And I'm marchin' on ♪</i>
+<font color="#00ff00">♪ Dan diriku berbaris ♪</font>
+
+1073
+00:58:41,755 --> 00:58:44,892
+<i>♪ To the beat I drum ♪</i>
+<font color="#00ff00">♪ diiringi irama drumku ♪</font>
+
+1074
+00:58:44,925 --> 00:58:47,260
+<i>♪ I'm not scared to be seen ♪</i>
+<font color="#00ff00">♪ Aku tidak takut untuk terlihat ♪</font>
+
+1075
+00:58:47,294 --> 00:58:49,797
+<i>♪ I make no apologies ♪</i>
+<font color="#00ff00">♪ Aku tidak pernah menyesal ♪</font>
+
+1076
+00:58:49,830 --> 00:58:50,898
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1077
+00:58:50,931 --> 00:58:52,599
+<font color="#00ff00">♪ Oh, oh, oh, oh ♪</font>
+
+1078
+00:58:52,632 --> 00:58:53,834
+<font color="#00ff00">♪ Ey, ey ♪</font>
+
+1079
+00:58:53,867 --> 00:58:55,769
+<font color="#00ff00">♪ Oh, oh, oh, oh, ey, ey ♪</font>
+
+1080
+00:58:55,803 --> 00:58:58,238
+<font color="#00ff00">♪ Oh, oh, oh, oh, ey, ey ♪</font>
+
+1081
+00:58:58,271 --> 00:58:59,639
+<font color="#00ff00">♪ Oh, oh, oh, oh ♪</font>
+
+1082
+00:58:59,673 --> 00:59:02,342
+<font color="#00ff00">♪ Oo..oh ♪</font>
+
+1083
+00:59:02,375 --> 00:59:05,145
+<font color="#00ff00">♪ Oo..oh, oh, oh ♪</font>
+
+1084
+00:59:05,178 --> 00:59:06,179
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1085
+00:59:06,213 --> 00:59:07,815
+<font color="#00ff00">♪ Oh, oh, oh, oh, ey, ey ♪</font>
+
+1086
+00:59:07,848 --> 00:59:13,253
+<i>♪ And I know that I deserve your love ♪</i>
+<font color="#00ff00">♪ Dan aku tahu pantas mendapatkan cintamu ♪</font>
+
+1087
+00:59:13,286 --> 00:59:18,491
+<i>♪ There's nothing I'm not worthy of ♪</i>
+<font color="#00ff00">♪ Tidak ada yang tidak layak dari diriku ♪</font>
+
+1088
+00:59:18,525 --> 00:59:20,393
+<font color="#00ff00">♪ Oh, oh ♪</font>
+
+1089
+00:59:20,427 --> 00:59:25,465
+<i>♪ When the sharpest words wanna cut me down ♪</i>
+<font color="#00ff00">♪ Ketika kata-kata paling tajam ingin melukaiku ♪</font>
+
+1090
+00:59:25,498 --> 00:59:26,734
+<i>♪ I'm gonna send a flood ♪</i>
+<font color="#00ff00">♪ Aku akan mengirim banjir ♪</font>
+
+1091
+00:59:26,767 --> 00:59:29,870
+<i>♪ Gonna drown 'em out ♪</i>
+<font color="#00ff00">♪ Yang menenggelamkan mereka ♪</font>
+
+1092
+00:59:29,903 --> 00:59:32,672
+<i>♪ This is brave, this is bruised ♪</i>
+<font color="#00ff00">♪ Ini keberanian. Ini perbedaan ♪</font>
+
+1093
+00:59:32,706 --> 00:59:34,875
+<i>♪ This is who I'm meant to be ♪</i>
+<font color="#00ff00">♪ Aku sudah ditakdirkan begini♪</font>
+
+1094
+00:59:34,908 --> 00:59:37,277
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1095
+00:59:37,310 --> 00:59:39,346
+<i>♪ Look out 'cause here I come ♪</i>
+<font color="#00ff00">♪ Awas, karena sekarang aku datang ♪</font>
+
+1096
+00:59:39,379 --> 00:59:41,915
+<i>♪ Look out 'cause here I come ♪</i>
+<font color="#00ff00">♪ Awas, karena sekarang aku datang ♪</font>
+
+1097
+00:59:41,949 --> 00:59:44,017
+<i>♪ And I'm marchin' on to the beat I drum ♪</i>
+<font color="#00ff00">♪ Aku berbaris diiringi irama drum ♪</font>
+
+1098
+00:59:44,051 --> 00:59:47,087
+<i>♪ Marchin' on, marchin', marchin' on to the beat I drum ♪</i>
+<font color="#00ff00">♪ berbaris, berbaris, berbaris diiringi irama drumku ♪</font>
+
+1099
+00:59:47,120 --> 00:59:50,690
+<i>♪ I'm not scared to be seen I make no apologies ♪</i>
+<font color="#00ff00">♪ Aku tidak takut terlihat, aku tidak pernah menyesal ♪</font>
+
+1100
+00:59:50,724 --> 00:59:52,259
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1101
+00:59:52,292 --> 00:59:54,261
+<i>♪ Whenever the words wanna cut me down ♪</i>
+<font color="#00ff00">♪ Kapanpun kata-kata itu ingin melukaiku ♪</font>
+
+1102
+00:59:54,294 --> 00:59:57,564
+<i>♪ I'll send the flood to drown 'em out ♪</i>
+<font color="#00ff00">♪ Aku akan mengirim banjir untuk menenggelamkan mereka ♪</font>
+
+1103
+00:59:57,597 --> 01:00:00,734
+<i>♪ I'm gonna send a flood ♪</i>
+<font color="#00ff00">♪ Aku akan mengirim banjir ♪</font>
+
+1104
+01:00:00,768 --> 01:00:04,237
+<i>♪ Gonna drown them out ♪</i>
+<font color="#00ff00">♪ Akan menenggelamkan mereka ♪</font>
+
+1105
+01:00:04,271 --> 01:00:06,173
+<font color="#00ff00">♪ Oh, oh, oh ♪</font>
+
+1106
+01:00:06,206 --> 01:00:08,241
+<i>♪ This is me ♪</i>
+<font color="#00ff00">♪ Inilah diriku ♪</font>
+
+1107
+01:00:12,545 --> 01:00:14,714
+Kenapa kau tidak menambah pertunjukan di New York saja?
+
+1108
+01:00:14,748 --> 01:00:15,925
+Kenapa kau harus keliling negara ini?
+
+1109
+01:00:15,949 --> 01:00:18,418
+Kenapa Napoleon berbaris menuju Rusia?
+
+1110
+01:00:18,451 --> 01:00:19,619
+Napoleon kalah.
+
+1111
+01:00:19,652 --> 01:00:21,855
+Napoleon tidak punya 60 pertunjukan orkestra.
+
+1112
+01:00:21,889 --> 01:00:23,323
+60 pertunjukan orkestra?
+
+1113
+01:00:23,356 --> 01:00:25,826
+Cari musisi termurah dan utamakan itu.
+
+1114
+01:00:25,859 --> 01:00:27,070
+Kita masih harus mengangkut mereka.
+
+1115
+01:00:27,094 --> 01:00:28,304
+Cari yang sudah menikah,
+mereka bisa berbagi tempat tidur.
+
+1116
+01:00:28,328 --> 01:00:30,430
+O'Malley, dia sumber uangnya Caroline.
+
+1117
+01:00:30,463 --> 01:00:33,300
+- Pertunjukan tambahan? Kembang api?
+- Yeah.
+
+1118
+01:00:33,333 --> 01:00:34,734
+Di dalam gedung teater?
+
+1119
+01:00:34,768 --> 01:00:36,069
+Itu jenius.
+
+1120
+01:00:36,103 --> 01:00:37,370
+Tidak, Hei, P.T...
+
+1121
+01:00:37,404 --> 01:00:39,248
+Ini gedung teater paling terkenal di negara ini.
+
+1122
+01:00:39,272 --> 01:00:41,250
+Mereka membuatmu membeli kursi
+di awal hanya untuk memesannya.
+
+1123
+01:00:41,274 --> 01:00:42,642
+Ya. Aku mengambil pinjaman.
+
+1124
+01:00:42,675 --> 01:00:45,221
+- Dan kita harus membayar Jenny di muka?
+- Itu pinjaman yang besar. Oke?
+
+1125
+01:00:45,245 --> 01:00:46,814
+Kau tidak akan mendapat keuntungan sepeser pun
+
+1126
+01:00:46,847 --> 01:00:48,315
+sampai pertunjukan ke-40...
+
+1127
+01:00:48,348 --> 01:00:49,482
+Pertunjukan ke-41, sebenarnya.
+
+1128
+01:00:49,516 --> 01:00:51,027
+Kau mempertaruhkan semua
+yang telah kau bangun di sini.
+
+1129
+01:00:51,051 --> 01:00:52,352
+Menurutmu bagaimana aku membangunnya?
+
+1130
+01:00:52,385 --> 01:00:54,230
+Kita akan memiliki banyak keuntungan
+setelah pertunjukan ini.
+
+1131
+01:00:54,254 --> 01:00:55,188
+- P.T.?
+- Apa?
+
+1132
+01:00:55,222 --> 01:00:57,524
+Perhatian dirimu sudah terbagi cukup banyak.
+
+1133
+01:00:57,557 --> 01:00:58,658
+Penjualan tiket menurun,
+
+1134
+01:00:58,691 --> 01:01:00,060
+Pengunjuk rasa tiap hari selalu bertambah.
+
+1135
+01:01:00,093 --> 01:01:01,470
+Kau hanya perlu membuat orang kembali.
+
+1136
+01:01:01,494 --> 01:01:03,530
+"Jika Anda belum pernah ke
+Museum Barnum belakangan ini,
+
+1137
+01:01:03,563 --> 01:01:04,941
+Maka Anda belum pernah datang ke Museum Barnum. "
+
+1138
+01:01:04,965 --> 01:01:06,934
+Mereka datang untuk melihatmu.
+
+1139
+01:01:06,967 --> 01:01:08,668
+Ide gilamu...
+
+1140
+01:01:08,701 --> 01:01:10,938
+Pertunjukan barumu, yang tidak biasa.
+
+1141
+01:01:10,971 --> 01:01:13,773
+Bagaimana kalau kau menunjukkan
+mereka senyum? Itu pastinya tidak biasa.
+
+1142
+01:01:13,807 --> 01:01:15,151
+Terus berlatih. Buat saja semuanya lancar
+
+1143
+01:01:15,175 --> 01:01:17,710
+Aku harap mereka memberi penghormatan yang pantas
+
+1144
+01:01:17,744 --> 01:01:20,747
+dan mereka harus baik padamu juga.
+
+1145
+01:01:20,780 --> 01:01:23,016
+Bukankah itu pemandangan
+yang menyakitkan mata?
+
+1146
+01:01:23,050 --> 01:01:24,584
+Dia bahkan tidak sempat mengatakan "halo."
+
+1147
+01:01:24,617 --> 01:01:25,718
+Atau "selamat tinggal."
+
+1148
+01:01:25,752 --> 01:01:28,121
+Dia sedang tur.
+Maaf, kawan-kawan.
+
+1149
+01:01:28,155 --> 01:01:29,890
+Oh, kemarilah, Carlyle.
+
+1150
+01:01:29,923 --> 01:01:31,859
+Bukankah seharusnya kau berada di suatu tempat?
+
+1151
+01:01:37,564 --> 01:01:38,631
+Anne Wheeler.
+
+1152
+01:01:38,865 --> 01:01:41,601
+Tn. Barnum bilang dia
+memesankan tiket untukku.
+
+1153
+01:01:45,672 --> 01:01:47,074
+Maaf...
+
+1154
+01:01:47,107 --> 01:01:48,909
+Aku yakin seharusnya satu tiket.
+
+1155
+01:01:48,942 --> 01:01:51,344
+Tidak, memang ada dua.
+
+1156
+01:01:56,183 --> 01:01:58,919
+Aku tidak yakin dirimu akan datang
+jika aku yang mengajak.
+
+1157
+01:02:02,956 --> 01:02:04,557
+<i>Lima menit lagi dimulai.</i>
+
+1158
+01:02:07,327 --> 01:02:09,262
+Aku selalu ingin pergi ke teater.
+
+1159
+01:02:15,903 --> 01:02:18,005
+Phillip, apakah itu dirimu?
+
+1160
+01:02:19,172 --> 01:02:20,173
+Ibu.
+
+1161
+01:02:20,207 --> 01:02:24,344
+Ayah.
+Ini Anne Wheeler.
+
+1162
+01:02:25,145 --> 01:02:28,348
+Phillip, apa dirimu tidak punya malu?
+
+1163
+01:02:28,381 --> 01:02:32,119
+Bekerja bersama Barnum adalah sesuatu...
+
+1164
+01:02:32,152 --> 01:02:34,321
+tapi jalan-jalan dengan pembantu?
+
+1165
+01:02:37,290 --> 01:02:39,159
+Anne.
+
+1166
+01:02:39,192 --> 01:02:40,527
+Anne!
+
+1167
+01:02:40,560 --> 01:02:41,861
+Anne!
+
+1168
+01:02:47,000 --> 01:02:49,169
+Berani-beraninya Ayah berbicara
+seperti itu kepadanya?
+
+1169
+01:02:51,638 --> 01:02:53,673
+Kau melupakan tempatmu, Phillip.
+
+1170
+01:02:53,706 --> 01:02:55,708
+Tempatku?
+
+1171
+01:02:55,742 --> 01:02:57,744
+Ibu, kalau ini tempatku,
+
+1172
+01:02:57,777 --> 01:02:59,947
+maka aku tidak ingin terlibat.
+
+1173
+01:03:09,489 --> 01:03:11,124
+Anne.
+
+1174
+01:03:15,028 --> 01:03:17,064
+Mereka orang-orang yang berpikiran sempit.
+
+1175
+01:03:23,703 --> 01:03:25,138
+Mengapa kamu peduli dengan yang mereka pikirkan?
+
+1176
+01:03:25,172 --> 01:03:27,340
+Bukan hanya mereka.
+
+1177
+01:03:28,275 --> 01:03:30,110
+Kau belum pernah ditatap seseorang
+
+1178
+01:03:30,143 --> 01:03:31,979
+seperti cara orang tuamu menatap diriku.
+
+1179
+01:03:33,813 --> 01:03:36,016
+Seperti cara semua orang melihat kami.
+
+1180
+01:03:39,286 --> 01:03:43,156
+<i>♪ You know I want you ♪</i>
+<font color="#00ff00">♪ Kau tahu aku menginginkanmu ♪</font>
+
+1181
+01:03:43,190 --> 01:03:47,527
+<i>♪ It's not a secret I try to hide ♪</i>
+<font color="#00ff00">♪ Ini bukanlah rahasia yang aku coba sembunyikan ♪</font>
+
+1182
+01:03:47,560 --> 01:03:50,363
+<i>♪ I know you want me ♪</i>
+<font color="#00ff00">♪ Aku tahu kamu menginginkan diriku ♪</font>
+
+1183
+01:03:51,764 --> 01:03:55,435
+<i>♪ So don't keep sayin' our hands are tied ♪</i>
+<font color="#00ff00">♪ Jadi jangan terus bilang tangan kita terikat ♪</font>
+
+1184
+01:03:55,468 --> 01:03:57,971
+<i>♪ You claim it's not in the cards ♪</i>
+<font color="#00ff00">♪ Kamu beralasan kalau itu tidak mungkin ♪</font>
+
+1185
+01:03:58,005 --> 01:04:00,873
+<i>♪ And fate is pulling you miles away ♪</i>
+<font color="#00ff00">♪ Dan takdir menarikmu menjauh ♪</font>
+
+1186
+01:04:00,907 --> 01:04:03,876
+<i>♪ And out of reach from me ♪</i>
+<font color="#00ff00">♪ Dan di luar jangkauanku ♪</font>
+
+1187
+01:04:03,910 --> 01:04:05,345
+<i>♪ But you're here in my heart ♪</i>
+<font color="#00ff00">♪ Tapi kau ada di hatiku ♪</font>
+
+1188
+01:04:05,378 --> 01:04:08,648
+<i>♪ So who can stop me if I decide ♪</i>
+<font color="#00ff00">♪ Jadi siapa yang bisa menghentikan keputusanku ♪</font>
+
+1189
+01:04:08,681 --> 01:04:11,584
+<i>♪ That you're my destiny? ♪</i>
+<font color="#00ff00">♪ Bahwa kamu adalah takdirku? ♪</font>
+
+1190
+01:04:13,953 --> 01:04:17,790
+<i>♪ What if we rewrite the stars? ♪</i>
+<font color="#00ff00">♪ Bagaimana jika kita menulis ulang semua bintang? ♪</font>
+
+1191
+01:04:17,824 --> 01:04:21,661
+<i>♪ Say you were made to be mine? ♪</i>
+<font color="#00ff00">♪ Bahwa dirimu ditakdirkan untukku? ♪</font>
+
+1192
+01:04:21,694 --> 01:04:25,398
+<i>♪ Nothing could keep us apart ♪</i>
+<font color="#00ff00">♪ Tidak ada yang bisa memisahkan kita ♪</font>
+
+1193
+01:04:25,432 --> 01:04:29,536
+<i>♪ You'd be the one I was meant to find ♪</i>
+<font color="#00ff00">♪ Kamu menjadi satu-satunya takdirku ♪</font>
+
+1194
+01:04:29,569 --> 01:04:31,004
+<i>♪ It's up to you ♪</i>
+<font color="#00ff00">♪ Terserah padamu ♪</font>
+
+1195
+01:04:31,038 --> 01:04:33,040
+<i>♪ And it's up to me ♪</i>
+<font color="#00ff00">♪ Dan terserah padaku ♪</font>
+
+1196
+01:04:33,073 --> 01:04:36,843
+<i>♪ No one can say what we get to be ♪</i>
+<font color="#00ff00">♪ Tidak ada yang bisa mengatur kita ♪</font>
+
+1197
+01:04:36,876 --> 01:04:40,813
+<i>♪ So why don't we rewrite the stars? ♪</i>
+<font color="#00ff00">♪ Jadi mengapa tidak mencoba menulis ulang semua bintang? ♪</font>
+
+1198
+01:04:40,847 --> 01:04:45,118
+<i>♪ Maybe the world could be ours ♪</i>
+<font color="#00ff00">♪ Mungkin dunia bisa menjadi milik kita ♪</font>
+
+1199
+01:04:45,152 --> 01:04:46,219
+<i>♪ Tonight ♪</i>
+<font color="#00ff00">♪ Malam ini ♪</font>
+
+1200
+01:04:54,361 --> 01:04:56,296
+<i>♪ You think it's easy? ♪</i>
+<font color="#00ff00">♪ Kamu pikir itu mudah? ♪</font>
+
+1201
+01:04:58,398 --> 01:05:02,102
+<i>♪ You think I don't want to run to you? ♪</i>
+<font color="#00ff00">♪ Kamu pikir aku tidak mau lari kepadamu? ♪</font>
+
+1202
+01:05:02,135 --> 01:05:05,738
+<i>♪ But there are mountains ♪</i>
+<font color="#00ff00">♪ Tapi ada gunung-gunung ♪</font>
+
+1203
+01:05:05,772 --> 01:05:09,776
+<i>♪ And there are doors that we can't walk through ♪</i>
+<font color="#00ff00">♪ Dan ada pintu yang tidak bisa kita lewati ♪</font>
+
+1204
+01:05:09,809 --> 01:05:11,911
+<i>♪ I know you're wonderin' why ♪</i>
+<font color="#00ff00">♪ Aku tahu dirimu bertanya-tanya ♪</font>
+
+1205
+01:05:11,944 --> 01:05:13,580
+<i>♪ Because we're able to be ♪</i>
+<font color="#00ff00">♪ Karena kita bisa ♪</font>
+
+1206
+01:05:13,613 --> 01:05:17,850
+<i>♪ Just you and me within these walls ♪</i>
+<font color="#00ff00">♪ Bersama-sama melewati semua rintangan ♪</font>
+
+1207
+01:05:17,884 --> 01:05:19,819
+<i>♪ But when we go outside ♪</i>
+<font color="#00ff00">♪ Tapi ketika kita pergi ke luar ♪</font>
+
+1208
+01:05:19,852 --> 01:05:21,388
+<i>♪ You're gonna wake up and see ♪</i>
+<font color="#00ff00">♪ Kamu akan bangun dan melihat ♪</font>
+
+1209
+01:05:21,421 --> 01:05:26,659
+<i>♪ That it was hopeless after all ♪</i>
+<font color="#00ff00">♪ Bahwa semua itu sia-sia ♪</font>
+
+1210
+01:05:29,462 --> 01:05:33,400
+<i>♪ No one can rewrite the stars ♪</i>
+<font color="#00ff00">♪ Tidak ada yang bisa menulis ulang bintang-bintang ♪</font>
+
+1211
+01:05:33,433 --> 01:05:37,270
+<i>♪ How can you say you'll be mine? ♪</i>
+<font color="#00ff00">♪ Bagaimana bisa kamu bilang akan menjadi milikku? ♪</font>
+
+1212
+01:05:37,304 --> 01:05:40,907
+<i>♪ Ev'rything keeps us apart ♪</i>
+<font color="#00ff00">♪ Semuanya mencoba memisahkan kita ♪</font>
+
+1213
+01:05:40,940 --> 01:05:44,844
+<i>♪ And I'm not the one you were meant to find ♪</i>
+<font color="#00ff00">♪ Dan aku bukanlah takdirmu ♪</font>
+
+1214
+01:05:44,877 --> 01:05:46,813
+<i>♪ It's not up to you ♪</i>
+<font color="#00ff00">♪ Itu bukanlah terserah padamu ♪</font>
+
+1215
+01:05:46,846 --> 01:05:48,415
+<i>♪ It's not up to me ♪</i>
+<font color="#00ff00">♪ Itu bukanlah terserah diriku ♪</font>
+
+1216
+01:05:48,448 --> 01:05:52,352
+<i>♪ When everyone tells us what we can be ♪</i>
+<font color="#00ff00">♪ Ketika semuanya memberitahu siapa diri kita ♪</font>
+
+1217
+01:05:52,385 --> 01:05:56,523
+<i>♪ How can we rewrite the stars? ♪</i>
+<font color="#00ff00">♪ Bagaimana kita bisa menulis ulang bintang-bintang? ♪</font>
+
+1218
+01:05:56,556 --> 01:06:00,993
+<i>♪ Say that the world can be ours ♪</i>
+<font color="#00ff00">♪ Mengatakan bahwa dunia bisa menjadi milik kita ♪</font>
+
+1219
+01:06:01,027 --> 01:06:02,329
+<i>♪ Tonight? ♪</i>
+<font color="#00ff00">♪ Malam ini? ♪</font>
+
+1220
+01:06:02,362 --> 01:06:05,998
+<i>♪ All I want is to fly with you ♪</i>
+<font color="#00ff00">♪ Yang kuinginkan hanyalah terbang bersamamu ♪</font>
+
+1221
+01:06:06,032 --> 01:06:09,836
+<i>♪ All I want is to fall with you ♪</i>
+<font color="#00ff00">♪ Yang kuinginkan hanyalah jatuh bersamamu ♪</font>
+
+1222
+01:06:09,869 --> 01:06:14,006
+<i>♪ So just give me all of you ♪</i>
+<font color="#00ff00">♪ Jadi berikan padaku semua milikmu ♪</font>
+
+1223
+01:06:14,040 --> 01:06:16,176
+<i>♪ It feels impossible, it's not impossible ♪</i>
+<font color="#00ff00">♪ Sepertinya mustahil, itu tidaklah mustahil ♪</font>
+
+1224
+01:06:16,209 --> 01:06:18,010
+<i>♪ Is it impossible? ♪</i>
+<font color="#00ff00">♪ Apakah mustahil? ♪</font>
+
+1225
+01:06:18,044 --> 01:06:22,048
+<i>♪ Say that it's possible ♪</i>
+<font color="#00ff00">♪ Anggap saja semuanya mungkin terjadi ♪</font>
+
+1226
+01:06:22,081 --> 01:06:25,518
+<i>♪ How do we rewrite the stars? ♪</i>
+<font color="#00ff00">♪ Bagaimana kita menulis ulang bintang-bintang? ♪</font>
+
+1227
+01:06:25,552 --> 01:06:29,222
+<i>♪ Say you were made to be mine? ♪</i>
+<font color="#00ff00">♪ Mengatakan dirimu ditakdirkan untukku? ♪</font>
+
+1228
+01:06:29,256 --> 01:06:32,959
+<i>♪ Nothing could keep us apart ♪</i>
+<font color="#00ff00">♪ Tidak ada yang bisa memisahkan kita ♪</font>
+
+1229
+01:06:32,992 --> 01:06:37,197
+<i>♪ 'Cause you are the one I was meant to find ♪</i>
+<font color="#00ff00">♪ Karena kamu adalah pilihanku ♪</font>
+
+1230
+01:06:37,230 --> 01:06:40,500
+<i>♪ It's up to you and it's up to me ♪</i>
+<font color="#00ff00">♪ Terserah dirimu dan terserah diriku ♪</font>
+
+1231
+01:06:40,533 --> 01:06:44,237
+<i>♪ No one can say what we get to be ♪</i>
+<font color="#00ff00">♪ Tidak ada yang bisa mengatur kita ♪</font>
+
+1232
+01:06:44,271 --> 01:06:48,241
+<i>♪ Why don't we rewrite the stars? ♪</i>
+<font color="#00ff00">♪ Mengapa kita tidak menulis ulang bintang-bintang? ♪</font>
+
+1233
+01:06:48,275 --> 01:06:53,213
+<i>♪ Changin' the world to be ours ♪</i>
+<font color="#00ff00">♪ Mengubah dunia menjadi milik kita ♪</font>
+
+1234
+01:07:01,288 --> 01:07:03,556
+<i>♪ You know I want you ♪</i>
+<font color="#00ff00">♪ Kau tahu aku menginginkan dirimu ♪</font>
+
+1235
+01:07:05,091 --> 01:07:08,995
+<i>♪ It's not a secret I try to hide ♪</i>
+<font color="#00ff00">♪ Ini bukanlah rahasia yang aku coba sembunyikan ♪</font>
+
+1236
+01:07:09,028 --> 01:07:12,665
+<i>♪ But I can't have you ♪</i>
+<font color="#00ff00">♪ Tapi aku tidak bisa memilikimu ♪</font>
+
+1237
+01:07:12,699 --> 01:07:18,338
+<i>♪ We're bound to break and my hands are tied ♪</i>
+<font color="#00ff00">♪ Kita ditakdirkan berpisah, dan tanganku terikat ♪</font>
+
+1238
+01:07:33,653 --> 01:07:36,623
+Pertama, membeli rumah di jalan
+yang sama dengan orang tuaku.
+
+1239
+01:07:36,656 --> 01:07:37,824
+Lalu, bertemu dengan Sang Ratu.
+
+1240
+01:07:37,857 --> 01:07:41,361
+Lalu memperkenalkan Jenny Lind
+kepada ayahku malam itu.
+
+1241
+01:07:41,394 --> 01:07:43,630
+Kapan semuanya cukup bagimu?
+
+1242
+01:07:45,131 --> 01:07:47,267
+Aku melakukan ini untuk Caroline dan Helen.
+
+1243
+01:07:47,300 --> 01:07:49,536
+Lihatlah ke sekeliling dirimu.
+Mereka memiliki semuanya.
+
+1244
+01:07:49,569 --> 01:07:50,946
+- Kamu tidak mengerti
+- Aku mengerti.
+
+1245
+01:07:50,970 --> 01:07:52,739
+Tidak, dirimu tidak mengerti.
+
+1246
+01:07:53,873 --> 01:07:55,575
+Bagaimana bisa kamu tega?
+
+1247
+01:07:58,110 --> 01:08:00,547
+Ayahku diperlakukan seperti kotoran.
+
+1248
+01:08:00,580 --> 01:08:05,084
+Aku diperlakukan seperti kotoran,
+dan anak-anakku tidak akan seperti itu.
+
+1249
+01:08:05,117 --> 01:08:07,620
+Kau tidak perlu membuat semua orang
+menyukai dirimu, Phin.
+
+1250
+01:08:09,256 --> 01:08:12,559
+Hanya butuh beberapa... orang baik.
+
+1251
+01:08:14,661 --> 01:08:16,229
+Aku tahu itu.
+
+1252
+01:08:26,505 --> 01:08:27,539
+<i>Tuan.</i>
+
+1253
+01:08:29,576 --> 01:08:30,743
+Tidak, tidak! Ayah!
+
+1254
+01:08:31,544 --> 01:08:32,712
+<i>Ayah!</i>
+
+1255
+01:08:33,646 --> 01:08:35,648
+Ayah, tidak!
+Tunggu!
+
+1256
+01:08:35,682 --> 01:08:37,016
+<i>- Ayah!
+- Jalan!</i>
+
+1257
+01:08:37,049 --> 01:08:39,119
+<i>Tunggu, Ayah!</i>
+
+1258
+01:08:40,152 --> 01:08:42,922
+<i>♪ Some people long for a life ♪</i>
+<font color="#00ff00">♪ Beberapa orang mendambakan kehidupan ♪</font>
+
+1259
+01:08:42,955 --> 01:08:45,858
+<i>♪ That is simple and planned ♪</i>
+<font color="#00ff00">♪ Yang sederhana dan terencana ♪</font>
+
+1260
+01:08:46,526 --> 01:08:48,761
+<i>♪ Tied with a ribbon ♪</i>
+<font color="#00ff00">♪ Terikat dengan pita ♪</font>
+
+1261
+01:08:48,795 --> 01:08:51,698
+<i>♪ Some people won't sail the sea ♪</i>
+<font color="#00ff00">♪ Beberapa orang takkan berlayar di lautan ♪</font>
+
+1262
+01:08:51,731 --> 01:08:54,301
+<i>♪ 'Cause they're safer on land ♪</i>
+<font color="#00ff00">♪ Karena merasa lebih aman di daratan ♪</font>
+
+1263
+01:08:55,468 --> 01:08:57,537
+<i>♪ To follow what's written ♪</i>
+<font color="#00ff00">♪ Karena mengikuti tradisi ♪</font>
+
+1264
+01:08:57,570 --> 01:09:01,107
+<i>♪ But I'd follow you ♪</i>
+<font color="#00ff00">♪ Tapi aku akan mengikuti dirimu ♪</font>
+
+1265
+01:09:01,140 --> 01:09:05,244
+<i>♪ To the great unknown ♪</i>
+<font color="#00ff00">♪ Menuju hal yang tak pasti ♪</font>
+
+1266
+01:09:06,546 --> 01:09:09,949
+<i>♪ Off to a world ♪</i>
+<font color="#00ff00">♪ Berkelana di dunia ♪</font>
+
+1267
+01:09:09,982 --> 01:09:14,687
+<i>♪ We call our own ♪</i>
+<font color="#00ff00">♪ Yang kita sebut milik bersama ♪</font>
+
+1268
+01:09:17,957 --> 01:09:19,692
+<i>♪ Mountains and valleys ♪</i>
+<font color="#00ff00">♪ Pegunungan dan lembah ♪</font>
+
+1269
+01:09:19,726 --> 01:09:22,962
+<i>♪ And all that will come in between ♪</i>
+<font color="#00ff00">♪ Dan semua di antaranya ♪</font>
+
+1270
+01:09:24,331 --> 01:09:26,499
+<i>♪ Desert and ocean ♪</i>
+<font color="#00ff00">♪ Gurun dan lautan ♪</font>
+
+1271
+01:09:26,533 --> 01:09:28,367
+<i>♪ You pull me in ♪</i>
+<font color="#00ff00">♪ Kamu menarikku ♪</font>
+
+1272
+01:09:28,400 --> 01:09:33,205
+<i>♪ And together we're lost in a dream ♪</i>
+<font color="#00ff00">♪ Dan bersama-sama tersesat dalam mimpi ♪</font>
+
+1273
+01:09:33,239 --> 01:09:35,475
+<i>♪ Always in motion ♪</i>
+<font color="#00ff00">♪ Selalu berdampingan ♪</font>
+
+1274
+01:09:35,508 --> 01:09:38,645
+<i>♪ So I risk it all ♪</i>
+<font color="#00ff00">♪ Jadi aku mempertaruhkan segalanya ♪</font>
+
+1275
+01:09:38,678 --> 01:09:43,616
+<i>♪ Just to be with you ♪</i>
+<font color="#00ff00">♪ Hanya untuk bersamamu ♪</font>
+
+1276
+01:09:44,283 --> 01:09:48,154
+<i>♪ And I risk it all ♪</i>
+<font color="#00ff00">♪ Dan aku mempertaruhkan segalanya ♪</font>
+
+1277
+01:09:48,187 --> 01:09:53,460
+<i>♪ For this life we choose ♪</i>
+<font color="#00ff00">♪ Untuk jalan hidup yang telah kita pilih ♪</font>
+
+1278
+01:09:53,493 --> 01:09:54,894
+<i>♪ Hand in my hand ♪</i>
+<font color="#00ff00">♪ Genggam tanganku ♪</font>
+
+1279
+01:09:54,927 --> 01:09:59,599
+<i>♪ And you promised to never let go ♪</i>
+<font color="#00ff00">♪ Dan kamu berjanji takkan pernah melepaskannya ♪</font>
+
+1280
+01:09:59,632 --> 01:10:02,234
+<i>♪ We're walkin' a tightrope ♪</i>
+<font color="#00ff00">♪ Kita berjalan di seutas tali ♪</font>
+
+1281
+01:10:02,268 --> 01:10:03,803
+<i>♪ High in the sky ♪</i>
+<font color="#00ff00">♪ Tinggi di langit ♪</font>
+
+1282
+01:10:03,836 --> 01:10:08,508
+<i>♪ We can see the whole world down below ♪</i>
+<font color="#00ff00">♪ Kita bisa melihat seluruh dunia di bawah ♪</font>
+
+1283
+01:10:08,541 --> 01:10:12,378
+<i>♪ We're walkin' a tightrope ♪</i>
+<font color="#00ff00">♪ Kita berjalan di seutas tali ♪</font>
+
+1284
+01:10:12,379 --> 01:10:14,714
+<i>♪ Never sure ♪</i>
+<font color="#00ff00">♪ Tidak pernah yakin ♪</font>
+
+1285
+01:10:14,747 --> 01:10:20,353
+<i>Will you catch me if I should fall?</i>
+<font color="#00ff00">♪ Apakah kamu akan menangkapku jika terjatuh? ♪</font>
+
+1286
+01:10:32,565 --> 01:10:33,666
+<i>Brava!</i>
+
+1287
+01:10:39,639 --> 01:10:41,841
+<i>♪ Well, it's all an adventure ♪</i>
+<font color="#00ff00">♪ Semua ini adalah petualangan ♪</font>
+
+1288
+01:10:41,874 --> 01:10:45,745
+<i>♪ That comes with a breathtakin' view ♪</i>
+<font color="#00ff00">♪ Dengan pemandangan yang mendebarkan ♪</font>
+
+1289
+01:10:46,613 --> 01:10:51,150
+<i>♪ Walkin' a tightrope ♪</i>
+<font color="#00ff00">♪ Berjalan di seutas tali ♪</font>
+
+1290
+01:10:51,183 --> 01:10:52,318
+<i>♪ With you ♪</i>
+<font color="#00ff00">♪ Bersama dirimu ♪</font>
+
+1291
+01:10:52,351 --> 01:10:57,390
+<font color="#00ff00">♪ Oh, oh, oh, oh ♪</font>
+
+1292
+01:11:00,059 --> 01:11:01,394
+<font color="#00ff00">♪ Hmm... ♪</font>
+
+1293
+01:11:01,428 --> 01:11:06,499
+<font color="#00ff00">♪ Oh, oh, oh, oh ♪</font>
+
+1294
+01:11:06,533 --> 01:11:08,034
+<i>♪ With you ♪</i>
+<font color="#00ff00">♪ Bersama dirimu ♪</font>
+
+1295
+01:11:08,968 --> 01:11:15,973
+<i>♪ With you ♪</i>
+<font color="#00ff00">♪ Bersama dirimu ♪</font>
+
+1296
+01:11:20,112 --> 01:11:31,750
+<i>♪ With you... oh... ♪</i>
+<font color="#00ff00">♪ Bersama dirimu... oh...  ♪</font>
+
+1297
+01:11:32,224 --> 01:11:34,193
+<i>♪ With you... ♪</i>
+<font color="#00ff00">♪ Bersama dirimu... ♪</font>
+
+1298
+01:11:34,748 --> 01:11:42,815
+t e r j e m a h a n
+<font color="#0080ff">i m o t</font>
+
+1299
+01:11:45,271 --> 01:11:47,907
+"Seolah-olah kita telah belajar untuk pertama kalinya..
+
+1300
+01:11:47,940 --> 01:11:50,009
+..apa itu sebenarnya bernyanyi."
+
+1301
+01:11:50,042 --> 01:11:54,313
+"Nona Lind layak mendapat penghargaan tertinggi bangsa kita..
+
+1302
+01:11:54,346 --> 01:11:56,650
+..dan tepuk tangan paling meriah. "
+
+1303
+01:11:58,317 --> 01:12:00,920
+- Maksudku...
+- Kita berdiri di atas dunia.
+
+1304
+01:12:01,854 --> 01:12:04,390
+Yah, Tuan Barnum.
+
+1305
+01:12:05,758 --> 01:12:08,227
+Ini...
+
+1306
+01:12:08,260 --> 01:12:09,896
+adalah...
+
+1307
+01:12:12,799 --> 01:12:15,201
+untuk impian yang menjadi kenyataan.
+
+1308
+01:12:15,234 --> 01:12:17,103
+Terima kasih, Jenny.
+
+1309
+01:12:29,015 --> 01:12:30,817
+Dua jam lagi pertunjukan.
+
+1310
+01:12:32,519 --> 01:12:35,221
+Aku telah memberi dirimu dunia, bukan?
+
+1311
+01:12:39,058 --> 01:12:41,302
+Aku, uh, aku harus pergi.
+
+1312
+01:12:42,962 --> 01:12:44,797
+Aku telah menjadi pengganggu.
+Maafkan diriku, Jenny.
+
+1313
+01:12:44,831 --> 01:12:46,699
+- Tidak.
+- Kamu harus menyelesaikan tour tanpa diriku.
+
+1314
+01:12:46,733 --> 01:12:47,900
+Apa? Kamu pergi?
+
+1315
+01:12:47,934 --> 01:12:49,211
+Semua keperluan telah diatur dengan baik.
+
+1316
+01:12:49,235 --> 01:12:50,436
+Jadi, begitu saja.
+
+1317
+01:12:50,469 --> 01:12:52,639
+Apa maksudmu?
+
+1318
+01:12:52,672 --> 01:12:55,474
+Aku hanyalah salah satu dari pertunjukan kecilmu.
+
+1319
+01:12:56,142 --> 01:12:57,977
+- Jenny.
+- Aku berhenti.
+
+1320
+01:12:58,711 --> 01:13:01,147
+Jenny.
+Jenny, kumohon.
+
+1321
+01:13:01,180 --> 01:13:02,815
+Kamu harus menyelesaikan tour.
+
+1322
+01:13:03,215 --> 01:13:04,316
+Haruskah?
+
+1323
+01:13:04,350 --> 01:13:06,218
+Itu... itu akan menghancurkan diriku.
+
+1324
+01:13:06,252 --> 01:13:09,656
+Ketika dirimu tak peduli dengan orang lain, Tn. Barnum...
+
+1325
+01:13:09,689 --> 01:13:11,724
+Kau membawa kehancuran kepada dirimu sendiri.
+
+1326
+01:13:11,758 --> 01:13:13,826
+Aku telah mempertaruhkan segalanya.
+
+1327
+01:13:13,860 --> 01:13:15,528
+Yah, begitu juga diriku.
+
+1328
+01:13:15,562 --> 01:13:17,630
+Dan sepertinya kita sama-sama kehilangan.
+
+1329
+01:13:23,135 --> 01:13:26,739
+<font color="#00ff00">♪ Semua bintang yang kita curi dari langit malam ♪</font>
+
+1330
+01:13:26,773 --> 01:13:30,910
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+1331
+01:13:31,878 --> 01:13:36,082
+<font color="#00ff00">♪ Tidak pernah cukup ♪</font>
+
+1332
+01:13:36,115 --> 01:13:39,886
+<font color="#00ff00">♪ Menara emas masihlah terlalu kecil ♪</font>
+
+1333
+01:13:39,919 --> 01:13:43,422
+<font color="#00ff00">♪ Tangan ini bisa menggapai dunia ♪</font>
+
+1334
+01:13:43,455 --> 01:13:48,127
+<font color="#00ff00">♪ Tapi itu tidak akan pernah cukup ♪</font>
+
+1335
+01:13:49,195 --> 01:13:52,732
+<font color="#00ff00">♪ Tidak akan pernah cukup ♪</font>
+
+1336
+01:14:30,769 --> 01:14:31,971
+Terima kasih.
+
+1337
+01:14:37,309 --> 01:14:39,511
+Untuk apa itu?
+
+1338
+01:14:39,545 --> 01:14:41,781
+Itu selamat tinggal.
+
+1339
+01:14:47,219 --> 01:14:48,764
+<i>Hei, terima kasih banyak telah datang.</i>
+
+1340
+01:14:48,788 --> 01:14:50,666
+- Beritahu teman dan tetangga Anda!
+- Pertunjukan yang luar biasa!
+
+1341
+01:14:50,690 --> 01:14:52,792
+Siapa saja yang dirinya terhibur?
+Kau? Kau?
+
+1342
+01:14:52,825 --> 01:14:54,794
+Beritahu semua orang betapa
+menyenangkannya dirimu di sirkus!
+
+1343
+01:14:54,827 --> 01:14:56,696
+Pertunjukan baru setiap malam!
+
+1344
+01:14:56,729 --> 01:14:59,866
+Hei! Pimpinan sirkus.
+
+1345
+01:15:01,533 --> 01:15:04,871
+Tuan-tuan, diriku meminta kalian untuk pergi.
+
+1346
+01:15:04,904 --> 01:15:07,373
+Ini kota kami, Nak.
+
+1347
+01:15:07,406 --> 01:15:08,741
+Kami pikir kaulah yang harus pergi.
+
+1348
+01:15:08,775 --> 01:15:11,110
+Kau dan orang-orang anehmu.
+
+1349
+01:15:11,143 --> 01:15:12,344
+Dan orang-orang menakutkan ini.
+
+1350
+01:15:14,046 --> 01:15:15,047
+Tuan.
+
+1351
+01:15:16,448 --> 01:15:18,150
+Aku hanya akan meminta sekali lagi.
+
+1352
+01:15:18,184 --> 01:15:19,719
+Lalu apa, Nak?
+
+1353
+01:15:21,653 --> 01:15:22,855
+Hei! Hentikan!
+
+1354
+01:15:22,889 --> 01:15:23,956
+<i>Hajar dia!</i>
+
+1355
+01:15:26,658 --> 01:15:29,328
+Seraaaang...!!!
+
+1356
+01:15:55,955 --> 01:15:58,124
+- Mungkinkah itu dia?
+- Aku pikir begitu.
+
+1357
+01:15:58,657 --> 01:15:59,658
+Ayah!
+
+1358
+01:15:59,692 --> 01:16:02,561
+Ayah!
+
+1359
+01:16:02,594 --> 01:16:04,697
+- Gadis-gadisku!
+- Ayah!
+
+1360
+01:16:04,731 --> 01:16:07,266
+Oh, kalian telah bertambah besar.
+Hentikan.
+
+1361
+01:16:09,836 --> 01:16:11,637
+Apa yang membuat dirimu
+memutuskan kembali lebih awal?
+
+1362
+01:16:11,670 --> 01:16:13,672
+Aku merindukanmu.
+Aku rindu kamu.
+
+1363
+01:16:13,705 --> 01:16:16,008
+Kedengarannya sangat menyedihkan seperti Humbug.
+
+1364
+01:16:16,042 --> 01:16:16,843
+Kebakaran!
+
+1365
+01:16:16,876 --> 01:16:18,610
+- Minggir!
+- Ayo!
+
+1366
+01:16:18,644 --> 01:16:20,980
+Cepat! Itu berasal dari sirkus.
+
+1367
+01:16:21,013 --> 01:16:23,582
+Lari! Ayo cepat!
+Kebakaran!
+
+1368
+01:16:23,615 --> 01:16:25,384
+Anak-anak, tetap bersama ayah.
+Ayo. Cepat, cepat!
+
+1369
+01:16:32,491 --> 01:16:34,626
+Semuanya, jangan mendekat!
+
+1370
+01:16:39,431 --> 01:16:41,233
+Phillip! Apakah semuanya sudah keluar?
+
+1371
+01:16:41,267 --> 01:16:42,869
+- Apakah semuanya baik-baik saja?
+- Yeah.
+
+1372
+01:16:43,002 --> 01:16:44,070
+Hewan?
+Hewannya?
+
+1373
+01:16:44,103 --> 01:16:45,714
+Ya, kami melepas mereka.
+Apa lagi yang bisa kami lakukan?
+
+1374
+01:16:45,738 --> 01:16:47,106
+W.D., di mana Anne?
+
+1375
+01:16:47,339 --> 01:16:48,739
+Di mana Anne?
+Di mana Anne?
+
+1376
+01:16:49,408 --> 01:16:51,477
+Tidak, Phillip!
+Tidak!
+
+1377
+01:16:51,510 --> 01:16:53,813
+Hei! Kau tidak boleh masuk ke sana!
+
+1378
+01:16:53,846 --> 01:16:56,115
+<i>- Anne!</i>
+- Phillip!
+
+1379
+01:16:57,616 --> 01:16:59,451
+<i>Teruslah memompa!</i>
+
+1380
+01:16:59,485 --> 01:17:00,486
+W.D.!
+
+1381
+01:17:00,519 --> 01:17:02,088
+Ini dia!
+Dia di sini!
+
+1382
+01:17:05,057 --> 01:17:06,125
+Phillip!
+
+1383
+01:17:06,158 --> 01:17:07,794
+- Phillip!
+- Ayah!
+
+1384
+01:17:11,397 --> 01:17:12,765
+- Jangan!
+- Ayah!
+
+1385
+01:17:13,532 --> 01:17:14,733
+Ayah!
+
+1386
+01:17:26,845 --> 01:17:28,247
+Jangan mendekat!
+
+1387
+01:17:39,891 --> 01:17:41,093
+Ayah!
+
+1388
+01:17:48,367 --> 01:17:49,768
+<i>Tandu!</i>
+
+1389
+01:17:50,202 --> 01:17:51,503
+<i>Tandu!</i>
+
+1390
+01:17:52,538 --> 01:17:53,972
+Dia menghirup banyak asap.
+
+1391
+01:17:54,005 --> 01:17:56,208
+Dia masih bernapas. Ayolah.
+
+1392
+01:17:56,242 --> 01:17:57,585
+<i>Ayo, bawa dia!</i>
+
+1393
+01:18:01,213 --> 01:18:02,213
+<i>Naik!</i>
+
+1394
+01:18:34,480 --> 01:18:39,919
+<font color="#00ff00">♪ Bagaimana jika.. kita menulis ulang bintang-bintang? ♪</font>
+
+1395
+01:18:42,889 --> 01:18:48,227
+<font color="#00ff00">♪ Mengatakan dirimu ditakdirkan untukku? ♪</font>
+
+1396
+01:18:50,296 --> 01:18:55,234
+<font color="#00ff00">♪ Tidak ada yang bisa memisahkan kita ♪</font>
+
+1397
+01:19:00,706 --> 01:19:06,979
+<font color="#00ff00">♪ Kamulah yang ditakdirkan untukku ♪</font>
+
+1398
+01:19:12,251 --> 01:19:13,886
+Ini dia, kawan!
+
+1399
+01:19:13,920 --> 01:19:16,122
+Ayo! Lurus saja.
+
+1400
+01:19:18,958 --> 01:19:21,093
+<i>Thomas, bantu aku sebentar.</i>
+
+1401
+01:19:34,073 --> 01:19:36,875
+Jika kau datang untuk menertawakan, jangan.
+
+1402
+01:19:41,013 --> 01:19:44,050
+Mereka menangkap preman
+yang menyulut kebakaran.
+
+1403
+01:19:44,083 --> 01:19:46,585
+Aku kira kau ingin tahu.
+
+1404
+01:19:56,828 --> 01:19:59,798
+Aku tidak pernah menyukai pertunjukanmu.
+
+1405
+01:19:59,831 --> 01:20:01,667
+Tapi diriku selalu memikirkan
+yang orang-orangmu lakukan.
+
+1406
+01:20:02,501 --> 01:20:04,603
+Mereka melakukannya.
+Tanpa paksaan.
+
+1407
+01:20:12,678 --> 01:20:14,413
+Keberatankah, diriku takkan menyebutnya seni.
+
+1408
+01:20:15,614 --> 01:20:17,116
+Tentu saja tidak.
+
+1409
+01:20:17,149 --> 01:20:18,417
+Tapi...
+
+1410
+01:20:19,952 --> 01:20:23,922
+menempatkan orang-orang..
+yang beragam di panggung bersama kau...
+
+1411
+01:20:23,956 --> 01:20:27,859
+mencakup semua warna kulit, bentuk, ukuran...
+
+1412
+01:20:27,893 --> 01:20:30,297
+menampilkan mereka
+sebagai wujud tanpa perbedaan.
+
+1413
+01:20:31,363 --> 01:20:34,866
+Itulah, kritik lain bahkan akan menyebutnya...
+
+1414
+01:20:34,900 --> 01:20:37,236
+"Sebuah Perayaan Kemanusiaan."
+
+1415
+01:20:38,904 --> 01:20:40,606
+Aku pasti akan suka itu.
+
+1416
+01:20:40,639 --> 01:20:42,208
+Mmm.
+
+1417
+01:20:45,011 --> 01:20:47,213
+- Diriku berharap kau akan membangun kembali.
+- Hmm.
+
+1418
+01:20:48,414 --> 01:20:50,249
+Syukurlah ada tour-nya Jenny.
+
+1419
+01:20:50,282 --> 01:20:52,251
+Kami dapat mengambil sedikit keuntungan,
+kami akan baik-baik saja.
+
+1420
+01:20:52,984 --> 01:20:53,985
+Kau tidak tahu?
+
+1421
+01:20:54,019 --> 01:20:55,221
+Hmm?
+
+1422
+01:21:03,028 --> 01:21:04,430
+Maafkan diriku.
+
+1423
+01:21:15,741 --> 01:21:16,808
+Charity?
+
+1424
+01:21:16,842 --> 01:21:18,444
+Astaga, Charity.
+
+1425
+01:21:18,477 --> 01:21:20,078
+- Aku...
+- Aku tak ingin bicara denganmu.
+
+1426
+01:21:20,111 --> 01:21:21,113
+Tak terjadi apa-apa.
+
+1427
+01:21:21,147 --> 01:21:22,357
+- Ini konyol.
+- Oh, tentu. Tak terjadi apa-apa.
+
+1428
+01:21:22,381 --> 01:21:24,225
+Itu ada di halaman depan
+semua koran di New York.
+
+1429
+01:21:24,249 --> 01:21:26,485
+Karena dia mengatur fotonya.
+Aku tidak jatuh cinta padanya!
+
+1430
+01:21:26,518 --> 01:21:28,020
+Tentu saja tidak.
+
+1431
+01:21:28,054 --> 01:21:30,456
+Tidak dengannya, tidak denganku,
+tidak dengan siapa pun.
+
+1432
+01:21:30,489 --> 01:21:31,757
+Hanya dirimu dan pertunjukanmu.
+
+1433
+01:21:34,160 --> 01:21:36,162
+Apa yang kamu lakukan?
+
+1434
+01:21:37,696 --> 01:21:39,431
+Aku pulang ke rumah.
+
+1435
+01:21:39,565 --> 01:21:40,832
+Ini rumahmu.
+
+1436
+01:21:44,803 --> 01:21:46,072
+Pihak Bank...
+
+1437
+01:21:47,974 --> 01:21:49,576
+mereka mengusir kita.
+
+1438
+01:21:51,610 --> 01:21:54,045
+Kenapa kamu tidak bertanya dulu padaku...
+
+1439
+01:21:55,847 --> 01:21:58,084
+Aku pasti akan setuju.
+
+1440
+01:21:58,117 --> 01:22:01,553
+Aku tidak peduli resikonya,
+asalkan kita melakukannya bersama.
+
+1441
+01:22:40,125 --> 01:22:41,927
+Sudah kuduga kau ada di sini.
+
+1442
+01:22:41,960 --> 01:22:43,695
+Merasa kasihan pada diri sendiri.
+
+1443
+01:23:00,078 --> 01:23:01,713
+Kawan-kawan,
+jika kalian kemari untuk mendapatkan bayaran,
+
+1444
+01:23:01,747 --> 01:23:04,316
+Uangnya lenyap.
+Semuanya.
+
+1445
+01:23:04,350 --> 01:23:06,218
+- Tidak ada yang tersisa untuk kalian.
+- Diam, Barnum.
+
+1446
+01:23:06,252 --> 01:23:08,187
+Kau tidak mengerti.
+
+1447
+01:23:09,188 --> 01:23:12,224
+Ibu kami sendiri merasa malu karena kami.
+
+1448
+01:23:13,325 --> 01:23:14,860
+Menyembunyikan kami dari kehidupan.
+
+1449
+01:23:16,195 --> 01:23:19,265
+Kemudian kau menarik kita keluar dari kegelapan.
+
+1450
+01:23:19,298 --> 01:23:21,267
+Dan sekarang kau juga menyerah pada kami.
+
+1451
+01:23:22,601 --> 01:23:24,503
+Mungkin kau seorang penipu.
+
+1452
+01:23:24,536 --> 01:23:27,373
+Mungkin semua itu hanya untuk
+menghasilkan uang.
+
+1453
+01:23:29,475 --> 01:23:32,578
+Tapi kau memberikan kepada kami
+keluarga yang sesungguhnya.
+
+1454
+01:23:32,611 --> 01:23:36,182
+Dan sirkus...
+itulah rumah kami.
+
+1455
+01:23:39,885 --> 01:23:41,620
+Kami ingin rumah kami kembali.
+
+1456
+01:23:47,426 --> 01:23:50,296
+<i>♪ I saw the sun begin to dim ♪</i>
+<font color="#00ff00">♪ Aku melihat matahari mulai redup ♪</font>
+
+1457
+01:23:50,329 --> 01:23:54,400
+<i>♪ And felt that winter wind blow cold ♪</i>
+<font color="#00ff00">♪ Dan merasakan angin dingin berhembus ♪</font>
+
+1458
+01:23:57,836 --> 01:24:00,472
+<i>♪ A man learns who is there for him ♪</i>
+<font color="#00ff00">♪ Seorang pria belajar siapa yang mendukungnya ♪</font>
+
+1459
+01:24:00,506 --> 01:24:04,443
+<i>♪ When the glitter fades and the walls won't hold ♪</i>
+<font color="#00ff00">♪ Saat kilau menghilang, dan dinding runtuh ♪</font>
+
+1460
+01:24:07,946 --> 01:24:10,849
+<i>♪ 'Cause from that rubble ♪</i>
+<font color="#00ff00">♪ Karena dari puing-puing itu ♪</font>
+
+1461
+01:24:10,882 --> 01:24:13,352
+<i>♪ What remains ♪</i>
+<font color="#00ff00">♪ Yang tersisa ♪</font>
+
+1462
+01:24:13,385 --> 01:24:17,323
+<i>♪ Can only be what's true ♪</i>
+<font color="#00ff00">♪ Hanya itulah kenyataannya ♪</font>
+
+1463
+01:24:18,457 --> 01:24:21,493
+<i>♪ If all was lost ♪</i>
+<font color="#00ff00">♪ Kalau semuanya telah hilang ♪</font>
+
+1464
+01:24:21,527 --> 01:24:24,330
+<i>♪ There's more I gained ♪</i>
+<font color="#00ff00">♪ Masih ada lagi yang bisa kudapatkan ♪</font>
+
+1465
+01:24:24,363 --> 01:24:27,533
+<i>♪ 'Cause it led me back ♪</i>
+<font color="#00ff00">♪ Karena itu membawaku kembali ♪</font>
+
+1466
+01:24:31,303 --> 01:24:33,339
+<i>♪ To you ♪</i>
+<font color="#00ff00">♪ Kepada kalian ♪</font>
+
+1467
+01:24:52,291 --> 01:24:55,193
+<i>♪ I drank champagne with kings and queens ♪</i>
+<font color="#00ff00">♪ Aku minum sampanye bersama raja dan ratu ♪</font>
+
+1468
+01:24:55,227 --> 01:24:58,464
+<i>♪ The politicians praised my name ♪</i>
+<font color="#00ff00">♪ Para politisi memuji namaku ♪</font>
+
+1469
+01:25:01,233 --> 01:25:03,569
+<i>♪ But those were someone else's dreams ♪</i>
+<font color="#00ff00">♪ Tapi itu adalah mimpinya orang lain ♪</font>
+
+1470
+01:25:03,602 --> 01:25:09,975
+<i>♪ The pitfalls of the man I became ♪</i>
+<font color="#00ff00">♪ Perangkap yang menjebakku ♪</font>
+
+1471
+01:25:10,008 --> 01:25:12,444
+<i>♪ For years and years ♪</i>
+<font color="#00ff00">♪ Selama bertahun-tahun ♪</font>
+
+1472
+01:25:12,478 --> 01:25:14,646
+<i>♪ I chased their cheers ♪</i>
+<font color="#00ff00">♪ Aku mengejar kehidupan mereka ♪</font>
+
+1473
+01:25:14,680 --> 01:25:19,117
+<i>♪ A crazy speed of always needing more ♪</i>
+<font color="#00ff00">♪ Sangat cepat tanpa henti ♪</font>
+
+1474
+01:25:19,150 --> 01:25:21,152
+<i>♪ But when I stop ♪</i>
+<font color="#00ff00">♪ Tapi saat aku berhenti ♪</font>
+
+1475
+01:25:21,186 --> 01:25:23,322
+<i>♪ And see you here ♪</i>
+<font color="#00ff00">♪ dan melihat kalian di sini ♪</font>
+
+1476
+01:25:23,355 --> 01:25:29,026
+<i>♪ I remember who all this was for ♪</i>
+<font color="#00ff00">♪ Aku ingat semua ini untuk siapa ♪</font>
+
+1477
+01:25:29,127 --> 01:25:32,097
+<i>♪ And from now on ♪</i>
+<font color="#00ff00">♪ Dan mulai saat ini ♪</font>
+
+1478
+01:25:32,130 --> 01:25:36,234
+<i>♪ These eyes will not be blinded by the lights ♪</i>
+<font color="#00ff00">♪ Mata ini takkan dibutakan oleh cahaya ♪</font>
+
+1479
+01:25:38,236 --> 01:25:41,072
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1480
+01:25:41,106 --> 01:25:43,241
+<i>♪ What's waited 'til tomorrow ♪</i>
+<font color="#00ff00">♪ Apa yang dinantikan esok hari ♪</font>
+
+1481
+01:25:43,275 --> 01:25:45,243
+<i>♪ Starts tonight ♪</i>
+<font color="#00ff00">♪ dimulai malam ini ♪</font>
+
+1482
+01:25:45,277 --> 01:25:47,279
+<i>♪ It starts tonight ♪</i>
+<font color="#00ff00">♪ akan dimulai malam ini ♪</font>
+
+1483
+01:25:47,313 --> 01:25:52,017
+<i>♪ And let this promise in me start ♪</i>
+<font color="#00ff00">♪ Dan biarkan aku ucapkan janji ini ♪</font>
+
+1484
+01:25:52,050 --> 01:25:55,921
+<i>♪ Like an anthem in my heart ♪</i>
+<font color="#00ff00">♪ Seperti lagu bahagia di hatiku ♪</font>
+
+1485
+01:25:55,954 --> 01:25:59,725
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1486
+01:26:00,426 --> 01:26:03,795
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1487
+01:26:05,030 --> 01:26:06,332
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1488
+01:26:06,365 --> 01:26:08,634
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1489
+01:26:08,667 --> 01:26:11,470
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1490
+01:26:11,503 --> 01:26:15,173
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1491
+01:26:15,206 --> 01:26:17,409
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1492
+01:26:17,443 --> 01:26:20,712
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1493
+01:26:20,746 --> 01:26:23,982
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1494
+01:26:24,015 --> 01:26:26,518
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1495
+01:26:26,552 --> 01:26:29,321
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1496
+01:26:29,355 --> 01:26:32,524
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1497
+01:26:32,558 --> 01:26:35,361
+<i>♪ From now on and we will come back home ♪</i>
+<font color="#00ff00">♪ Mulai saat ini, kami akan pulang ke rumah ♪</font>
+
+1498
+01:26:35,394 --> 01:26:38,296
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1499
+01:26:38,330 --> 01:26:41,867
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1500
+01:26:41,900 --> 01:26:44,269
+<i>♪ And we will come back home♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1501
+01:26:44,302 --> 01:26:47,305
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1502
+01:26:47,339 --> 01:26:50,742
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1503
+01:26:50,776 --> 01:26:53,712
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1504
+01:26:53,745 --> 01:26:55,289
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1505
+01:26:55,313 --> 01:26:58,016
+<i>♪ Yes! Home again ♪</i>
+<font color="#00ff00">♪ Ya! Rumah lagi ♪</font>
+
+1506
+01:26:59,618 --> 01:27:02,053
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1507
+01:27:02,087 --> 01:27:05,156
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1508
+01:27:05,190 --> 01:27:07,225
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1509
+01:27:07,258 --> 01:27:10,161
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1510
+01:27:10,195 --> 01:27:14,332
+<i>♪ These eyes will not be blinded by the lights ♪</i>
+<font color="#00ff00">♪ Mata ini tidak akan dibutakan oleh cahaya ♪</font>
+
+1511
+01:27:16,334 --> 01:27:19,605
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1512
+01:27:19,638 --> 01:27:23,274
+<i>♪ What's waited til tomorrow starts tonight ♪</i>
+<font color="#00ff00">♪ Apa yang dinantikan esok hari, dimulai malam ini ♪</font>
+
+1513
+01:27:23,308 --> 01:27:24,776
+<i>♪ It starts tonight ♪</i>
+<font color="#00ff00">♪ Dimulai malam ini ♪</font>
+
+1514
+01:27:24,810 --> 01:27:29,415
+<i>♪ Let this promise in me start ♪</i>
+<font color="#00ff00">♪ Dan biarkan aku ucapkan janji ini ♪</font>
+
+1515
+01:27:29,448 --> 01:27:33,852
+<i>♪ Like an anthem in my heart ♪</i>
+<font color="#00ff00">♪ Seperti lagu bahagia di hatiku ♪</font>
+
+1516
+01:27:33,885 --> 01:27:38,089
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1517
+01:27:38,123 --> 01:27:41,660
+<i>♪ From now on, and we will come back home ♪</i>
+<font color="#00ff00">♪ Mulai saat ini, kami akan pulang ke rumah ♪</font>
+
+1518
+01:27:41,693 --> 01:27:45,196
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1519
+01:27:45,230 --> 01:27:48,634
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1520
+01:27:48,667 --> 01:27:50,769
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1521
+01:27:50,802 --> 01:27:54,105
+<i>♪ And we will come back home ♪</i>
+<font color="#00ff00">♪ Dan kami akan pulang ke rumah ♪</font>
+
+1522
+01:27:54,139 --> 01:27:56,975
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1523
+01:28:08,954 --> 01:28:09,955
+Kamu di sini.
+
+1524
+01:28:09,988 --> 01:28:12,891
+<i>♪ From now on ♪</i>
+<i><font color="#00ff00">♪ Mulai saat ini ♪</font></i>
+
+1525
+01:28:12,924 --> 01:28:15,393
+<i>♪ From now on ♪</i>
+<i><font color="#00ff00">♪ Mulai saat ini ♪</font></i>
+
+1526
+01:28:15,427 --> 01:28:19,030
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1527
+01:28:21,032 --> 01:28:23,902
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1528
+01:28:23,935 --> 01:28:26,438
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1529
+01:28:26,472 --> 01:28:28,707
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1530
+01:28:31,610 --> 01:28:34,312
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1531
+01:28:34,345 --> 01:28:37,082
+<i>♪ From now on ♪</i>
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1532
+01:28:37,115 --> 01:28:40,486
+<i>♪ Home again ♪</i>
+<font color="#00ff00">♪ Rumah lagi ♪</font>
+
+1533
+01:28:45,957 --> 01:28:48,660
+Caroline! Ayah ada di sini.
+
+1534
+01:28:53,499 --> 01:28:55,501
+Aku ingin bertemu istriku.
+
+1535
+01:28:55,534 --> 01:28:56,835
+Dia tidak di sini.
+
+1536
+01:28:58,504 --> 01:29:00,438
+Ibu ada di pantai!
+
+1537
+01:29:28,433 --> 01:29:31,503
+Aku membawa kesulitan kepadamu
+dan keluarga kita.
+
+1538
+01:29:32,203 --> 01:29:33,605
+Kamu memperingatkan diriku...
+
+1539
+01:29:34,239 --> 01:29:36,074
+Tapi aku tidak mendengarkan.
+
+1540
+01:29:39,044 --> 01:29:40,546
+Aku hanya...
+
+1541
+01:29:43,782 --> 01:29:46,217
+Aku ingin menjadi lebih dari yang dulu.
+
+1542
+01:29:50,689 --> 01:29:55,561
+Aku tidak pernah menginginkan apapun
+kecuali pria yang aku cintai.
+
+1543
+01:29:57,996 --> 01:30:02,467
+<font color="#00ff00">♪ Ijinkan aku mengucap janji ini ♪</font>
+
+1544
+01:30:02,500 --> 01:30:06,538
+<font color="#00ff00">♪ Layaknya lagu bahagia di hatiku ♪</font>
+
+1545
+01:30:08,306 --> 01:30:10,642
+<font color="#00ff00">♪ Sebesar apapun ♪</font>
+
+1546
+01:30:10,676 --> 01:30:13,511
+<font color="#00ff00">♪ Sekecil apapun ♪</font>
+
+1547
+01:30:14,613 --> 01:30:16,214
+<font color="#00ff00">♪ Mulai saat ini ♪</font>
+
+1548
+01:30:19,618 --> 01:30:21,587
+Mulai saat ini.
+
+1549
+01:30:54,485 --> 01:30:55,921
+Bank menolak?
+
+1550
+01:30:55,954 --> 01:30:57,055
+Dengan tegas.
+
+1551
+01:30:57,088 --> 01:30:59,625
+Berkali-kali.
+
+1552
+01:30:59,658 --> 01:31:01,660
+Kurasa tidak ada bank yang tersisa di negara ini
+
+1553
+01:31:01,693 --> 01:31:05,196
+Yang bisa aku tipu
+untuk meminjam uang lagi, jadi...
+
+1554
+01:31:07,565 --> 01:31:09,167
+Aku sangat menyesal telah
+mengecewakan kalian semua.
+
+1555
+01:31:09,200 --> 01:31:12,638
+Jangan khawatir, Barnum.
+Kami sekarang sudah terbiasa.
+
+1556
+01:31:13,071 --> 01:31:14,472
+Kau tahu, Barnum...
+
+1557
+01:31:14,705 --> 01:31:16,474
+ketika aku pertama kali bertemu denganmu...
+
+1558
+01:31:16,507 --> 01:31:18,644
+Aku punya warisan, pujian,
+
+1559
+01:31:18,677 --> 01:31:21,613
+diundang ke semua pesta di kota.
+
+1560
+01:31:21,647 --> 01:31:25,150
+Dan sekarang, karena kau,
+semuanya lenyap.
+
+1561
+01:31:26,718 --> 01:31:27,886
+Yang tersisa hanyalah
+
+1562
+01:31:27,919 --> 01:31:32,323
+persahabatan, cinta,
+dan pekerjaan yang aku suka.
+
+1563
+01:31:34,860 --> 01:31:37,796
+Kau membawa sukacita ke dalam hidupku.
+
+1564
+01:31:37,829 --> 01:31:39,931
+- Ke dalam semua kehidupan kami.
+- Dengar, dengar.
+
+1565
+01:31:41,800 --> 01:31:44,302
+Kalau saja pihak bank
+bisa memakai sukacita sebagai jaminan.
+
+1566
+01:31:44,335 --> 01:31:45,871
+Mereka mungkin tidak bisa...
+
+1567
+01:31:46,504 --> 01:31:48,039
+Tapi aku bisa.
+
+1568
+01:31:49,474 --> 01:31:51,342
+Aku memiliki 10% bagian dari pertunjukan.
+
+1569
+01:31:53,011 --> 01:31:54,746
+Tahu aku bekerja pada siapa...
+
+1570
+01:31:54,780 --> 01:31:57,215
+Aku punya inisiatif
+mengambil bagianku setiap minggu.
+
+1571
+01:31:59,017 --> 01:32:01,152
+Phillip, aku tak bisa membiarkanmu
+mempertaruhkannya padaku.
+
+1572
+01:32:01,386 --> 01:32:02,821
+Tentu kau bisa.
+
+1573
+01:32:02,854 --> 01:32:05,290
+Jangan berpaling dari kami sekarang.
+
+1574
+01:32:06,491 --> 01:32:07,926
+Mitra.
+
+1575
+01:32:09,194 --> 01:32:10,461
+Bagi rata hasilnya.
+
+1576
+01:32:22,173 --> 01:32:23,174
+Mitra.
+
+1577
+01:32:23,975 --> 01:32:25,343
+<i>Ya!</i>
+
+1578
+01:32:25,376 --> 01:32:27,145
+Satu-satunya masalah adalah...
+
+1579
+01:32:27,178 --> 01:32:29,214
+Aku tidak tahu bagaimana caranya
+kita bisa membeli sebuah gedung.
+
+1580
+01:32:30,648 --> 01:32:32,117
+Benar.
+
+1581
+01:32:35,721 --> 01:32:37,956
+Gedung.
+Kita tidak butuh gedung.
+
+1582
+01:32:37,989 --> 01:32:40,325
+Bisnis bangunan di Manhattan
+adalah investasi yang buruk.
+
+1583
+01:32:40,358 --> 01:32:44,162
+Itulah, aku bisa mendapatkan tempat
+di dermaga secara gratis!
+
+1584
+01:32:44,195 --> 01:32:46,597
+Yang kita butuhkan hanyalah tenda.
+
+1585
+01:32:48,731 --> 01:32:50,301
+<i>Ayo, ayo!</i>
+
+1586
+01:32:50,769 --> 01:32:53,571
+<font color="#00ff00">♪ Whoa...ooo ♪</font>
+
+1587
+01:32:53,604 --> 01:32:54,940
+<i>♪ Colossal we come ♪</i>
+<font color="#00ff00">♪ Bersama-sama kami datang ♪</font>
+
+1588
+01:32:54,973 --> 01:32:57,108
+<i>♪ These renegades in the ring ♪</i>
+<font color="#00ff00">♪ Para pemberontak ini berada di ring ♪</font>
+
+1589
+01:32:57,142 --> 01:32:59,077
+<font color="#00ff00">♪ Whoa...ooo ♪</font>
+
+1590
+01:32:59,110 --> 01:33:00,946
+<i>♪ Where the lost get found ♪</i>
+<font color="#00ff00">♪ Yang tersesat telah ditemukan ♪</font>
+
+1591
+01:33:00,979 --> 01:33:03,281
+<i>♪ And we crown 'em the circus kings ♪</i>
+<font color="#00ff00">♪ Dan kami memahkotai sebagai raja sirkus ♪</font>
+
+1592
+01:33:03,314 --> 01:33:04,382
+<i>♪ Don't fight it ♪</i>
+<font color="#00ff00">♪ Jangan melawannya ♪</font>
+
+1593
+01:33:04,415 --> 01:33:06,151
+<i>♪ It's comin' for you, runnin' atcha ♪</i>
+<font color="#00ff00">♪ Ini akan datang ke hadapanmu ♪</font>
+
+1594
+01:33:06,184 --> 01:33:09,120
+<i>♪ It's only this moment, don't care what comes after ♪</i>
+<font color="#00ff00">♪ Hanya saat ini, tidak peduli apa yang akan terjadi ♪</font>
+
+1595
+01:33:09,154 --> 01:33:12,190
+<i>♪ It's blindin', outshinin' anything thatcha know ♪</i>
+<font color="#00ff00">♪ Ini membutakan, menyilaukan segala yang kalian tahu ♪</font>
+
+1596
+01:33:12,223 --> 01:33:13,892
+<i>♪ Just surrender 'cause you're comin' ♪</i>
+<font color="#00ff00">♪ Menyerah saja karena kalian telah datang ♪</font>
+
+1597
+01:33:13,925 --> 01:33:16,127
+<i>♪ And you wanna go ♪</i>
+<font color="#00ff00">♪ Dan kalian ingin pergi ♪</font>
+
+1598
+01:33:16,161 --> 01:33:18,930
+<i>♪ Where it's covered in all the colored lights ♪</i>
+<font color="#00ff00">♪ ke tempat yang dipenuhi lampu warna-warni?♪</font>
+
+1599
+01:33:18,964 --> 01:33:21,800
+<i>♪ Where the runways are runnin' the night ♪</i>
+<font color="#00ff00">♪ Di mana jalanan menghidupi malam ♪</font>
+
+1600
+01:33:21,833 --> 01:33:23,434
+<i>♪ Impossible comes true ♪</i>
+<font color="#00ff00">♪ Mustahil menjadi nyata ♪</font>
+
+1601
+01:33:23,468 --> 01:33:24,870
+<i>♪ Intoxicatin' you ♪</i>
+<font color="#00ff00">♪ Memabukkan dirimu ♪</font>
+
+1602
+01:33:24,903 --> 01:33:27,839
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1603
+01:33:27,873 --> 01:33:31,142
+<i>♪ We light it up, we won't come down ♪</i>
+<font color="#00ff00">♪ Kami memulainya dan tak ingin berhenti ♪</font>
+
+1604
+01:33:31,176 --> 01:33:33,945
+<i>♪ And the sun can't stop us now ♪</i>
+<font color="#00ff00">♪ Dan mentari tak bisa menghentikan kami ♪</font>
+
+1605
+01:33:33,979 --> 01:33:35,546
+<i>♪ Watchin' it come true ♪</i>
+<font color="#00ff00">♪ Melihatnya menjadi kenyataan ♪</font>
+
+1606
+01:33:35,580 --> 01:33:37,115
+<i>♪ It's takin' over you ♪</i>
+<font color="#00ff00">♪ Ini membuatmu terlena ♪</font>
+
+1607
+01:33:37,148 --> 01:33:40,318
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1608
+01:33:40,751 --> 01:33:43,721
+<i>♪ It's ev'rything you ever want ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau inginkan ♪</font>
+
+1609
+01:33:43,755 --> 01:33:46,424
+<i>♪ It's ev'rything you ever need ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau butuhkan ♪</font>
+
+1610
+01:33:46,457 --> 01:33:49,494
+<i>♪ And it's here right in front of you ♪</i>
+<font color="#00ff00">♪ Ada di sini tepat di hadapanmu ♪</font>
+
+1611
+01:33:49,527 --> 01:33:52,798
+<i>♪ This is where you wanna be ♪</i>
+<font color="#00ff00">♪ Di sinilah yang kau inginkan ♪</font>
+
+1612
+01:33:52,831 --> 01:33:55,834
+<i>♪ It's ev'rything you ever want ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau inginkan ♪</font>
+
+1613
+01:33:55,867 --> 01:33:58,770
+<i>♪ It's ev'rything you ever need ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau butuhkan ♪</font>
+
+1614
+01:33:58,804 --> 01:34:02,073
+<i>♪ And it's here right in front of you ♪</i>
+<font color="#00ff00">♪ Ada di sini tepat di hadapanmu ♪</font>
+
+1615
+01:34:02,107 --> 01:34:05,176
+<i>♪ This is where you wanna be ♪</i>
+<font color="#00ff00">♪ Di sinilah tempat yang kau inginkan ♪</font>
+
+1616
+01:34:05,210 --> 01:34:07,512
+<i>♪ This is where you wanna be ♪</i>
+<font color="#00ff00">♪ Di sinilah tempat yang kau inginkan ♪</font>
+
+1617
+01:34:07,545 --> 01:34:10,949
+<i>♪ Where it's covered in all the colored lights ♪</i>
+<font color="#00ff00">♪ Tempat yang dipenuhi lampu warna-warni ♪</font>
+
+1618
+01:34:10,982 --> 01:34:13,451
+<i>♪ Where the runaways are runnin' the night ♪</i>
+<font color="#00ff00">♪ Di mana jalanan menghidupi malam ♪</font>
+
+1619
+01:34:14,484 --> 01:34:15,753
+Ini untukmu.
+
+1620
+01:34:22,794 --> 01:34:24,295
+Apa yang akan kau lakukan?
+
+1621
+01:34:24,329 --> 01:34:26,130
+Melihat anak-anak gadisku tumbuh dewasa.
+
+1622
+01:34:27,365 --> 01:34:29,569
+Pertunjukan harus terus berlanjut.
+
+1623
+01:34:30,802 --> 01:34:33,504
+<font color="#00ff00">♪ Dan mentari tak bisa menghentikan kami ♪</font>
+
+1624
+01:34:33,538 --> 01:34:34,873
+<font color="#00ff00">♪ Melihatnya menjadi nyata ♪</font>
+
+1625
+01:34:34,906 --> 01:34:36,908
+<font color="#00ff00">♪ Ini membuatmu terlena ♪</font>
+
+1626
+01:34:37,342 --> 01:34:39,810
+<i>♪ This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Inilah pertunjukan terhebat! ♪</font>
+
+1627
+01:34:39,844 --> 01:34:42,513
+<i>♪ Where it's covered in all the colored lights ♪</i>
+<font color="#00ff00">♪ Tempat yang dipenuhi lampu warna-warni ♪</font>
+
+1628
+01:34:42,547 --> 01:34:45,416
+<i>♪ Where the runaways are runnin' the night ♪</i>
+<font color="#00ff00">♪ Di mana jalanan menghidupi malam ♪</font>
+
+1629
+01:34:45,450 --> 01:34:48,553
+<i>♪ Impossible comes true, it's takin' over you ♪</i>
+<font color="#00ff00">♪ Mustahil menjadi kenyataan, membuatmu terlena ♪</font>
+
+1630
+01:34:48,586 --> 01:34:51,489
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1631
+01:34:51,522 --> 01:34:54,893
+<i>♪ We light it up, we won't come down ♪</i>
+<font color="#00ff00">♪ Kami memulainya dan tak ingin berhenti ♪</font>
+
+1632
+01:34:54,926 --> 01:34:57,528
+<i>♪ And the walls can't stop us now ♪</i>
+<font color="#00ff00">♪ Dan dinding tak bisa menghentikan kami ♪</font>
+
+1633
+01:34:57,562 --> 01:35:00,765
+<i>Watchin' it come true it's takin' over you</i>
+<font color="#00ff00">♪ Melihatnya menjadi kenyataan, membuatmu terlena ♪</font>
+
+1634
+01:35:00,798 --> 01:35:03,033
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1635
+01:35:03,067 --> 01:35:05,271
+<i>♪ 'Cause ev'rything you want is right in front of you ♪</i>
+<font color="#00ff00">♪ Karena semua yang kau inginkan ada di hadapanmu ♪</font>
+
+1636
+01:35:05,303 --> 01:35:08,439
+<i>♪ And you see the impossible is comin' true ♪</i>
+<font color="#00ff00">♪ Dan kau melihat hal yang mustahil menjadi nyata ♪</font>
+
+1637
+01:35:08,473 --> 01:35:13,311
+<i>♪ And the walls can't stop us now ♪</i>
+<font color="#00ff00">♪ Dan dinding tak bisa menghentikan kami sekarang ♪</font>
+
+1638
+01:35:13,344 --> 01:35:15,881
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1639
+01:35:15,914 --> 01:35:18,917
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1640
+01:35:18,950 --> 01:35:22,119
+<font color="#00ff00">♪ Oo..oh! Oo..oh! ♪</font>
+
+1641
+01:35:22,152 --> 01:35:23,288
+Ayah!
+
+1642
+01:35:23,321 --> 01:35:25,323
+<font color="#00ff00">♪ Oo..oh! ♪</font>
+
+1643
+01:35:25,356 --> 01:35:27,668
+Hai, anak-anak!
+
+1644
+01:35:27,692 --> 01:35:30,862
+Hei!
+
+1645
+01:35:31,796 --> 01:35:32,832
+Permisi, beri jalan.
+
+1646
+01:35:34,065 --> 01:35:37,202
+<font color="#00ff00">♪ Oo..oh, Oo..oh ♪</font>
+
+1647
+01:35:37,435 --> 01:35:40,039
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1648
+01:35:40,071 --> 01:35:43,041
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1649
+01:35:43,474 --> 01:35:46,144
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1650
+01:35:46,177 --> 01:35:48,880
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1651
+01:35:48,914 --> 01:35:54,018
+<i>♪ Oh! This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Oh! Inilah pertunjukan terhebat! ♪</font>
+
+1652
+01:35:54,050 --> 01:35:56,324
+<i>♪ This is the greatest ♪</i>
+<font color="#00ff00">♪ Inilah yang terhebat, oh! ♪</font>
+
+1653
+01:35:56,454 --> 01:36:01,298
+<i>♪ This is the greatest show! ♪</i>
+<font color="#00ff00">♪ Inilah pertunjukan terhebat! ♪</font>
+
+1654
+01:36:40,498 --> 01:36:43,234
+<i>♪ It's ev'rything you ever want ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau inginkan ♪</font>
+
+1655
+01:36:44,569 --> 01:36:47,505
+<i>♪ It's ev'rything you ever need ♪</i>
+<font color="#00ff00">♪ Inilah semua yang kau butuhkan ♪</font>
+
+1656
+01:36:48,639 --> 01:36:52,677
+<i>♪ And it's here right in front of you ♪</i>
+<font color="#00ff00">♪ Ada di sini tepat di hadapanmu ♪</font>
+
+1657
+01:36:59,727 --> 01:37:05,727
+<font color="#0080ff">Seni yang paling mulia adalah membuat orang lain bahagia.</font>
+- P.T. Barnum -
+
+1658
+01:37:05,754 --> 01:37:10,198
+{\an3}<font color="#0080ff">i m o t</font>
+<font color="#ff0000">Pengkolan DaaapH</font>
+<font color="#00ff00">subscene.com/u/916990</font>
+

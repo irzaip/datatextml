@@ -1,0 +1,1979 @@
+﻿1
+00:00:00,090 --> 00:00:06,030
+<i>Alih bahasa dipersembahkan oleh Padepokan Anak Negeri @Viki.com</i>
+
+2
+00:00:06,030 --> 00:00:13,440
+<font color="#ffff00"><i>♪ Saat kau semakin cepat, kecepatannya terbang ke pelukanmu ♪</i></font>
+
+3
+00:00:13,440 --> 00:00:21,080
+<font color="#ffff00"><i>♪ Akan kuberikan pemandangan di bawah awan di atas langit ♪</i></font>
+
+4
+00:00:21,080 --> 00:00:23,890
+<font color="#ffff00"><i>♪ Kota ini tak bisa ditembus ♪</i></font>
+
+5
+00:00:23,890 --> 00:00:28,530
+<font color="#ffff00"><i>♪ Di dunia sangat kecil ini, kita merasa tersentuh ♪</i></font>
+
+6
+00:00:28,530 --> 00:00:34,570
+<font color="#ffff00"><i>♪ Mimpi ini adalah milik kita ♪</i></font>
+
+7
+00:00:36,120 --> 00:00:37,880
+<font color="#ffff00"><i>♪ Setiap gerakan adalah tarian dan pertunjukkan ♪</i></font>
+
+8
+00:00:37,880 --> 00:00:39,890
+<font color="#ffff00"><i>♪ Ayunan tangan konduktor yang dihormati ♪</i></font>
+
+9
+00:00:39,890 --> 00:00:42,260
+<font color="#ffff00"><i>♪  Rasa ini sungguh tak bisa dijelaskan ♪</i></font>
+
+10
+00:00:42,260 --> 00:00:44,080
+<font color="#ffff00"><i>♪ Ayo rambo, ayo rambo ♪</i></font>
+
+11
+00:00:44,080 --> 00:00:45,580
+<font color="#ffff00"><i>♪ Kita menjadi liar liar liar  ♪</i></font>
+
+12
+00:00:45,580 --> 00:00:47,320
+<font color="#ffff00"><i>♪ Tinggalkan dunia ragawi, yeah ♪</i></font>
+
+13
+00:00:47,320 --> 00:00:49,120
+<font color="#ffff00"><i>♪ Hingga kekacauan menjadi ketenangan ♪</i></font>
+
+14
+00:00:49,120 --> 00:00:51,070
+<font color="#ffff00"><i>♪ Dan kita berada dalam ratusan tahun cahaya saat kita telah pergi ♪</i></font>
+
+15
+00:00:51,070 --> 00:00:54,810
+<font color="#ffff00"><i>♪ Waktu menulis tentang kita ♪</i></font>
+
+16
+00:00:54,810 --> 00:01:02,370
+<font color="#ffff00"><i>♪ Dengan kreativitas dan dialog, kita membentuk cinta ♪</i></font>
+
+17
+00:01:02,370 --> 00:01:06,280
+<font color="#ffff00"><i>♪ Dan mengambil alih hati ini ♪</i></font>
+
+18
+00:01:06,280 --> 00:01:13,250
+<font color="#ffff00"><i>♪ Mengedepankan musim panas kita, air mata kita saat dalam perjalanan telah mengering ♪</i></font>
+
+19
+00:01:13,250 --> 00:01:20,980
+<font color="#ffff00"><i>♪ Di mulai dengna tanda-tanda dan bayangan ♪</i></font>
+
+20
+00:01:20,980 --> 00:01:27,130
+<font color="#ffff00"><i>♪ Saat ini, mulailah terbang ♪</i></font>
+
+21
+00:01:27,130 --> 00:01:30,050
+<i>[Berdampingan Denganmu]</i>
+
+22
+00:01:30,050 --> 00:01:32,530
+<i>[Episode 8]</i>
+
+23
+00:01:33,270 --> 00:01:35,520
+<i>Utang apa yang kau punya di masa lalu</i>
+
+24
+00:01:35,520 --> 00:01:38,180
+<i>sampai membuatmu melihat pada bunga kerah ini bertahun-tahun?</i>
+
+25
+00:01:38,960 --> 00:01:41,000
+<i>Apakah membayar kesalahan seseorang itu berguna?</i>
+
+26
+00:01:41,000 --> 00:01:43,750
+<i>Apa? Kejahatanmu telah terungkap?</i>
+
+27
+00:01:43,750 --> 00:01:48,740
+<i>Orang hanya bisa berjalan melalui semua kesulitan dalam hidupnya sendiri. Yang lain tak bisa membantumu.</i>
+
+28
+00:01:48,740 --> 00:01:53,910
+<i>Kau harus menggunakan usaha terbaikmu, supaya kau tak punya penyesalan.</i>
+
+29
+00:01:53,910 --> 00:01:55,650
+<i>Mengapa kau menyuruhku datang?</i>
+
+30
+00:01:56,200 --> 00:01:57,910
+<i>Bukankah kau mau aku mencarimu?</i>
+
+31
+00:01:57,910 --> 00:02:02,270
+<i>Dengan sengaja menempatkan ponsel ke tas seseorang itu sangat kuno.</i>
+
+32
+00:02:13,300 --> 00:02:17,480
+<i>Aku tahu. Estetikamu dari dulu selalu buruk.</i>
+
+33
+00:02:17,480 --> 00:02:22,740
+<i>Kalau begitu, teruskan mengagumi mawar putihmu. Berikan saja mawar merahnya padaku.</i>
+
+34
+00:02:22,740 --> 00:02:27,500
+<i>Ketika menghadapi musuh, menurutmu apa yang seharusnya aku lakukan?</i>
+
+35
+00:02:27,500 --> 00:02:31,680
+<i>Karena kau menanyaiku, itu artinya kau sudah mulai dengan rencanamu.</i>
+
+36
+00:02:31,680 --> 00:02:34,090
+<i>Biar wanitanya jatuh cinta padaku.</i>
+
+37
+00:02:34,090 --> 00:02:37,020
+<i>Apakah kau mengenal baik Shi Yue?</i>
+
+38
+00:02:37,020 --> 00:02:39,180
+<i>Dia mengetahui minat Bos dengan baik.</i>
+
+39
+00:02:39,180 --> 00:02:41,280
+<i>Dan dia mampu mengeluarkan uang untuknya.</i>
+
+40
+00:02:41,280 --> 00:02:42,860
+<i>Siapa itu jadinya?</i>
+
+41
+00:02:42,860 --> 00:02:47,060
+<i>Semua perkataan yang aku katakan tadi adalah berasal dari naskah yang aku hafalkan.</i>
+
+42
+00:02:47,060 --> 00:02:49,690
+<i>Perkataan itu dikatakan padaku oleh analisku.</i>
+
+43
+00:02:49,690 --> 00:02:54,140
+<i>Dia bilang </i>drone<i> Nn. Nan Qiao itu pantas untuk diinvestasi.</i>
+
+44
+00:02:54,140 --> 00:02:59,140
+<i>Pernahkah kau berpikir untuk menguji terbang </i>drone<i>mu di bawah langit penuh bintang?</i>
+
+45
+00:02:59,140 --> 00:03:00,930
+<i>Sudah tujuh tahun.</i>
+
+46
+00:03:02,030 --> 00:03:04,400
+<i>Apakah kau tahu berapa kali aku mencoba untuk menemukanmu?</i>
+
+47
+00:03:04,400 --> 00:03:09,620
+♪ Persatuan adalah kekuatan ♪
+
+48
+00:03:10,350 --> 00:03:15,670
+♪ Persatuan adalah kekuatan ♪
+
+49
+00:03:16,210 --> 00:03:22,630
+♪ Kekuatan ini adalah besi. Kekuatan ini adalah baja ♪
+
+50
+00:03:22,630 --> 00:03:27,550
+♪ Lebih keras daripada besi. Lebih kuat daripada baja ♪
+
+51
+00:03:27,550 --> 00:03:31,820
+Tampang saat dia mabuk benar-benar mirip dengan ayahnya.
+
+52
+00:03:31,820 --> 00:03:33,790
+Paman, apakah kau yang menelepon 58 untuk perbaikan?
+
+53
+00:03:33,790 --> 00:03:37,830
+Itu aku. Anak muda, tolong bantu kami memindahkannya masuk.
+
+54
+00:03:37,830 --> 00:03:39,090
+Baik. Baik.
+
+55
+00:03:39,090 --> 00:03:42,240
+- Ayo.
+- Ayo...
+
+56
+00:03:42,240 --> 00:03:45,880
+- Cukup...
+- ♪ Menghadapi matahari. Menghadapi bulan ♪
+
+57
+00:03:45,880 --> 00:03:49,350
+♪ Menghadapi China yang baru ♪
+
+58
+00:03:49,350 --> 00:03:53,640
+♪ Memancarkan cahaya tak terbatas ♪
+
+59
+00:03:55,880 --> 00:03:58,630
+♪ ...lebih keras dari besi  ♪
+
+60
+00:03:58,630 --> 00:04:00,610
+Ayah, pergi ke mana?
+
+61
+00:04:00,610 --> 00:04:02,730
+- Kamar Nan Si.
+- Baik, aku akan membukanya.
+
+62
+00:04:02,730 --> 00:04:04,460
+Lihat bagaimana anak ini mengganggu kita.
+
+63
+00:04:04,460 --> 00:04:05,960
+Ayo...
+
+64
+00:04:05,960 --> 00:04:07,790
+- Baik...
+- Hati-hati...
+
+65
+00:04:07,790 --> 00:04:09,420
+<i>Hati-hati. Hati-hati.</i>
+
+66
+00:04:09,420 --> 00:04:10,720
+- Cepat. Ayo.
+- Aku merasa mual.
+
+67
+00:04:10,720 --> 00:04:14,200
+- Aku tak bisa lagi...
+- Nan Qin, Nan Qin, ayo...
+
+68
+00:04:14,200 --> 00:04:19,190
+- Hubungi ayahnya. Bilang kalau dia di rumah kita dan semuanya baik-baik saja. Cepat pergi.
+- Baik.
+
+69
+00:04:22,250 --> 00:04:24,960
+- Bagaimana?
+- Paman,
+
+70
+00:04:24,960 --> 00:04:26,740
+colokan listrik punyamu yang mana yang tak bekerja?
+
+71
+00:04:26,740 --> 00:04:28,820
+Di ruang tamu. Belok saja dan kau akan menemukannya.
+
+72
+00:04:28,820 --> 00:04:30,650
+Baik.
+
+73
+00:04:30,650 --> 00:04:35,520
+Aku benar-benar menyesalinya. Aku tak mengatakan banyak perkataan tadi padamu.
+
+74
+00:04:36,480 --> 00:04:39,260
+Kau kelihatan seperti pecundang sama seperti ayahmu.
+
+75
+00:04:41,050 --> 00:04:43,750
+Kau bahkan tak bisa minum dan kau juga tak bisa berkencan.
+
+76
+00:04:43,750 --> 00:04:45,560
+Aku mau muntah.
+
+77
+00:04:45,560 --> 00:04:50,400
+Apa? Tunggu... Pelan-pelan... Aku akan mencari baskom.
+
+78
+00:05:11,400 --> 00:05:16,720
+<i>Cepatlah sembuh dan aku akan mengizinkanmu membaca disertasinya.</i>
+
+79
+00:05:19,190 --> 00:05:21,000
+<i>Disertasi?</i>
+
+80
+00:05:23,380 --> 00:05:25,350
+<i>Mana?</i>
+
+81
+00:05:30,550 --> 00:05:34,150
+<i>Berikan padaku! Berikan padaku!</i>
+
+82
+00:05:41,020 --> 00:05:43,000
+<i>[Disertasi Akademi Pusat Latihan Pedang Langit Biru]</i>
+
+83
+00:05:43,000 --> 00:05:45,010
+<i>[Laporan Otorisasi Penggunaan dan Pernyataan Tertulis Disertasi Akademi Pusat Latihan Pedang Langit Biru]</i>
+
+84
+00:05:50,430 --> 00:05:53,690
+<i>Xiao Qiao.</i>
+
+85
+00:06:23,880 --> 00:06:26,170
+Xiao Qiao.
+
+86
+00:06:32,000 --> 00:06:33,700
+Xiao Qiao.
+
+87
+00:06:44,590 --> 00:06:50,400
+Kau sudah bangun. Kau minum begitu banyak sampai muntah dan menjadi demam. Minumlah air lebih dulu.
+
+88
+00:06:54,470 --> 00:06:58,870
+Calon paman ipar, mungkinkah otakmu menjadi rusak karena memiliki terlalu banyak angan-angan?
+
+89
+00:06:59,580 --> 00:07:03,500
+♪ Persatuan adalah kekuatan ♪
+
+90
+00:07:03,500 --> 00:07:05,750
+Bersihkan dirimu. Bangun dan mari makan.
+
+91
+00:07:05,750 --> 00:07:07,120
+Baik.
+
+92
+00:07:08,800 --> 00:07:12,540
+♪ Persatuan adalah kekuatan ♪
+
+93
+00:07:31,260 --> 00:07:35,050
+<i>[Future Up]</i>
+
+94
+00:08:11,220 --> 00:08:14,450
+Ini adalah laporan penjualan produk baru yang kita luncurkan. Lihatlah sebentar.
+
+95
+00:08:15,460 --> 00:08:17,680
+Apakah penjualannya tak bagus?
+
+96
+00:08:17,680 --> 00:08:20,730
+Produksi kedua P1 <i>(Phoenix 1)</i> yang kita lepaskan ke pasar semuanya tak terjual.
+
+97
+00:08:20,730 --> 00:08:23,760
+Juga, produk yang dikembalikan untuk produksi pertama lebih besar dari 30%.
+
+98
+00:08:23,760 --> 00:08:25,880
+<i>[Laporan Penjualan Pasar]</i>
+
+99
+00:08:26,770 --> 00:08:29,480
+- Aku punya kabar buruk lagi.
+- Apa?
+
+100
+00:08:29,480 --> 00:08:33,460
+Uang sewa gudang tempat kita menyimpan P1 sudah waktunya untuk dibayar. Tapi kita tak mampu membayarnya karena situasi dana kita sekarang.
+
+101
+00:08:33,460 --> 00:08:36,640
+Karena itu semua P1 ini untuk sementara ditempatkan di kantor ini.
+
+102
+00:08:45,270 --> 00:08:49,550
+Pada waktu ketika kita memerlukan seorang penyelamat, mengapa Kak Chang menghilang?
+
+103
+00:09:02,500 --> 00:09:04,600
+Sini...
+
+104
+00:09:04,600 --> 00:09:08,240
+Ibu, dengan keahlian memasakmu, kau akan menjadi kepala koki di luar negeri.
+
+105
+00:09:08,240 --> 00:09:11,320
+Secara lokal, kau bisa menjadi kepala koki di perjamuan propinsi.
+
+106
+00:09:11,320 --> 00:09:15,170
+Keahlian bibi jauh di bawahmu.
+
+107
+00:09:15,170 --> 00:09:19,220
+Tentu saja. Yang aku warisi adalah gen baik nenekmu.
+
+108
+00:09:19,220 --> 00:09:23,950
+Tak seperti bibimu, yang hanya mewarisi sifat buruk kakekmu.
+
+109
+00:09:23,950 --> 00:09:28,010
+Ibu, aku hanya sekilas memujimu dan kau mempercayainya?
+
+110
+00:09:28,010 --> 00:09:30,030
+Anak nakal.
+
+111
+00:09:32,650 --> 00:09:37,620
+Menurutmu, apakah Chang Jianxiong benar-benar menyukai Bibi?
+
+112
+00:09:38,960 --> 00:09:42,590
+Apakah Chang Jianxiong sebuah nama yang kau bisa dengan santai menyebutkan?
+
+113
+00:09:44,690 --> 00:09:48,590
+Sayang sekali, aku pikir untuk pamanku, Lao Chang tak akan cocok.
+
+114
+00:09:48,590 --> 00:09:52,190
+Selama bertahun-tahun, dia masih tak mampu dipromosikan menjadi pacar resmi. Dia kurang keberanian untuk berbicara.
+
+115
+00:09:56,970 --> 00:10:01,220
+Cukup. Cepat antar makanannya keluar. Berhenti menimbulkan masalah bagiku di sini.
+
+116
+00:10:01,220 --> 00:10:02,630
+Aku akan patuh.
+
+117
+00:10:25,260 --> 00:10:27,580
+<i>Skakmat.</i>
+
+118
+00:10:27,580 --> 00:10:29,920
+<i>Hei, Chang Jianxiong,</i>
+
+119
+00:10:29,920 --> 00:10:32,350
+<i>jangan pikir karena aku menganggapmu penting,</i>
+
+120
+00:10:32,350 --> 00:10:34,720
+<i>kau bisa beromong kosong seperti itu.</i>
+
+121
+00:10:38,890 --> 00:10:42,750
+Kau juga tak bisa menjadi susah diatur hanya karena kau atasanku.
+
+122
+00:10:45,750 --> 00:10:47,820
+Hei, aku menyuruhmu menyajikan makanannya. Apa yang kau lakukan di sini?
+
+123
+00:10:47,820 --> 00:10:50,120
+Mereka sedang berkelahi...
+
+124
+00:10:51,430 --> 00:10:55,500
+<i>Lompat kudanya ke seberang dan dorong kereta kudanya melintang, kau pikir aku takut padamu. Aku akan memakan kudamu. </i>
+
+125
+00:10:56,880 --> 00:10:58,830
+Tak apa. Pergi saja dan sajikan di sana.
+
+126
+00:10:58,830 --> 00:11:00,220
+Baik.
+
+127
+00:11:04,630 --> 00:11:09,730
+Hei! Apakah kau berencana untuk menjungkirbalikkan langit <i>(memberontak)</i>?!
+
+128
+00:11:11,190 --> 00:11:15,660
+Jika langit melakukan sesuatu yang salah, maka harus dijungkirbalikkan.
+
+129
+00:11:19,300 --> 00:11:22,700
+Kau bahkan berani memakan jenderalku?! Kau...
+
+130
+00:11:24,340 --> 00:11:26,400
+Cukup. Ayo makan. Berhenti bermain catur.
+
+131
+00:11:26,400 --> 00:11:29,000
+Pergi... Ayo makan...
+
+132
+00:11:29,000 --> 00:11:34,390
+Kak Nan Qin, aku masih harus melakukan sesuatu. Aku tak akan mengganggu kalian lagi.
+
+133
+00:11:34,390 --> 00:11:39,660
+Paman, aku tahu kau membiarkanku menang hari ini. Jika aku punya waktu bebas, aku akan bermain catur denganmu lagi.
+
+134
+00:11:39,660 --> 00:11:44,020
+- Kalau begitu... aku akan kembali bekerja sekarang.
+- Baik.
+- Aku akan berkunjung lagi saat aku punya waktu.
+- Eh...
+
+135
+00:11:44,020 --> 00:11:46,490
+Jika kau punya urusan penting, lakukan saja setelah makan.
+
+136
+00:11:46,490 --> 00:11:50,000
+Apakah demammu sudah turun? Tidakkah kau lapar?
+
+137
+00:12:08,830 --> 00:12:12,620
+Targetnya sudah muncul. Sinyalnya hilang.
+
+138
+00:12:12,620 --> 00:12:15,530
+Targetnya pastinya sudah masuk lift. Dia akan keluar dari lobi dalam 3 menit.
+
+139
+00:12:15,530 --> 00:12:18,930
+Kau masih punya satu menit dan 20 detik untuk masuk ke dalam gedungnya.
+
+140
+00:12:18,930 --> 00:12:20,130
+Tidak perlu.
+
+141
+00:12:20,130 --> 00:12:24,230
+Tidak perlu? Kalau kau tidak mengikuti gerakannya, bagaimana bisa kau berada satu langkah di depannya
+
+142
+00:12:24,230 --> 00:12:28,490
+dan membuat pertemuan-pertemuan yang kebetulan? Bagaimana nanti kau bisa menyelesaikan rencana besarmu untuk mendapatkan hatinya sebagai balas dendam?
+
+143
+00:12:28,490 --> 00:12:31,510
+Hanya mengandalkan teknologi untuk mendekatinya tidak menunjukkan ketulusan sama sekali.
+
+144
+00:12:31,510 --> 00:12:36,190
+Ketulusan? Apakah kau ingin menyerah?
+
+145
+00:12:36,190 --> 00:12:39,660
+Adegan bagus pun belum terputar, jadi kenapa aku harus menyerah?
+
+146
+00:12:39,660 --> 00:12:43,460
+Kalau aku... tidak ingin melaksanakan pertunjukkan ini denganmu lagi.
+
+147
+00:12:43,460 --> 00:12:45,050
+Kenapa?
+
+148
+00:12:48,640 --> 00:12:53,290
+Aku takut satu hari, kau bahkan tidak akan sadar apakah kau hanya berpura-pura atau sungguhan.
+
+149
+00:13:02,900 --> 00:13:05,740
+Dia benar-benar berani menghadangku?
+
+150
+00:13:05,740 --> 00:13:07,830
+Apa sih yang dia tidak berani lakukan?
+
+151
+00:13:10,620 --> 00:13:15,170
+Apa yang dia inginkan adalah melihat kau yang sekarang. Apa yang tidak kau inginkan adalah melihat dia yang dulu.
+
+152
+00:13:15,170 --> 00:13:16,860
+Kebetulan sekali.
+
+153
+00:13:19,460 --> 00:13:22,800
+Sudah bertahun-tahun, kenapa kau tidak mencariku?
+
+154
+00:13:22,800 --> 00:13:24,760
+Kenapa aku harus mencarimu?
+
+155
+00:13:25,480 --> 00:13:28,290
+- Shi Junqing–
+- Eh...
+
+156
+00:13:28,290 --> 00:13:30,840
+Kau sudah melupakan namaku lagi, ya?
+
+157
+00:13:32,300 --> 00:13:36,220
+Oke. Biarkan aku merubah pertanyaanku.
+
+158
+00:13:36,220 --> 00:13:40,610
+Selama bertahun-tahun, kenapa kau tidak datang mencariku dan malahan mencari Xiao Qiao?
+
+159
+00:13:40,610 --> 00:13:42,790
+Jawaban apa yang ingin kau dengar?
+
+160
+00:13:43,460 --> 00:13:46,910
+Sebagai contoh, aku mengaja mempersiapkannya atau aku tulus membantunya.
+
+161
+00:13:46,910 --> 00:13:48,080
+Aku ingin mendengarkan yang sesungguhnya.
+
+162
+00:13:48,080 --> 00:13:49,990
+Sesungguhnya?
+
+163
+00:13:51,730 --> 00:13:55,590
+Nan Qiao dan aku ditakdirkan bersama.
+
+164
+00:13:55,590 --> 00:13:57,660
+Tidak ada hubungannya dengan orang lain.
+
+165
+00:13:58,490 --> 00:14:00,890
+Bisakah kau berhenti menghindarinya?
+
+166
+00:14:01,420 --> 00:14:02,990
+Bagaimana denganmu?
+
+167
+00:14:04,150 --> 00:14:09,330
+Apa yang kau hindarkan? Kau tidak terlihat seperti seseorang yang sedang mempersembahkan permintaan maaf yang tulus.
+
+168
+00:14:11,360 --> 00:14:14,370
+- Kalau saat itu, aku tahu–
+- Eh!
+
+169
+00:14:14,370 --> 00:14:17,070
+Di dunia ini, tidak ada "kalau".
+
+170
+00:14:17,070 --> 00:14:21,840
+Jika ada "kalau", tidak akan ada orang yang menyesal di dunia ini. Apakah aku benar?
+
+171
+00:14:23,680 --> 00:14:28,530
+Oke. Kalau begitu kau tanyakan semua yang terjadi dan aku akan menjawabnya.
+
+172
+00:14:28,530 --> 00:14:31,460
+Aku... tidak ada pertanyaan apapun untukmu.
+
+173
+00:14:31,460 --> 00:14:33,970
+Kalau begitu apa hubungannya dengan Nan Qiao?!
+
+174
+00:14:36,290 --> 00:14:39,220
+Bukan untukmu menentukan apakah ini ada hubungannya dengannya atau tidak.
+
+175
+00:14:40,260 --> 00:14:44,360
+Baguslah, kau muncul. Kalau tidak, dia akan melupakan namaku lagi.
+
+176
+00:14:45,800 --> 00:14:47,340
+Xiao Qiao.
+
+177
+00:14:48,770 --> 00:14:53,190
+Baguslah, ada kau. Kalau tidak, kami berdua tidak akan menjadi teman baik secepat ini.
+
+178
+00:14:53,950 --> 00:14:57,910
+Apakah kalian berdua saling mengenal? Ayo pergi.
+
+179
+00:15:13,740 --> 00:15:19,160
+Nona Nan tidak berencana untuk mengusirku keluar hari ini setelah menggunakanku kemarin, kan?
+
+180
+00:15:19,160 --> 00:15:24,300
+Setelah kau bisa membawaku uji terbang di langit penuh bintang, kau bisa diskusikan persyaratanmu denganku.
+
+181
+00:15:24,300 --> 00:15:29,520
+Pak Chang, tolong bawa kami ke Klub Penerbangan Kalangan Jenius.
+
+182
+00:15:31,500 --> 00:15:36,800
+Sebelum memikirkan penerbangan malam, bukankah kau harus memikirkan dulu darimana aku mendapatkan <i>drone</i> antikku?
+
+183
+00:15:36,800 --> 00:15:38,830
+Apakah kau ingin melihatnya?
+
+184
+00:16:02,640 --> 00:16:07,040
+Lingkaran Pesawat Model, klub penerbangan yang paling terkenal.
+
+185
+00:16:07,040 --> 00:16:09,960
+Di dalamnya, ada "rumah teknologi kutu buku jenius"
+
+186
+00:16:09,960 --> 00:16:14,890
+dan konsultan bisnis yang sangat berpengalaman. Yang terbaik tentangnya adalah pemimpin klub.
+
+187
+00:16:15,660 --> 00:16:19,300
+Dia adalah profesor departemen mekanik RWTH-Aachen yang paling terkenal. <i>(sebuah universitas teknologi di Aachen, Jerman)</i>
+
+188
+00:16:19,300 --> 00:16:21,920
+Dia seorang jenius penerbangan.
+
+189
+00:16:21,920 --> 00:16:25,920
+Eh, dia juga seorang egomaniak yang terkenal.
+
+190
+00:16:25,920 --> 00:16:27,990
+Kau juga kenal pemimpin klubnya?
+
+191
+00:16:27,990 --> 00:16:30,060
+Ya.
+
+192
+00:16:30,060 --> 00:16:34,370
+Sepertinya Nona Nan adalah tamu klub yang sering datang.
+
+193
+00:16:34,370 --> 00:16:36,890
+Apa hubunganmu dengan pemimpin klub?
+
+194
+00:16:36,890 --> 00:16:41,040
+Kau bahkan bisa melihat <i>drone</i> yang aku bahkan tidak pernah punya kesempatan untuk lihat.
+
+195
+00:16:44,360 --> 00:16:49,550
+Teman lama. Murid privat.
+
+196
+00:16:49,550 --> 00:16:53,210
+Menurut tingkatan, aku seharusnya adalah kakak seniormu.
+
+197
+00:16:53,210 --> 00:16:57,670
+Karena aku adalah muridnya yang pertama,
+
+198
+00:16:57,670 --> 00:17:00,360
+bahkan pemimpin klub  sendiri yang memberiku penghargaan.
+
+199
+00:17:02,690 --> 00:17:07,780
+Yang pertama? Kalau begitu itu seharusnya 7 tahun yang lalu, kan?
+
+200
+00:17:11,590 --> 00:17:15,950
+Tidak disangka di umurmu yang muda, kau begitu hebat sehingga memenangkan penghargaan.
+
+201
+00:17:15,950 --> 00:17:19,860
+Oh ya. Modelmu yang menang adalah kreasimu sendiri, kan?
+
+202
+00:17:19,860 --> 00:17:21,500
+- Tidak.
+- Ya.
+
+203
+00:17:22,880 --> 00:17:25,330
+Itu karyaku dan Chang Jianxiong.
+
+204
+00:17:25,330 --> 00:17:28,340
+Sesungguhnya, model buatannya yang memberiku inspirasi.
+
+205
+00:17:28,340 --> 00:17:33,980
+Aku hanyalah yang memprosesnya. Itulah mengapa, tempat pertama ini juga milik Chang Jianxiong.
+
+206
+00:17:36,260 --> 00:17:41,100
+Model buatan Chang Jianxiong?
+
+207
+00:17:41,690 --> 00:17:45,540
+Tak pernah terpikir orang bodoh bisa mendapat penghargaan.
+
+208
+00:17:46,060 --> 00:17:48,150
+Bisakah kau bicara dengan bahasa manusia?
+
+209
+00:17:48,930 --> 00:17:54,260
+Yang aku katakan adalah bahasa manusia. Yang aku lakukan adalah urusan manusia.
+
+210
+00:17:54,260 --> 00:17:56,330
+Kalau kau tak ada kegiatan lain, berhentilah membandingkan dirimu dengan Chang Jianxiong.
+
+211
+00:17:56,330 --> 00:18:00,610
+Hal yang bisa dia lakukan adalah sesuatu yang tak bisa dilakukan oleh orang sepertimu.
+
+212
+00:18:00,610 --> 00:18:03,430
+- Contohnya?
+- Menjadi kapten pesawat.
+
+213
+00:18:04,860 --> 00:18:08,620
+Benar. Itu benar.
+
+214
+00:18:08,620 --> 00:18:13,800
+Prajurit serabutan seperti aku, paling banter, hanya bisa terbang dalam simulasi di klub penerbangan.
+
+215
+00:18:14,430 --> 00:18:17,840
+Tuan Chang memang beda. Dia menerbangkan pesawat sungguhan.
+
+216
+00:18:19,680 --> 00:18:26,560
+Ah benar, Tuan Chang. Bisakah kau beri tahu beberapa cerita ketika kau masih menerbangkan pesawat?
+
+217
+00:18:30,240 --> 00:18:32,220
+Duduk saja yang benar.
+
+218
+00:18:32,220 --> 00:18:34,660
+Minta dia untuk menyetir lebih baik, oke?
+
+219
+00:18:35,330 --> 00:18:37,900
+Mengapa kau takut untuk bercerita?
+
+220
+00:18:51,480 --> 00:18:56,650
+Nan Qiao, aku masih ada urusan, aku tak bisa menemanimu lagi. Nanti, aku akan minta Wen Di untuk menjemputmu.
+
+221
+00:18:56,650 --> 00:18:58,540
+Mengapa begitu tiba-tiba?
+
+222
+00:19:00,140 --> 00:19:04,300
+Tak apa. Aku akan melindungi dan mengantarnya pulang.
+
+223
+00:19:28,710 --> 00:19:30,790
+Mengapa kau tidak bertanya padaku?
+
+224
+00:19:30,790 --> 00:19:33,900
+Adakah kebenaran yang keluar dari mulutmu?
+
+225
+00:19:33,900 --> 00:19:38,700
+Apakah kau dan Chang Jianxiong saling kenal? Mengapa kalian bertingkah aneh?
+
+226
+00:19:41,860 --> 00:19:47,130
+Tapi jangan coba menjelekkan dia di depanku. Kami teman baik.
+
+227
+00:19:48,680 --> 00:19:51,040
+Kau tidak percaya padaku.
+
+228
+00:19:51,040 --> 00:19:54,370
+Aku tidak dekat denganmu. Mengapa aku harus percaya padamu?
+
+229
+00:19:54,370 --> 00:19:56,210
+Kau mau main sebentar?
+
+230
+00:19:57,760 --> 00:20:00,630
+Memperlakukan pesawat bagaikan mainan, sungguh lucu.
+
+231
+00:20:15,040 --> 00:20:18,230
+Sistem pengajaran metode sentuh yang terintegrasi dalam tablet.
+
+232
+00:20:18,230 --> 00:20:22,570
+Tutup penuh, 1x1, tempat duduk model kokpit.
+
+233
+00:20:22,570 --> 00:20:27,170
+Dilengkapi dengan data navigasi Garmin. 200 macam kombinasi kondisi operasi cuaca, malfungsi,
+
+234
+00:20:27,170 --> 00:20:32,270
+dan pelatihan penerbangan khusus. Kau masih berpikir ini hanyalah permainan?
+
+235
+00:20:32,270 --> 00:20:35,630
+Ini juga memiliki proyeksi tiga-arah, layar visual 180 derajat,
+
+236
+00:20:35,630 --> 00:20:40,780
+dan dilengkapi dengan enam tingkat platform kebebasan pergerakan.
+
+237
+00:20:40,780 --> 00:20:43,190
+Kau berasal dari mana?
+
+238
+00:20:43,190 --> 00:20:45,700
+Kau masih belum tahu itu?
+
+239
+00:21:13,560 --> 00:21:16,060
+Apakah kita mengendarai pesawat roket?
+
+240
+00:21:16,670 --> 00:21:18,310
+Takut?
+
+241
+00:21:19,330 --> 00:21:24,570
+Aku belum pernah naik pesawat roket. Tapi kalau kita mau main, mari mainkan sesuatu yang menarik.
+
+242
+00:21:27,970 --> 00:21:31,130
+Kau belum pernah memandang langit dari sudut ini, kan?
+
+243
+00:21:32,730 --> 00:21:37,640
+Aku belum pernah melihat langit dari sudut ini dengan seorang wanita.
+
+244
+00:21:39,300 --> 00:21:41,790
+Kau sudah melihatnya dengan seorang pria?
+
+245
+00:21:44,760 --> 00:21:47,260
+Mengapa kau harus membuat <i>drone</i>?
+
+246
+00:21:49,180 --> 00:21:51,560
+Untuk mengingat seseorang.
+
+247
+00:21:52,210 --> 00:21:55,590
+Sejak aku kecil, dia yang mengajakku untuk memandang langit.
+
+248
+00:21:57,630 --> 00:22:02,510
+Bagaimana dengan kau? Mengapa kau mau berinvestasi di Future Up?
+
+249
+00:22:03,510 --> 00:22:07,520
+Oh, itu. Mungkin karena aku terlalu banyak menonton film romantis.
+
+250
+00:22:07,520 --> 00:22:12,560
+Hanya ingin tahu rasanya berkencan dengan wanita kutu buku di bidang teknologi mutakhir.
+
+251
+00:22:24,730 --> 00:22:27,350
+Hanya sekali lihat dan kau memang muridnya.
+
+252
+00:22:33,360 --> 00:22:38,170
+Apakah alasan kau terus menyebut-nyebut Chang Jianxiong, baik secara langsung maupun tidak, adalah karena dia membantu kami membayarmu
+
+253
+00:22:38,170 --> 00:22:41,270
+dan menghalangimu berinvestasi di Future Up?
+
+254
+00:22:41,270 --> 00:22:44,410
+Bisakah kau sedikit santai?
+
+255
+00:22:44,410 --> 00:22:47,570
+Mengapa kau duduk dengan tegang?
+
+256
+00:22:47,570 --> 00:22:52,280
+Tidak ada orang di belakangmu yang mengawasi sambil memegang penggaris.
+
+257
+00:22:52,280 --> 00:22:54,870
+Dalam menerbangkan pesawat, sudut postur tubuh seseorang harus membentuk--
+
+258
+00:22:54,870 --> 00:23:00,600
+Memang sudutnya perlu dipertahankan. Tapi lihat dirimu. Kau begitu kaku. Kau bahkan tak bisa bergerak dengan baik.
+
+259
+00:23:00,600 --> 00:23:03,970
+Apakah kau menerbangkan pesawat atau pesawat yang menerbangkanmu?
+
+260
+00:23:04,670 --> 00:23:08,310
+- Dalam menerbangkan pesawat, seseorang harus--
+- Ada tiga keharusan.
+
+261
+00:23:08,310 --> 00:23:11,610
+Lima peraturan. Delapan konfirmasi.
+
+262
+00:23:11,610 --> 00:23:13,560
+Bagaimana kau bisa tahu?
+
+263
+00:23:13,560 --> 00:23:17,090
+Aturan macam apa yang masih ada di dunia yang penuh murid baik?
+
+264
+00:23:18,830 --> 00:23:22,190
+Di dunia anak nakal, hanya ada kekacauan.
+
+265
+00:23:26,590 --> 00:23:28,290
+Kau sedang apa?
+
+266
+00:23:29,740 --> 00:23:31,640
+Menjadi anak nakal.
+
+267
+00:23:31,640 --> 00:23:34,000
+<i>Alih bahasa dipersembahkan oleh Padepokan Anak Negeri @viki.com</i>
+
+268
+00:24:06,030 --> 00:24:10,670
+<i> No.1, 1001 telah selesai memeriksa. Kami meminta izin untuk menyalakan mesin. </i>
+
+269
+00:24:10,670 --> 00:24:13,030
+<i>Siap. Kau bisa menyalakan mesinnya.</i>
+
+270
+00:24:20,300 --> 00:24:23,480
+<i> No. 1, 1001 meminta izin untuk terbang. </i>
+
+271
+00:24:23,480 --> 00:24:25,230
+<i>Kau bisa terbang sekarang.</i>
+
+272
+00:24:36,200 --> 00:24:39,000
+<i> Menaruh daya dorong sepenuhnya. Apakah kau mengendarai sebuah roket? </i>
+
+273
+00:24:39,000 --> 00:24:40,560
+<i>Kau pernah mengendarai roket?</i>
+
+274
+00:24:40,560 --> 00:24:42,690
+<i>Kalau begitu aku akan mencobanya hari ini.</i>
+
+275
+00:25:36,890 --> 00:25:38,570
+<i>Aku yang akan memegang kendalinya.</i>
+
+276
+00:25:54,880 --> 00:25:58,610
+<i> No. 1, 1001 telah mendarat dengan aman. Meminta izin untuk mematikan mesin. </i>
+
+277
+00:25:58,610 --> 00:26:00,460
+<i>Kau bisa mematikan mesinnya sekarang.</i>
+
+278
+00:26:17,850 --> 00:26:22,300
+Bersiap memasuki taraf terakhir. Ketinggian pesawatnya stabil.
+
+279
+00:26:22,300 --> 00:26:26,140
+Penurunan kecepatannya stabil. Bersiap untuk turun.
+
+280
+00:26:37,120 --> 00:26:40,980
+Sudut seluncuran 10 derajat. Sempurna.
+
+281
+00:26:42,220 --> 00:26:43,800
+Sempurna.
+
+282
+00:26:45,720 --> 00:26:48,180
+<i>[Future Up]</i>
+
+283
+00:26:49,250 --> 00:26:52,160
+Pertama, aku akan mengkritik diri sendiri atas nama departemen penjualan.
+
+284
+00:26:52,160 --> 00:26:55,140
+Penjualan yang kalian semua harapkan tak terjadi. Tapi kami sudah menghubungi departemen pemasaran
+
+285
+00:26:55,140 --> 00:26:57,650
+untuk mendorong proyek promosi makanan gratis liburan musim panas siswa.
+
+286
+00:26:57,650 --> 00:27:00,280
+Aku percaya, penjualan P1 akan secepatnya laris lagi.
+
+287
+00:27:00,280 --> 00:27:04,110
+Liburan musim panas masih berapa lama dari sekarang?
+
+288
+00:27:04,110 --> 00:27:06,910
+Apakah kau tahu berapa banyak yang kita punya di stok sekarang?
+
+289
+00:27:06,910 --> 00:27:09,020
+- Ini--
+- Kalau begitu mari kita
+
+290
+00:27:09,020 --> 00:27:13,290
+tinggal di sini saja dan menunggu berita, duduk dan menunggu kematian, mengubah kantor menjadi gudang.
+
+291
+00:27:13,290 --> 00:27:18,040
+Haruskah kita menaikkan periklanan di tempat transportasi publik seperti bus dan kereta api?
+
+292
+00:27:18,040 --> 00:27:22,350
+Tak ada produk yang tak bisa dijual. Hanya pilihan jalur penjualan yang salah.
+
+293
+00:27:22,350 --> 00:27:25,460
+Bagaimana kita bisa mempercepat pembukaan saluran penjualan dalam sikap yang paling ekonomis dan praktis?
+
+294
+00:27:25,460 --> 00:27:28,620
+Itulah pertempuran sulit di mana departemen kalian yang berbeda harus bekerja sama untuk pecahkan.
+
+295
+00:27:30,620 --> 00:27:34,500
+Departemen penjualan, pergi dan lakukan penyortiran titik kunci dari semua distributor di negara ini.
+
+296
+00:27:34,500 --> 00:27:37,020
+Tandai semua area di mana penjualan menjadi masalah.
+
+297
+00:27:37,020 --> 00:27:38,670
+Baik.
+
+298
+00:27:38,670 --> 00:27:43,210
+Departemen pemasaran, lakukan penelitian pasar berdasarkan semua tanda ini dan cari tahu masalahnya datang dari hubungan mana.
+
+299
+00:27:43,210 --> 00:27:45,840
+Kemudian kita akan putuskan apakah kita mau mengubah rencana promosinya atau tidak.
+
+300
+00:27:45,840 --> 00:27:48,700
+Maaf, biar aku interupsi kalian sebentar.
+
+301
+00:27:48,700 --> 00:27:53,160
+Aku rasa alasan P1 tak mencapai popularitas yang diharapkan mungkin bukan karena masalah penjualan.
+
+302
+00:27:53,160 --> 00:27:56,670
+Bos, jika bukan penjualan lalu di mana masalahnya?
+
+303
+00:27:56,670 --> 00:27:59,620
+Begitu aku mendapatkan laporannya, biar datanya memberitahu kita.
+
+304
+00:28:04,320 --> 00:28:07,780
+Palayanan pelanggan, kalian bertanggung jawab meneruskan semua pengalaman pemasaran pelanggan.
+
+305
+00:28:07,780 --> 00:28:10,800
+Bekerjalah bersama dengan departemen teknologi dan buat laporan data yang jelas.
+
+306
+00:28:10,800 --> 00:28:14,440
+- Dua hari untuk menyelidiki masalahnya lalu satu hari untuk berkomunikasi dan memecahkannya.
+- Baiklah.
+
+307
+00:28:14,440 --> 00:28:18,830
+Semuanya, pergi! Pergi, pergi!
+
+308
+00:29:04,070 --> 00:29:06,440
+Aku mau menjelaskan semua hal.
+
+309
+00:29:08,820 --> 00:29:12,120
+Aku tak suka suasana berbincang macam ini.
+
+310
+00:29:12,120 --> 00:29:14,230
+Lalu apa yang kau suka?
+
+311
+00:29:15,920 --> 00:29:17,910
+Kalau begitu langsung secara jasmani saja.
+
+312
+00:29:19,500 --> 00:29:23,190
+Setelah memikirkannya, aku juga tak bisa memikirkan alasan untuk menggunakan kekerasan.
+
+313
+00:29:25,020 --> 00:29:26,680
+Shi Junqing,
+
+314
+00:29:26,680 --> 00:29:30,160
+- waktu itu aku--
+- Jangan pernah berpikir untuk memberitahuku kata-kata itu.
+
+315
+00:29:31,470 --> 00:29:35,190
+Tak semuanya bisa ditebus kembali hanya dengan mengatakan kata-kata itu.
+
+316
+00:29:37,030 --> 00:29:39,930
+Kau berbeda dariku.
+
+317
+00:29:39,930 --> 00:29:43,060
+Kau punya uang dan waktu kosong.
+
+318
+00:29:43,060 --> 00:29:48,240
+Kalau begitu tinggal di sini dan nikmatilah pemandangannya. Aku akan turun untuk mengatur bisnisku.
+
+319
+00:29:50,830 --> 00:29:52,880
+Lawan kembali!
+
+320
+00:29:57,410 --> 00:30:01,420
+Mengapa kau tak membalas dendam?! Sekarang aku berdiri di depanmu.
+
+321
+00:30:01,420 --> 00:30:06,060
+Si Chang Jianxiong egois tak berguna, yang tak berani mengakui kalau dialah yang mencuri disertasi itu, sedang berdiri tepat di depanmu!
+
+322
+00:30:12,090 --> 00:30:14,700
+Setelah bertahun-tahun, kau masih seorang pencuri.
+
+323
+00:30:14,700 --> 00:30:18,540
+Benar. Aku masih pencuri sampai sekarang.
+
+324
+00:30:24,010 --> 00:30:29,550
+Tusuk aku. Jika satu tusukan kurang, buatlah jadi dua. Tusuk saja aku sampai kau memaafkanku.
+
+325
+00:30:30,680 --> 00:30:32,390
+Shi Junqing dari sebelumnya itu sudah mati.
+
+326
+00:30:32,390 --> 00:30:35,350
+Tapi Chang Jianxiong yang dulu belum mati!
+
+327
+00:30:38,130 --> 00:30:42,550
+Setelah bertahun-tahun, mengapa masih berkata "dulu"?
+
+328
+00:30:42,550 --> 00:30:46,230
+Kau pikir di dunia ini, benar-benar ada hal seperti sebuah hidup untuk sebuah hidup?
+
+329
+00:30:48,400 --> 00:30:52,480
+Tusukan yang kau berikan padaku itu di dalam sini.
+
+330
+00:30:52,480 --> 00:30:57,850
+Selama bertahun-tahun, aku tak mampu mati atau hidup. Bisakah kau benar-benar sanggup menebusnya?
+
+331
+00:31:20,630 --> 00:31:23,860
+Hei, Bos. Apa yang terjadi?
+
+332
+00:31:43,400 --> 00:31:47,450
+Harap sampaikan ini pada Shi Junqing. Aku bersedia menebus harga apapun.
+
+333
+00:31:47,450 --> 00:31:51,720
+Tapi kepadamu Shi Yue, aku hanya punya satu pernyataan.
+
+334
+00:31:52,600 --> 00:31:54,620
+Jangan sakiti Nan Qiao.
+
+335
+00:31:57,660 --> 00:32:01,540
+Urusan antara dia dan aku itu bukan urusanmu.
+
+336
+00:32:01,540 --> 00:32:05,300
+Urusan Nan Qiao adalah urusanku satu-satunya.
+
+337
+00:32:06,900 --> 00:32:12,120
+Mengapa kau tak mau percaya kalau hal antara dia dan aku adalah kasih sayang yang sebenarnya? Mengapa?
+
+338
+00:32:13,970 --> 00:32:15,190
+Mari lakukan bersama.
+
+339
+00:32:15,190 --> 00:32:17,470
+Apa yang kau lakukan?
+
+340
+00:32:17,470 --> 00:32:18,990
+- Tolong beritahu aku namamu. Berbincanglah denganku.
+- Apa yang kau lakukan?
+
+341
+00:32:18,990 --> 00:32:21,060
+Apa yang dia lakukan?
+
+342
+00:32:21,060 --> 00:32:24,260
+Hei... hati-hati dengan sikapmu.
+
+343
+00:32:24,260 --> 00:32:28,330
+Apakah kau mau menjadi tamu di sini atau keluar dari sini?
+
+344
+00:32:29,900 --> 00:32:33,990
+Hei, pria homo. Mengapa kau tak menyingkir saja?
+
+345
+00:32:37,670 --> 00:32:41,600
+Kau bangsat!
+
+346
+00:32:41,600 --> 00:32:43,430
+Mulai dari sekarang, orang ini tak boleh masuk ke sini.
+
+347
+00:32:43,430 --> 00:32:44,620
+Baik.
+
+348
+00:32:44,620 --> 00:32:49,760
+Dan orang ini... Aku juga tak mau dia di sini.
+
+349
+00:32:55,570 --> 00:32:59,720
+Tn. Chang, kau tak perlu aku mengantarmu keluar lagi, kan?
+
+350
+00:33:05,620 --> 00:33:10,300
+Shi Yue, biar kutanya kau pertanyaan terakhir.
+
+351
+00:33:10,300 --> 00:33:12,790
+Bisakah kau menjauh dari Nan Qiao?
+
+352
+00:33:14,170 --> 00:33:16,720
+Mengapa aku harus?
+
+353
+00:33:17,960 --> 00:33:23,490
+Chang Jianxiong, apakah kau sudah terlalu banyak menusuk dari belakang sampai kau tak tahu apa artinya bermain dengan adil?
+
+354
+00:33:23,490 --> 00:33:27,210
+Nan Qiao harusnya tak menjadi korban karena masa lalu kita.
+
+355
+00:33:27,210 --> 00:33:29,830
+Aku hanya mengambil kembali apa yang harusnya menjadi milikku.
+
+356
+00:33:32,130 --> 00:33:34,560
+Tn. Chang, ayo.
+
+357
+00:33:41,260 --> 00:33:45,490
+Shi Yue, aku tak akan membiarkanmu begitu saja.
+
+358
+00:33:54,090 --> 00:33:55,890
+Kami tak akan mengantarmu lagi!
+
+359
+00:34:11,510 --> 00:34:15,500
+Bertahun-tahun sudah lewat, mengapa kau masih membuatnya kesulitan?
+
+360
+00:34:15,500 --> 00:34:17,210
+Karena dialah yang terus menerus menggangguku.
+
+361
+00:34:17,210 --> 00:34:19,430
+Kaulah yang terus menerus mengganggu Nan Qiao.
+
+362
+00:34:19,430 --> 00:34:23,930
+Tidak. Nan Qiaolah yang membuktikan semua kebohongannya.
+
+363
+00:34:26,130 --> 00:34:30,670
+Jika kau mau permintaan maaf, Chang Jianxiong sudah datang.
+
+364
+00:34:30,670 --> 00:34:35,680
+Jika kau mau membalas dendam, maka jadilah jantan dan lawan dia.
+
+365
+00:34:38,360 --> 00:34:42,790
+Kau pikir permintaan maafnya hanya untuk disertasi itu?
+
+366
+00:34:42,790 --> 00:34:44,930
+Apa maksudmu?
+
+367
+00:34:44,930 --> 00:34:48,990
+Nan Qiao memberitahuku kalau Chang Jianxiong
+
+368
+00:34:48,990 --> 00:34:51,590
+menciptakan teknik levitasi dalam ruangan.
+
+369
+00:34:51,590 --> 00:34:55,340
+Dari mulai waktu itu, aku tahu itu tak mungkin hanyalah sebuah kebetulan.
+
+370
+00:34:55,340 --> 00:34:59,040
+Sejak hari pertama aku bertemu dengannya, dia sudah menggunakanku.
+
+371
+00:34:59,040 --> 00:35:01,000
+Kau yakin?
+
+372
+00:35:01,000 --> 00:35:02,750
+Yakin.
+
+373
+00:35:03,440 --> 00:35:06,500
+Karena itulah, mengapa aku terus menyuruhnya
+
+374
+00:35:06,500 --> 00:35:10,110
+untuk ikut denganku dan Nan Qiao pergi ke Klub Penerbangan Kalangan Jenius?
+
+375
+00:35:10,110 --> 00:35:11,690
+Apa hasilnya?
+
+376
+00:35:12,510 --> 00:35:15,290
+Hasilnya, dia melarikan diri.
+
+377
+00:35:15,290 --> 00:35:19,060
+Dia bahkan dengan sengaja memberiku dan Nan Qiao kesempatan untuk bersama.
+
+378
+00:35:19,060 --> 00:35:20,790
+Mengapa?
+
+379
+00:35:24,020 --> 00:35:27,760
+Karena di dalam tempat itu ada seseorang yang dia takut untuk bertemu.
+
+380
+00:35:27,760 --> 00:35:31,290
+Dia mencuri ide dan modelku dan memberikannya pada Nan Qiao.
+
+381
+00:35:31,290 --> 00:35:33,800
+Dia membuatnya memenangkan kompetisi model pesawat terbang.
+
+382
+00:35:33,800 --> 00:35:37,840
+Kepala Klub Penerbangan Kalangan Jenius adalah orang yang memberikannya penghargaan itu.
+
+383
+00:35:37,840 --> 00:35:42,940
+Itulah mengapa kau membalas dendam pada Chang Jianxiong dan Future Up karena ini?
+
+384
+00:35:42,940 --> 00:35:48,510
+Itu karena Nan Qiao bilang Chang Jianxiong adalah pendiri Future Up.
+
+385
+00:35:50,360 --> 00:35:55,670
+Jika Nan Qiao tahu kau mendekatinya hanya untuk membalas dendam...
+
+386
+00:36:00,010 --> 00:36:02,530
+Chang Jianxiong tak akan melakukan itu.
+
+387
+00:36:02,530 --> 00:36:04,190
+Kau begitu yakinnya?
+
+388
+00:36:08,830 --> 00:36:12,630
+Karena Chang Jianxiong tak berani mengatakan yang sebenarnya.
+
+389
+00:36:12,630 --> 00:36:17,860
+Jika dia mengatakan yang sebenarnya, Nan Qiao akan menjadi komplotan tak langsung yang membahayakanku.
+
+390
+00:36:17,860 --> 00:36:23,680
+Chang Jianxiong seorang yang tak tahu cara membagi kebahagiaan dan penderitaan.
+
+391
+00:36:25,120 --> 00:36:30,220
+Karena itulah sampai sekarang, kaulah yang masih paling mengenal Chang Jianxiong,
+
+392
+00:36:30,220 --> 00:36:34,020
+entah kau Shi Junqing atau Shi Yue.
+
+393
+00:36:36,020 --> 00:36:40,520
+Sulit bagi orang untuk bertemu orang lain yang benar-benar terukir di hatinya.
+
+394
+00:36:41,180 --> 00:36:43,500
+Mungkin itu ada hubungannya dengan keberuntunganku.
+
+395
+00:36:47,270 --> 00:36:51,550
+Bagaimana dengan Nan Qiao? Kau juga tak akan memberitahu yang sebenarnya?
+
+396
+00:36:55,240 --> 00:36:57,190
+Aku tak sanggup.
+
+397
+00:37:28,940 --> 00:37:30,380
+<i>Perhatian!</i>
+
+398
+00:37:34,700 --> 00:37:37,740
+<i>Lalu bagaimana aku bisa mewujudkan teknik penerbangan ketinggian rendah ini?</i>
+
+399
+00:37:37,740 --> 00:37:41,600
+<i>Karena itulah aku sudah memikirkannya. Lalu aku mempertaruhkan kematian dan memberikan mereka perintah</i>
+
+400
+00:37:41,600 --> 00:37:44,670
+<i>bahwa mereka harus terbang di ketinggian yang sangat rendah.</i>
+
+401
+00:37:44,670 --> 00:37:47,970
+<i>Penerbangan ketinggian sangat rendah? Begitu menegangkan!</i>
+
+402
+00:37:47,970 --> 00:37:49,790
+<i>Tapi manual penerbangan tak akan mengizinkan itu.</i>
+
+403
+00:37:49,790 --> 00:37:54,030
+<i>Mengatakannya sudah terlambat. Waktu itu terjadi sangat cepat. Angin besar bertiup.</i>
+
+404
+00:37:54,030 --> 00:37:58,240
+<i>Baling-balingnya dengan cepat berputar tak keruan karena angin besar itu.</i>
+
+405
+00:37:58,240 --> 00:38:02,560
+<i>Langitnya tak runtuh. Tanahnya tak retak. Hanya Bos Changmu</i>
+
+406
+00:38:02,560 --> 00:38:06,280
+<i>yang begitu ketakutan sampai dia kencing di celana! Untungnya, di saat kritis itu, aku--</i>
+
+407
+00:38:06,280 --> 00:38:08,740
+<i>Juga kencing di celanamu!</i>
+
+408
+00:38:08,740 --> 00:38:10,480
+<i>- Benar...
+- Apakah bos kami benar-benar begitu memalukan?</i>
+
+409
+00:38:10,480 --> 00:38:15,590
+<i>Tentu saja tidak. Hanya saja kakinya sedikit lembek, jantungnya sedikit tak karuan,</i>
+
+410
+00:38:15,590 --> 00:38:17,770
+<i>dan otaknya sedikit bergetar!</i>
+
+411
+00:38:17,770 --> 00:38:20,520
+<i>Hei, lalu bagaimana kau bisa mengatasi situasi berbahaya itu?</i>
+
+412
+00:38:20,520 --> 00:38:23,710
+<i>Tentu saja, aku mempertahankan ketampanan dan ketenanganku.</i>
+
+413
+00:38:23,710 --> 00:38:26,960
+<i>Kuberitahu kalian ini. Seorang bisa berdarah. Kepala seorang bisa dipotong.</i>
+
+414
+00:38:26,960 --> 00:38:29,780
+<i>Tapi gaya rambut seorang harus tak boleh kacau.</i>
+
+415
+00:38:31,650 --> 00:38:33,420
+<i>Bos?</i>
+
+416
+00:38:34,260 --> 00:38:35,850
+<i>Ada apa?</i>
+
+417
+00:38:35,850 --> 00:38:39,550
+<i>Hanya kau yang punya otot dada seperti itu sekarang, sedangkan kami tidak?</i>
+
+418
+00:38:39,550 --> 00:38:42,430
+<i>Lepaskan kaos itu!</i>
+
+419
+00:38:42,430 --> 00:38:46,700
+<i>Aku tak bisa melepaskannya. Aku tak membawa otot dadaku keluar hari ini. Aku tak bisa melepaskan pakaianku.</i>
+
+420
+00:38:46,700 --> 00:38:49,070
+<i>Aku belum pernah sekalipun memakai kaos itu dan kau mencurinya begitu saja!</i>
+
+421
+00:38:49,070 --> 00:38:51,880
+<i>Hei, tunggu... Hei, apa yang kau bilang?</i>
+
+422
+00:38:51,880 --> 00:38:57,430
+<i>Kau belum pernah sekalipun memakai ini yang berarti ini masih perawan?</i>
+
+423
+00:38:57,430 --> 00:39:00,930
+<i>Hei! Mungkinkah ini koleksi pribadimu?</i>
+
+424
+00:39:00,930 --> 00:39:04,290
+<i>Tebakanku adalah ini hadiah dari seseorang yang dia cintai.</i>
+
+425
+00:39:11,530 --> 00:39:14,780
+<i>- Satu barang ditukar untuk barang lain.
+- Kau tak mungkin benar-benar jatuh cinta dengan</i>
+
+426
+00:39:14,780 --> 00:39:16,290
+<i>putri Perwira Komandan, kan?</i>
+
+427
+00:39:16,290 --> 00:39:18,400
+<i>Putri Perwira Komandan?!</i>
+
+428
+00:39:18,400 --> 00:39:20,220
+<i>Kau memang hebat. Apakah dia cantik?</i>
+
+429
+00:39:20,220 --> 00:39:22,560
+<i>- Bagaimana? Bawa dia kemari supaya kami bisa melihatnya.
+- Tidak...</i>
+
+430
+00:39:22,560 --> 00:39:25,710
+<i>- Biarkan kami melihatnya!
+- Benar.</i>
+
+431
+00:39:25,710 --> 00:39:28,050
+<i>Tidak... lihat...</i>
+
+432
+00:39:28,050 --> 00:39:30,910
+<i>Penarikan ujung mulutnya menandakan kebahagiaan di hatinya.</i>
+
+433
+00:39:30,910 --> 00:39:34,980
+<i>Juga, kepalanya terus...</i>
+
+434
+00:39:34,980 --> 00:39:39,560
+<i>Apa artinya itu? Itu artinya dia kurang percaya diri dalam hubungan ini.</i>
+
+435
+00:39:39,560 --> 00:39:42,420
+<i>Aku tak mungkin benar dalam menebaknya, kan?</i>
+
+436
+00:39:44,020 --> 00:39:46,410
+<i>Perhatian!</i>
+
+437
+00:39:54,430 --> 00:40:00,290
+<i>Untuk situasi mendadak waktu latihan penerbangan kali ini, kalian berdua telah mengatasinya dengan sangat tepat.</i>
+
+438
+00:40:00,290 --> 00:40:04,590
+<i>Lapor kepada petugas! Itu bukanlah dua orang. Hanya satu orang.</i>
+
+439
+00:40:04,590 --> 00:40:09,290
+<i>Chang Jianxionglah yang stabil dan tenang, karena itu malapetaka tersebut bisa dielakkan.</i>
+
+440
+00:40:09,290 --> 00:40:11,370
+<i>Apa maksudmu dengan itu?</i>
+
+441
+00:40:11,370 --> 00:40:14,350
+<i>Kalian berdua sungguh berpikir aku sedang memuji kalian?</i>
+
+442
+00:40:14,350 --> 00:40:19,220
+<i>Kelas mana yang mengajari metode manajemen semacam itu?</i>
+
+443
+00:40:19,220 --> 00:40:21,230
+<i>Tak menanggapi berdasarkan pada perintah.</i>
+
+444
+00:40:21,230 --> 00:40:25,350
+<i>Dalam langkah pengontrolan tiba-tiba waktu situasi darurat, apakah kalian mengikuti manual penerbangan?</i>
+
+445
+00:40:29,470 --> 00:40:32,110
+<i>- Chang Jianxiong.
+- Hadir!</i>
+
+446
+00:40:32,110 --> 00:40:37,380
+<i>Sebagai kapten, buatlah persiapan. Datang ke kantorku setelah satu jam untuk melakukan laporan penerbangan.</i>
+
+447
+00:40:37,380 --> 00:40:41,660
+<i>Lapor kepada petugas! Aku sedang cuti hari ini.</i>
+
+448
+00:40:42,550 --> 00:40:45,890
+<i>Setelah membuat laporan, kau bisa langsung pulang dari kantor pusat.</i>
+
+449
+00:40:45,890 --> 00:40:47,420
+<i>Baik!</i>
+
+450
+00:40:57,060 --> 00:40:59,000
+<i>Aku akan pergi berkencan sekarang.</i>
+
+451
+00:41:01,500 --> 00:41:04,930
+<i>Shi Junqing! Berhenti di sana! Shi Junqing!</i>
+
+452
+00:41:04,930 --> 00:41:07,180
+<i>Chang Jianxiong!</i>
+
+453
+00:41:07,180 --> 00:41:08,740
+<i>Xiao Qiao.</i>
+
+454
+00:41:12,370 --> 00:41:14,930
+<i>- Mana Shi Junqing?
+- Dia belum kembali.</i>
+
+455
+00:41:14,930 --> 00:41:19,220
+<i>Bukankah petugas menyuruhmu melapor padanya? Sudah jam berapa ini? Kau masih belum pergi?</i>
+
+456
+00:41:30,140 --> 00:41:32,010
+<i>Apakah yang ini?</i>
+
+457
+00:41:34,430 --> 00:41:37,400
+<i>Untuk kehilangan dokumen rahasia, siswa Shi Junqing </i>
+
+458
+00:41:37,400 --> 00:41:42,390
+<i>memiliki tanggung jawab tak terbantahkan untuk itu. Atasan sekolah telah memutuskan</i>
+
+459
+00:41:42,390 --> 00:41:47,270
+<i>untuk mengeluarkannya dari sekolah, mengeluarkannya dari Pedang Langit Biru, dan tak pernah mempekerjakannya.</i>
+
+460
+00:42:25,640 --> 00:42:33,790
+<i>Alih bahasa dipersembahkan oleh Padepokan Anak Negeri @Viki.com</i>
+
+461
+00:42:40,260 --> 00:42:42,840
+<font color="#ffff00"><i>♪ Mendekatlah ♪</i></font>
+
+462
+00:42:42,840 --> 00:42:48,840
+<font color="#ffff00"><i>♪ Biarkan aku mendengar detak jantungmu saat aku terbangun♪</i></font>
+
+463
+00:42:48,840 --> 00:42:54,710
+<font color="#ffff00"><i>♪ Saat harummu memenuhi udara malam ini ♪</i></font>
+
+464
+00:42:54,710 --> 00:42:57,680
+<font color="#ffff00"><i>♪ Gairahku menyala untukmu ♪</i></font>
+
+465
+00:42:57,680 --> 00:43:03,770
+<font color="#ffff00"><i>♪ Gairahku menyala untukmu ♪</i></font>
+
+466
+00:43:03,770 --> 00:43:06,890
+<font color="#ffff00"><i>♪ Tidaklah penting  ♪</i></font>
+
+467
+00:43:06,890 --> 00:43:12,430
+<font color="#ffff00"><i>♪ Duniaku runtuh untukmu ♪</i></font>
+
+468
+00:43:12,430 --> 00:43:18,360
+<font color="#ffff00"><i>♪ Mata tak berdosa ternyata adalah hal yang paling berbahaya♪</i></font>
+
+469
+00:43:18,360 --> 00:43:22,150
+<font color="#ffff00"><i>♪ Sedikit demi sedikit, aku jatuh padamu  ♪</i></font>
+
+470
+00:43:22,150 --> 00:43:28,430
+<font color="#ffff00"><i>♪ Aku jatuh cinta padamu tanpa menyadarinya ♪</i></font>
+
+471
+00:43:29,530 --> 00:43:33,920
+<font color="#ffff00"><i>♪ Aku cinta padamu, aku cinta semua tentangmu ♪</i></font>
+
+472
+00:43:33,920 --> 00:43:36,570
+<font color="#ffff00"><i>♪ Meskipun kau keras kepala dan tak bisa diatur, mengendalikan perasaanku ♪</i></font>
+
+473
+00:43:36,570 --> 00:43:40,990
+<font color="#ffff00"><i>♪ Meskipun kau keras kepala dan tak bisa diatur, mengendalikan perasaanku ♪</i></font>
+
+474
+00:43:42,130 --> 00:43:46,550
+<font color="#ffff00"><i>♪ Di tepi impian dan kenyataan ♪</i></font>
+
+475
+00:43:46,550 --> 00:43:54,020
+<font color="#ffff00"><i>♪ Aku akan memberimu kehangatan dan ada di sampingmu ♪</i></font>
+
+476
+00:43:54,020 --> 00:43:57,690
+<font color="#ffff00"><i>♪ Aku cinta padamu, segalanya tentangmu ♪</i></font>
+
+477
+00:43:57,690 --> 00:44:04,560
+<font color="#ffff00"><i>♪ Meskipun jika tak ada yang mengerti ketergantunganku padamu ♪</i></font>
+
+478
+00:44:05,850 --> 00:44:10,230
+<font color="#ffff00"><i>♪ Saat lembar terakhir dari cerita ini ditulis, aku akan ada di sampingmu ♪</i></font>
+
+479
+00:44:10,230 --> 00:44:14,560
+<font color="#ffff00"><i>♪ Saat lembar terakhir dari cerita ini ditulis, aku akan ada di sampingmu ♪</i></font>
+
+480
+00:44:17,980 --> 00:44:21,400
+<font color="#ffff00"><i>♪ Aku cinta padamu, aku cinta semua tentangmu ♪</i></font>
+
+481
+00:44:21,400 --> 00:44:28,290
+<font color="#ffff00"><i>♪ Meskipun kau keras kepala dan tak bisa diatur, mengendalikan perasaanku ♪</i></font>
+
+482
+00:44:29,490 --> 00:44:34,010
+<font color="#ffff00"><i>♪ Di tepi impian dan kenyataan ♪</i></font>
+
+483
+00:44:34,010 --> 00:44:38,500
+<font color="#ffff00"><i>♪ Aku akan memberimu kehangatan dan ada di sampingmu ♪</i></font>
+
+484
+00:44:38,500 --> 00:44:41,460
+<font color="#ffff00"><i>♪ Aku akan memberimu kehangatan dan ada di sampingmu ♪</i></font>
+
+485
+00:44:41,460 --> 00:44:45,050
+<font color="#ffff00"><i>♪ Aku cinta padamu, segalanya tentangmu ♪</i></font>
+
+486
+00:44:45,050 --> 00:44:52,000
+<font color="#ffff00"><i>♪ Meskipun jika tak ada yang mengerti ketergantunganku padamu ♪</i></font>
+
+487
+00:44:53,280 --> 00:44:57,680
+<font color="#ffff00"><i>♪ Saat lembar terakhir dari cerita ini ditulis, aku akan selamanya di sampingmu ♪</i></font>
+
+488
+00:44:57,680 --> 00:45:02,030
+<font color="#ffff00"><i>♪ Saat lembar terakhir dari cerita ini ditulis, aku akan selamanya di sampingmu ♪</i></font>
+

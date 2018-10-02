@@ -1,0 +1,73 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.125000
+Scroll Position: 362
+Active Line: 372
+Video Position: 37260
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:03:50.81,Default,,0,0,0,,{\fnCorbel\fs11\c&fff33&\3c&H000000&\pos(522,24.8)}*IZ – ANGEL* 
+Dialogue: 0,0:00:00.00,0:03:50.81,Default,,0,0,0,,{\fnCorbel\fs11\c&H710FF7&\3c&H000000&\pos(568.889,44.689)}{\c&H710FF7&} {\3c&H000000&}SUB INDO BY ~ FANINDITA PUTRI  
+Dialogue: 0,0:00:10.00,0:00:12.99,Default,,0,0,0,,{\c&H000000&}Jantungku berdetak begitu kencang hingga hampir meledak 
+Dialogue: 0,0:00:13.00,0:00:14.99,Default,,0,0,0,,{\c&H000000&}(Pembuluh darahku memanas) 
+Dialogue: 0,0:00:15.00,0:00:18.99,Default,,0,0,0,,{\c&H000000&}Saat aku melihatmu, aku jadi pusing 
+Dialogue: 0,0:00:20.00,0:00:21.99,Default,,0,0,0,,{\c&H000000&}Gejala terus berlanjut 
+Dialogue: 0,0:00:22.00,0:00:24.99,Default,,0,0,0,,{\c&H000000&}(Bahkan saat aku melihatmu, aku tak bisa mempercayainya) 
+Dialogue: 0,0:00:25.00,0:00:28.99,Default,,0,0,0,,{\c&H000000&}Kau berasal dari planet yang berbeda 
+Dialogue: 0,0:00:30.00,0:00:34.99,Default,,0,0,0,,{\c&H000000&}Apakah ini cinta? Apakah kau benar-benar manusia? 
+Dialogue: 0,0:00:35.00,0:00:37.99,Default,,0,0,0,,{\c&H000000&}Aku terus bertanya 
+Dialogue: 0,0:00:41.00,0:00:43.99,Default,,0,0,0,,{\c&H000000&}Apakah kau seorang malaikat 
+Dialogue: 0,0:00:44.00,0:00:48.99,Default,,0,0,0,,{\c&H000000&}Jika darah yang mengalir melalui pembuluh darahmu berwarna merah 
+Dialogue: 0,0:00:49.00,0:00:50.99,Default,,0,0,0,,{\c&H000000&}Ini tak mungkin benar 
+Dialogue: 0,0:00:51.00,0:00:53.99,Default,,0,0,0,,{\c&H000000&}Apakah kau seorang malaikat 
+Dialogue: 0,0:00:54.00,0:00:58.99,Default,,0,0,0,,{\c&H000000&}Jika kau tak memiliki sayap tersembunyi di punggungmu 
+Dialogue: 0,0:00:59.00,0:01:00.99,Default,,0,0,0,,{\c&H000000&}Ini tak mungkin benar  
+Dialogue: 0,0:01:07.00,0:01:10.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat 
+Dialogue: 0,0:01:16.00,0:01:19.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat 
+Dialogue: 0,0:01:25.00,0:01:27.99,Default,,0,0,0,,{\c&H000000&}Aku pikir aku sedang berada di bawah mantra 
+Dialogue: 0,0:01:28.00,0:01:29.99,Default,,0,0,0,,{\c&H000000&}Hatiku terus bergetar (bergetar)
+Dialogue: 0,0:01:31.00,0:01:32.99,Default,,0,0,0,,{\c&H000000&}Aku sedang kesurupan 
+Dialogue: 0,0:01:33.00,0:01:34.99,Default,,0,0,0,,{\c&H000000&}Aku mencoba namun aku tak bisa mengendalikannya 
+Dialogue: 0,0:01:35.00,0:01:37.99,Default,,0,0,0,,{\c&H000000&}Kau berasal dari planet apa? (dimana) 
+Dialogue: 0,0:01:38.00,0:01:39.99,Default,,0,0,0,,{\c&H000000&}Bawa aku ke sana (vroom vroom) 
+Dialogue: 0,0:01:40.00,0:01:42.99,Default,,0,0,0,,{\c&H000000&}Seperti malaikat yang datang kepadaku 
+Dialogue: 0,0:01:43.00,0:01:44.99,Default,,0,0,0,,{\c&H000000&}Terbanglah padaku 
+Dialogue: 0,0:01:46.00,0:01:50.99,Default,,0,0,0,,{\c&H000000&}Apakah ini cinta? Apakah kau benar-benar manusia? 
+Dialogue: 0,0:01:51.00,0:01:53.99,Default,,0,0,0,,{\c&H000000&}Aku terus bertanya 
+Dialogue: 0,0:01:57.00,0:01:59.99,Default,,0,0,0,,{\c&H000000&}Apakah kau seorang malaikat 
+Dialogue: 0,0:02:00.00,0:02:04.99,Default,,0,0,0,,{\c&H000000&}Jika darah yang mengalir melalui pembuluh darahmu berwarna merah 
+Dialogue: 0,0:02:05.00,0:02:06.99,Default,,0,0,0,,{\c&H000000&}Ini tak mungkin benar 
+Dialogue: 0,0:02:07.00,0:02:09.99,Default,,0,0,0,,{\c&H000000&}Apakah kau seorang malaikat 
+Dialogue: 0,0:02:10.00,0:02:13.99,Default,,0,0,0,,{\c&H000000&}Jika kau tak memiliki sayap tersembunyi di punggungmu 
+Dialogue: 0,0:02:14.00,0:02:16.99,Default,,0,0,0,,{\c&H000000&}Ini tak mungkin benar 
+Dialogue: 0,0:02:22.00,0:02:26.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat 
+Dialogue: 0,0:02:32.00,0:02:35.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat 
+Dialogue: 0,0:02:36.00,0:02:37.99,Default,,0,0,0,,{\c&H000000&}Kemana kau pergi (kemana kau pergi) 
+Dialogue: 0,0:02:38.00,0:02:40.99,Default,,0,0,0,,{\c&H000000&}Darimana kau berasal (Darimana kau berasal) 
+Dialogue: 0,0:02:41.00,0:02:42.99,Default,,0,0,0,,{\c&H000000&}Bawa aku ke tempat itu (bawalah aku) 
+Dialogue: 0,0:02:43.00,0:02:45.99,Default,,0,0,0,,{\c&H000000&}Datanglah padaku sekarang (datanglah padaku) 
+Dialogue: 0,0:02:46.00,0:02:48.99,Default,,0,0,0,,{\c&H000000&}Bahkan jika aku takut karena terlalu tinggi (terlalu tinggi) 
+Dialogue: 0,0:02:49.00,0:02:50.99,Default,,0,0,0,,{\c&H000000&}Bahkan jika aku terus gemetar (terus gemetar) 
+Dialogue: 0,0:02:51.00,0:02:54.99,Default,,0,0,0,,{\c&H000000&}Jika aku bersamamu, aku bisa mengatasinya 
+Dialogue: 0,0:02:56.00,0:02:57.99,Default,,0,0,0,,{\c&H000000&}Apakah kau seorang malaikat 
+Dialogue: 0,0:02:58.00,0:03:02.99,Default,,0,0,0,,{\c&H000000&}Jika darah yang mengalir melalui pembuluh darahmu berwarna merah 
+Dialogue: 0,0:03:03.00,0:03:04.99,Default,,0,0,0,,{\c&H000000&}Ini tak mungkin benar  
+Dialogue: 0,0:03:05.00,0:03:07.99,Default,,0,0,0,,{\c&H000000&}Apakah kau seorang malaikat 
+Dialogue: 0,0:03:08.00,0:03:12.99,Default,,0,0,0,,{\c&H000000&}Jika kau tak memiliki sayap tersembunyi di punggungmu 
+Dialogue: 0,0:03:13.00,0:03:14.99,Default,,0,0,0,,{\c&H000000&}Ini tak mungkin benar 
+Dialogue: 0,0:03:21.00,0:03:24.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat 
+Dialogue: 0,0:03:31.00,0:03:34.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat  
+Dialogue: 0,0:03:41.00,0:03:45.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat  
+

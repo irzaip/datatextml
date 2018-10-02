@@ -1,0 +1,7 @@
+PlayResY: 360
+Video Position: 37260
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+Dialogue: 0,0:05:07.00,0:05:11.99,Default,,0,0,0,,{\c&H000000&}Aku menanam sekuntum bunga yang tak bisa mekar dalam mimpi yang tak akan menjadi kenyataan 
+
+
+

@@ -1,0 +1,81 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.125000
+Scroll Position: 362
+Active Line: 372
+Video Position: 37260
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:04:14.81,Default,,0,0,0,,{\fnCorbel\fs11\c&fff33&\3c&H000000&\pos(522,24.8)}*JBJ - Call Your Name* 
+Dialogue: 0,0:00:00.00,0:04:14.81,Default,,0,0,0,,{\fnCorbel\fs11\c&H710FF7&\3c&H000000&\pos(568.889,44.689)}{\c&H710FF7&} {\3c&H000000&}SUB INDO BY ~ FANINDITA PUTRI  
+Dialogue: 0,0:00:17.00,0:00:19.99,Default,,0,0,0,,{\c&H000000&}Sekali saja, maukah kau tersenyum padaku lagi?  
+Dialogue: 0,0:00:21.00,0:00:23.99,Default,,0,0,0,,{\c&H000000&}Sekali saja, maukah kau menatapku lagi? 
+Dialogue: 0,0:00:24.00,0:00:28.99,Default,,0,0,0,,{\c&H000000&}Jika begitu, jika begitu  
+Dialogue: 0,0:00:29.00,0:00:31.99,Default,,0,0,0,,{\c&H000000&}Itu pasti akan menjadi alasanku tuk kembali  
+Dialogue: 0,0:00:34.00,0:00:37.99,Default,,0,0,0,,{\c&H000000&}Saat-saat kita bersama yang begitu indah 
+Dialogue: 0,0:00:38.00,0:00:40.99,Default,,0,0,0,,{\c&H000000&}Hari pertama kita berjumpa yang mempesona 
+Dialogue: 0,0:00:41.00,0:00:45.99,Default,,0,0,0,,{\c&H000000&}Aku akan mengingat semuanya, aku takkan melupakannya  
+Dialogue: 0,0:00:46.00,0:00:50.99,Default,,0,0,0,,{\c&H000000&}Aku akan memegang tanganmu, seperti sekarang sayang   
+Dialogue: 0,0:00:51.00,0:00:54.99,Default,,0,0,0,,{\c&H000000&}Sepertinya kita terlalu cepat, bagaimana kita sedikit memperlambatnya?  
+Dialogue: 0,0:00:55.00,0:00:58.99,Default,,0,0,0,,{\c&H000000&}Meski kita sudah tahu bahwa ini kan berakhir, mengapa kita tetap saling mencintai?  
+Dialogue: 0,0:00:59.00,0:01:01.99,Default,,0,0,0,,{\c&H000000&}Aku berharap ini bukanlah yang terakhir  
+Dialogue: 0,0:01:02.00,0:01:03.99,Default,,0,0,0,,{\c&H000000&}Sampai jumpa lagi, hari-hari kita yang begitu indah  
+Dialogue: 0,0:01:04.00,0:01:05.99,Default,,0,0,0,,{\c&H000000&}Aku hanya akan membawa kenangan yang indah saja, itulah harapanku  
+Dialogue: 0,0:01:06.00,0:01:07.99,Default,,0,0,0,,{\c&H000000&}Sayang jangan lupakan hal itu  
+Dialogue: 0,0:01:08.00,0:01:12.99,Default,,0,0,0,,{\c&H000000&}Sebentar lagi, dengan kehangatanmu yang begitu hangat seperti ini  
+Dialogue: 0,0:01:13.00,0:01:16.99,Default,,0,0,0,,{\c&H000000&}Seolah tertidur kita tak mengatakan apapun  
+Dialogue: 0,0:01:17.00,0:01:18.99,Default,,0,0,0,,{\c&H000000&}Aku tak melihat matamu yang menatapku  
+Dialogue: 0,0:01:19.00,0:01:20.99,Default,,0,0,0,,{\c&H000000&}Ku pikir aku bisa menangis begitu saja  
+Dialogue: 0,0:01:21.00,0:01:23.99,Default,,0,0,0,,{\c&H000000&}Tuk sesaat saja, melewati waktu yang pahit ini 
+Dialogue: 0,0:01:24.00,0:01:24.99,Default,,0,0,0,,{\c&H000000&}Aku akan memanggilmu  
+Dialogue: 0,0:01:26.00,0:01:30.99,Default,,0,0,0,,{\c&H000000&}Pertemuan kita mekar dengan begitu indah  
+Dialogue: 0,0:01:31.00,0:01:34.99,Default,,0,0,0,,{\c&H000000&}Kau orang yang berharga bagiku  
+Dialogue: 0,0:01:35.00,0:01:39.99,Default,,0,0,0,,{\c&H000000&}Ku mohon jangan lupakan aku, hari-hari yang indah 
+Dialogue: 0,0:01:40.00,0:01:43.99,Default,,0,0,0,,{\c&H000000&}Aku akan memanggil namamu  
+Dialogue: 0,0:01:44.00,0:01:48.99,Default,,0,0,0,,{\c&H000000&}Sehari tanpamu, memikirkannya saja aku tak mau  
+Dialogue: 0,0:01:49.00,0:01:51.99,Default,,0,0,0,,{\c&H000000&}Ini bukanlah yang terakhir  
+Dialogue: 0,0:01:52.00,0:01:57.99,Default,,0,0,0,,{\c&H000000&}Jangan lupakan aku, ingatlah diriku ini  
+Dialogue: 0,0:01:58.00,0:02:00.99,Default,,0,0,0,,{\c&H000000&}Sekali lagi aku akan memanggilmu  
+Dialogue: 0,0:02:09.00,0:02:10.99,Default,,0,0,0,,{\c&H000000&}Saat dedaunan di musim gugur menjadi gelap  
+Dialogue: 0,0:02:11.00,0:02:12.99,Default,,0,0,0,,{\c&H000000&}Aku punya mimpi yang tak bisa ku selesaikan 
+Dialogue: 0,0:02:13.00,0:02:14.99,Default,,0,0,0,,{\c&H000000&}Dengan janji tertidur sampai terbitnya fajar  
+Dialogue: 0,0:02:15.00,0:02:17.99,Default,,0,0,0,,{\c&H000000&}Di hari di saat bunga-bunga tengah bermekaran aku akan memanggilmu  
+Dialogue: 0,0:02:18.00,0:02:19.99,Default,,0,0,0,,{\c&H000000&}Keajaiban yang telah kita buat  
+Dialogue: 0,0:02:20.00,0:02:21.99,Default,,0,0,0,,{\c&H000000&}Seperti sebuah keajaiban, aku ingin kau kembali  
+Dialogue: 0,0:02:22.00,0:02:25.99,Default,,0,0,0,,{\c&H000000&}Jika kau benar-benar menginginkan harapan itu menjadi kenyataan, Ku mohon pastikanlah tuk mengingatnya  
+Dialogue: 0,0:02:26.00,0:02:29.99,Default,,0,0,0,,{\c&H000000&}Sebentar lagi, dengan kehangatanmu yang begitu hangat seperti ini  
+Dialogue: 0,0:02:30.00,0:02:34.99,Default,,0,0,0,,{\c&H000000&}Seolah tertidur kita tak mengatakan apapun  
+Dialogue: 0,0:02:35.00,0:02:36.99,Default,,0,0,0,,{\c&H000000&}Aku tak melihat matamu yang menatapku  
+Dialogue: 0,0:02:37.00,0:02:38.99,Default,,0,0,0,,{\c&H000000&}Ku pikir aku bisa menangis begitu saja  
+Dialogue: 0,0:02:39.00,0:02:41.99,Default,,0,0,0,,{\c&H000000&}Tuk sesaat saja, melewati waktu yang pahit ini 
+Dialogue: 0,0:02:42.00,0:02:42.99,Default,,0,0,0,,{\c&H000000&}Aku akan memanggilmu  
+Dialogue: 0,0:02:44.00,0:02:48.99,Default,,0,0,0,,{\c&H000000&}Pertemuan kita mekar dengan begitu indah  
+Dialogue: 0,0:02:49.00,0:02:52.99,Default,,0,0,0,,{\c&H000000&}Kau orang yang berharga bagiku  
+Dialogue: 0,0:02:53.00,0:02:57.99,Default,,0,0,0,,{\c&H000000&}Jangan lupakan aku, ingatlah aku  
+Dialogue: 0,0:03:02.00,0:03:06.99,Default,,0,0,0,,{\c&H000000&}Kau mulai menghilang, mataku menjadi kian kabur  
+Dialogue: 0,0:03:09.00,0:03:11.99,Default,,0,0,0,,{\c&H000000&}Sekali lagi, aku akan memanggilmu  
+Dialogue: 0,0:03:13.00,0:03:16.99,Default,,0,0,0,,{\c&H000000&}Aku akan memanggilmu, aku akan memanggilmu  
+Dialogue: 0,0:03:18.00,0:03:20.99,Default,,0,0,0,,{\c&H000000&}Ini bukanlah yang terakhir  
+Dialogue: 0,0:03:23.00,0:03:26.99,Default,,0,0,0,,{\c&H000000&}Melewati saat ini  
+Dialogue: 0,0:03:27.00,0:03:28.99,Default,,0,0,0,,{\c&H000000&}Aku akan memanggilmu  
+Dialogue: 0,0:03:29.00,0:03:33.99,Default,,0,0,0,,{\c&H000000&}Pertemuan kita mekar dengan begitu indah  
+Dialogue: 0,0:03:34.00,0:03:37.99,Default,,0,0,0,,{\c&H000000&}Kau orang yang berharga bagiku  
+Dialogue: 0,0:03:38.00,0:03:43.99,Default,,0,0,0,,{\c&H000000&}Ku mohon jangan lupakan aku, hari-hari yang indah 
+Dialogue: 0,0:03:44.00,0:03:46.99,Default,,0,0,0,,{\c&H000000&}Aku akan memanggil namamu  
+Dialogue: 0,0:03:47.00,0:03:51.99,Default,,0,0,0,,{\c&H000000&}Meski malam ini berlalu dan kau perlahan menghilang  
+Dialogue: 0,0:03:52.00,0:03:54.99,Default,,0,0,0,,{\c&H000000&}Ini bukanlah yang terakhir  
+Dialogue: 0,0:03:56.00,0:04:00.99,Default,,0,0,0,,{\c&H000000&}Jangan lupakan aku, ingatlah aku  
+Dialogue: 0,0:04:01.00,0:04:04.99,Default,,0,0,0,,{\c&H000000&}Sekali lagi, aku akan memanggilmu  
+

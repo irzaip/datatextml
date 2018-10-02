@@ -1,0 +1,277 @@
+
+[tutup]
+Ikuti Wikipedia bahasa Indonesia di F icon.svg Facebook, Twitter bird logo 2012.svg Twitter, Instagram simple icon.svg Instagram, dan Telegram logo.svg Telegram
+Tutup
+Wikipedia
+Dari Wikipedia bahasa Indonesia, ensiklopedia bebas
+Jump to navigationJump to search
+Perlindungan dari anon
+Artikel ini berisi uraian tentang Wikipedia sebagai ensiklopedia bebas. Untuk asteroid bernama Wikipedia, lihat 274301 Wikipedia.
+Wikipedia
+Wikipedia-logo-v2.svg
+Gambar layar portal multibahasa Wikipedia.
+Gambar layar portal multibahasa Wikipedia.
+Jenis situs
+Ensiklopedia daring
+Bahasa	270 edisi aktif (total 291 edisi)[1]
+Markas	Miami, Florida
+Pemilik	Wikimedia Foundation
+Pencipta	Jimmy Wales, Larry Sanger[2]
+Slogan	The Free Encyclopedia
+Situs web	www.wikipedia.org
+Peringkat Alexa	Global: ▲ 6[3] (September 2016)
+Komersial	Tidak
+Daftar akun	Opsional
+Diluncurkan	15 Januari 2001
+Status	Aktif (senantiasa dalam proses dikerjakan)[4]
+Wikipedia (Listeni/ˌwɪkᵻˈpiːdiə/ atau Listeni/ˌwɪkiˈpiːdiə/ wik-i-pee-dee-ə) adalah proyek ensiklopedia multibahasa dalam jaringan yang bebas dan terbuka, yang dijalankan oleh Wikimedia Foundation, sebuah organisasi nirlaba yang berbasis di Amerika Serikat. Nama Wikipedia berasal dari gabungan kata wiki dan encyclopedia. Wikipedia dirilis pada tahun 2001 oleh Jimmy Wales dan Larry Sanger,[5] dan kini merupakan karya referensi paling besar, cepat berkembang, dan populer di Internet.[6][7] Proyek Wikipedia bertujuan untuk memberikan ilmu pengetahuan manusia.[8]
+
+Daftar isi 
+1	Sejarah
+2	Selayang pandang
+2.1	Perkembangan jumlah artikel
+2.2	Basis data yang dapat diunduh
+2.3	Setiap orang berkontribusi
+2.4	Perusakan
+3	Keistimewaan
+4	Perangkat keras
+5	Logo Wikipedia
+6	Popularitas dan penghargaan
+7	Lihat pula
+8	Referensi
+9	Pustaka
+9.1	Buku tentang Wikipedia
+10	Pranala luar
+Sejarah
+
+Wikipedia bermula dari proyek ensiklopedia lain, Nupedia (Nupedia.com the free encyclopedia)
+
+
+Jimmy Wales dan Larry Sanger, dua pendiri Wikipedia
+Wikipedia berawal sebagai proyek sampingan Nupedia berupa ensiklopedia bebas daring yang artikelnya ditulis oleh para ahli.[9] Larry Sanger, yang mendirikan Nupedia bersama Jimmy Wales, melontarkan ide mengenai ensiklopedia berbasis wiki pada 10 Januari 2001 di milis Nupedia.[10] Kemudian pada 15 Januari 2001, Wikipedia secara resmi diluncurkan di situs web www.wikipedia.com.[11]
+
+Selayang pandang
+
+DVD Wikipedia
+Berikut ini beberapa karakteristik penting di dalam proyek Wikipedia:
+
+Wikipedia adalah ensiklopedia.
+Wikipedia adalah sebuah wiki yang dapat diubah oleh setiap orang, kecuali untuk pengguna yang diblok dan pengecualian di halaman terlindung.
+Wikipedia mengandung isi bebas dan menggunakan copyleft Lisensi dokumentasi bebas GNU.
+Perkembangan jumlah artikel
+Sejak resmi diluncurkan pada tanggal 15 Januari 2001, Wikipedia bahasa Inggris telah mengalami perkembangan jumlah artikel yang luar biasa. Tanggal 21 Januari 2003, jumlah artikel yang dimiliki telah mencapai 100.000 buah, kemudian pada tanggal 1 Maret 2006, telah memiliki 1.000.000 artikel. Angka ini terus bertambah menjadi 2.000.000 artikel pada tanggal 9 September 2007 dan menembus angka 5.000.000 artikel pada tanggal 1 November 2015.[12]
+
+Elektron adalah artikel pertama Wikipedia bahasa Indonesia yang dibuat pada tanggal 30 Mei 2003. Pada awal 2009, jumlah artikel bertambah mencapai angka 100.000 dan pada akhir 2012 mencapai 200.000 artikel.
+
+Secara keseluruhan, Wikipedia dalam seluruh bahasa mencapai jumlah 1 juta artikel pada bulan September 2004 dan kemudian terus menanjak hingga lebih dari 38 juta artikel pada tahun 2015.[13]
+
+Basis data yang dapat diunduh
+Setiap orang yang ingin menggunakan isi bebas Wikipedia, kapan pun, dapat mengunduh artikel yang mendekati versi terbaru di dalam pangkalan data untuk tujuan bebas, dengan syarat LDBG.
+
+Beberapa lokasi, seperti Wikinfo, wordiq, thefreedictionary.com, 4reference, dan nationmaster telah membuat salinan (mirroring) dan membuat 'data turunan' (forking) dari isi Wikipedia.
+
+Setiap orang berkontribusi
+!Artikel utama untuk bagian ini adalah: Wikipedia:Mengapa Wikipedia tidak begitu hebat dan Wikipedia:Balasan terhadap penolakan umum
+Isi Wikipedia dapat diciptakan oleh penggunanya. Pengunjung di Wikipedia juga dapat mengubah artikel, dan banyak yang melakukannya. Halaman-halaman selalu diubah, jadi, tidak ada artikel yang pernah selesai. Dan karena itu pula di Wikipedia sering terjadi "kesulitan" yang unik. Tetapi ia pun memiliki sistem "penyembuhan sendiri."
+
+Perusakan
+Lihat pula: Wikipedia:Vandalisme
+Salah satu wacana utama di dalam Wikipedia adalah "perusakan" atau vandalisme; kekonyolan atau menyinggung artikel situs web ini. Ada banyak orang yang melakukannya hanya demi mendapatkan pengalaman mengubah halaman internet.
+
+"Karena Wikipedia adalah proyek radikal yang bebas dan terbuka, ia menarik unsur anarkis," pengakuan Larry Sanger kepada Wired News. "Untungnya, banyak dari kita yang berkeinginan untuk bertahan terhadap perusakan... dan menyingkirkannya dengan segera."
+
+Keistimewaan
+Keistimewaan Wikipedia adalah selain menyajikan informasi yang biasa ditemui di dalam sebuah ensiklopedia, Wikipedia juga memuat artikel-artikel yang biasanya ditemukan di dalam almanak, majalah spesialis, dan topik-topik berita yang masih hangat. Banyak orang yang menggunakan Wikipedia ini untuk menyelesaikan tugas dan pekerjaan rumah.[butuh rujukan]
+
+Perangkat keras
+
+Server-server Wikimedia di Tampa.
+Wikipedia dijalankan dengan memakai perangkat lunak MediaWiki oleh server-server milik Yayasan Wikimedia. Sampai dengan 13 Mei 2006 Wikipedia dan proyek-proyek Wikimedia lainnya dijalankan oleh 175 server yang terletak di 4 lokasi berbeda yaitu di Tampa, Florida-Amerika Serikat, Paris-Perancis, Amsterdam-Belanda, serta di lokasi Yahoo!. Pada Januari 2013 server Wikipedia dipindahkan ke Ashburn, Virginia.
+
+Perincian server menurut lokasinya adalah sebagai berikut (sebelum Januari 2013).
+
+Tampa, Florida:
+14 buah server berbasisdata MySQL,
+18 buah server Squid,
+93 buah server Apache, dan
+12 buah server lainnya untuk beragam keperluan.
+Paris, Perancis:
+3 buah server Squid.
+Amsterdam, Belanda:
+12 buah server.
+Yahoo!:
+23 buah server.
+Logo Wikipedia
+!Artikel utama untuk bagian ini adalah: Wikipedia:Logo Wikipedia
+
+Logo standar versi 2.0 (png)
+
+ 
+
+Logo standar versi 2.0 (svg)
+
+ 
+
+Logo lama
+
+Popularitas dan penghargaan
+
+Jimmy Wales ketika menerima Quadriga Award kategori A Mission of Enlightenment
+Setiap bulan, terdapat lebih dari 18 milyar kunjungan halaman (page view) dan lebih dari 500 juta ID unique visitor yang mengakses Wikipedia. Dengan jumlah ini Wikipedia hampir menyaingi kepopuleran situs web Yahoo, Facebook, Microsoft dan Google.[14] Pada Januari 2016, Wikipedia menjadi situs web terpopuler ketujuh di dunia.[15] Wikipedia juga telah meraih apresiasi luas di tingkat Internasional, hal ini dibuktikan dengan penghargaan-penghargaan berikut:
+
+The Golden Nica Award 2004[16]
+Webby Award 2004[17]
+Quadriga Award 2008[18]
+Erasmus Prize 2015[19]
+Princess of Asturias Award 2015[20]
+Lihat pula
+Wikipedia dalam Media Massa
+Sejarah Wikipedia
+Wikipedia bahasa Indonesia
+Wikimedia
+Tentang Wiki
+Interpedia
+Matriks daftar proyek Wikimedia
+Proyek Wikimedia yang lain
+Wikiquote
+Wikisource
+Wikibooks
+Wiktionary
+Wikinews
+Wikispecies
+Wikimedia Commons
+Referensi
+^ http://www.theguardian.com/technology/2014/aug/06/wikipedia-lila-tretikov-glasnost-freedom-of-information
+^ Jonathan Sidener. "Everyone's Encyclopedia". San Diego Union Tribune. Diakses tanggal 2006-10-15.
+^ "How popular is wikipedia.org?". Alexa Internet. May 22, 2016. Diakses tanggal 2016-09-04.
+^ "Wikipedia:Wikipedia is a work in progress". Wikipedia. Diakses tanggal 2008-07-03.
+^ Miliard, Mike (2008-03-01). "Wikipediots: Who are these devoted, even obsessive contributors to Wikipedia?". Salt Lake City Weekly. Diakses tanggal 2008-02-21.
+^ Tancer, Bill (2007-05-01). "Look Who's Using Wikipedia". TIME. Diakses tanggal 2007-12-01.
+^ Woodson, Alex (2007-07-08). "Wikipedia remains go-to site for online news". Reuters. Diakses tanggal 2007-12-16.
+^ Wikipedia Founder Jimmy Wales Responds. Slashdot. 28 Juli 2004.
+^ Andreas M. Kaplan, M. Haenlein (2014) Collaborative projects (social media application): About Wikipedia, the free encyclopedia. Business Horizons, 57 Issue 5, pp.617-626
+^ Milis nupedia
+^ "Tampilan perdana Wikipedia". Diarsipkan dari versi asli tanggal 31 Maret 2001.
+^ meta:Wikipedia milestones
+^ "Wikipedia cofounder Jimmy Wales on 60 Minutes". CBS News. Diakses tanggal 6 April 2015.
+^ Wikipedia vs Small Screen
+^ Alexa.com
+^ http://archive.aec.at/prix/#2960
+^ http://webbyawards.com/winners/2004/web/general-website/community/wikipedia/
+^ "Die Quadriga – Award 2008".
+^ "Erasmus Prize - Praemium Erasmianum". Praemium Erasmianum Foundation. Diakses tanggal 15 Januari 2015.
+^ "Premio Princesa de Asturias de Cooperación Internacional 2015". Fundación Princesa de Asturias. Diakses tanggal Juni 2015. Periksa nilai tanggal di: |accessdate= (bantuan)
+Pustaka
+Buku tentang Wikipedia
+Ayers, Phoebe; Matthews, Charles; Yates, Ben (September 2008). How Wikipedia Works: And How You Can Be a Part of It. San Francisco: No Starch Press. ISBN 978-1-59327-176-3.
+Broughton, John (2008). Wikipedia – The Missing Manual. O'Reilly Media. ISBN 0-596-51516-2. (See book review by Baker, as listed hereafter.)
+Broughton, John (2008). Wikipedia Reader's Guide. Sebastopol: Pogue Press. ISBN 0-596-52174-X.
+Dalby, Andrew (2009). The World and Wikipedia: How We are Editing Reality. Siduri. ISBN 978-0-9562052-0-9.
+Keen, Andrew (2007). The Cult of the Amateur. Doubleday/Currency. ISBN 978-0-385-52080-5. (Substantial criticisms of Wikipedia and other web 2.0 projects.)
+Lih, Andrew (2009). The Wikipedia Revolution: How a Bunch of Nobodies Created the World's Greatest Encyclopedia. New York: Hyperion. ISBN 978-1-4013-0371-6.
+O'Sullivan, Dan (24 September 2009). Wikipedia: a new community of practice?. Ashgate Publishing. ISBN 978-0-7546-7433-7.
+Sheizaf Rafaeli & Yaron Ariel (2008). "Online motivational factors: Incentives for participation and contribution in Wikipedia." In Barak, A. Psychological aspects of cyberspace: Theory, research, applications. Cambridge, UK: Cambridge University Press. hlm. 243–267.
+Reagle, Joseph Michael Jr. (2010). Good Faith Collaboration: The Culture of Wikipedia. Cambridge, Massachusetts, USA: the MIT Press. ISBN 978-0-262-01447-2.
+Pranala luar
+Cari tahu mengenai Wikipedia pada proyek-proyek Wikimedia lainnya:
+	Definisi dan terjemahan dari Wiktionary
+	Gambar dan media dari Commons
+	Berita dari Wikinews
+	Kutipan dari Wikiquote
+	Teks sumber dari Wikisource
+	Buku dari Wikibuku
+	Entri basisdata #Q52 di Wikidata
+	Panduan wisata di Wikivoyage:Cooperating with Wikipedia dari Wikivoyage
+(Inggris) Daftar artikel terpopuler di Wikipedia Bahasa Indonesia pada hari ini - Wikitrends
+(Inggris) Sejarah singkat Wikipedia
+(Inggris) Daftar lengkap wikipedia
+(Inggris) Daftar proyek wikimedia terbesar
+(Inggris) Video Jimmy Wales bicara tentang perilisan Wikipedia
+(Inggris) Daftar wiki terbesar
+(Inggris) Pencapaian semua proyek Wikimedia (pencapaian proyek-proyek Wikimedia)
+[sembunyikan] l b s
+Daftar Wikipedia dalam berbagai bahasa di dunia menurut jumlah artikel
+5.000.000+	
+Bahasa Inggris (en) · Bahasa Cebú (ceb)
+
+2.000.000+	
+Bahasa Swedia (sv) · Bahasa Jerman (de)
+
+1.000.000+	
+Bahasa Perancis (fr) · Bahasa Belanda (nl) · Bahasa Rusia (ru) · Bahasa Italia (it) · Bahasa Spanyol (es) · Bahasa Polski (pl) · Bahasa Waray-waray (war) · Bahasa Vietnam (vi) · Bahasa Jepang (ja) · Bahasa Mandarin (zh) · Bahasa Portugis (pt)
+
+500.000+	
+Bahasa Ukraina (uk) · Bahasa Serbia (sr) · Bahasa Persia (fa) · Bahasa Katalan (ca) · Bahasa Arab (ar)
+
+200.000+	
+Bahasa Norwegia Bokmål (no) · Bahasa Serbo-Kroasia (sh) · Bahasa Finlandia (fi) · Bahasa Hongaria (hu) · Bahasa Indonesia (id) · Bahasa Korea (ko) · Bahasa Ceska (cs) · Bahasa Rumania (ro) · Bahasa Melayu (ms) · Bahasa Turki (tr) · Bahasa Basque (eu) · Bahasa Esperanto (eo) · Bahasa Bulgaria (bg) · Bahasa Armenia (hy) · Bahasa Denmark (da)  · Bahasa Hokkien (zh-min-nan) · Bahasa Slowakia (sk) · Bahasa Minangkabau (min) · Bahasa Kazakh (kk) · Bahasa Ibrani (he)
+
+100.000+	
+Bahasa Lituavi (lt) · Bahasa Kroasia (hr) · Bahasa Estonia (et) · Bahasa Chechnya (ce) · Bahasa Slovenia (sl) · Bahasa Belarus (be) · Bahasa Galicia (gl) · Bahasa Yunani (el) · Bahasa Norwegia (Nynorsk) (nn) · Bahasa Azerbaijan (az) · Bahasa Inggris Sederhana (simple) · Bahasa Uzbek (uz) · Bahasa Latin (la) · Bahasa Urdu (ur) · Bahasa Hindi (hi) · Bahasa Thai (th) · Bahasa Volapük (vo) · Bahasa Georgia (ka) · Bahasa Tamil (ta)
+
+50.000+	
+Bahasa Wales (cy) · Bahasa Makedonia (mk) · Bahasa Tajik (tg) · Bahasa Tagalog (tl) · Bahasa Oksitan (oc) · Bahasa Latvi (lv) · Bahasa Tatar (tt) · Bahasa Nepal (new) · Bahasa Albania (sq) · Bahasa Telugu (te) · Bahasa Piedmont (pms) · Bahasa Belarus (Taraškievica) (be-tarask) · Bahasa Kreol Haiti (ht)
+[tampilkan] l b s
+Wikipedia dalam berbagai bahasa di Nusantara:
+Lihat pula: Daftar wiki Wikimedia
+[tampilkan] l b s
+Wikimedia Foundation
+[tampilkan] l b s
+Wikipedia
+Kategori: Proyek WikipediaEnsiklopedia daringProyek WikimediaWiki
+Menu navigasi
+Belum masuk logPembicaraanKontribusiBuat akun baruMasuk logHalamanPembicaraanBacaLihat sumberVersi terdahuluPencarian
+
+Cari Wikipedia
+Halaman Utama
+Perubahan terbaru
+Peristiwa terkini
+Halaman baru
+Halaman sembarang
+Komunitas
+Warung Kopi
+Portal komunitas
+Bantuan
+Wikipedia
+Tentang Wikipedia
+Pancapilar
+Kebijakan
+Menyumbang
+Hubungi kami
+Bak pasir
+Bagikan
+Facebook
+Twitter
+Google+
+Cetak/ekspor
+Buat buku
+Unduh versi PDF
+Versi cetak
+Dalam proyek lain
+Wikimedia Commons
+Meta-Wiki
+Perkakas
+Pranala balik
+Perubahan terkait
+Halaman istimewa
+Pranala permanen
+Informasi halaman
+Item di Wikidata
+Kutip halaman ini
+Pranala menurut ID
+
+Bahasa lain
+Acèh
+Bahasa Banjar
+ᨅᨔ ᨕᨘᨁᨗ
+English
+Basa Jawa
+Baso Minangkabau
+Bahasa Melayu
+Basa Sunda
+中文
+266 lagi
+Sunting interwiki
+Halaman ini terakhir diubah pada 7 Januari 2018, pukul 14.29.
+Teks tersedia di bawah Lisensi Atribusi-BerbagiSerupa Creative Commons; ketentuan tambahan mungkin berlaku. Lihat Ketentuan Penggunaan untuk lebih jelasnya.
+Kebijakan privasiTentang WikipediaPenyangkalanPengembangCookie statementTampilan selulerWikimedia Foundation Powered by MediaWiki

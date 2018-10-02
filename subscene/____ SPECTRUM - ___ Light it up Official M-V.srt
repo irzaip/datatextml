@@ -1,0 +1,76 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.125000
+Scroll Position: 362
+Active Line: 372
+Video Position: 37260
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:03:24.81,Default,,0,0,0,,{\fnCorbel\fs11\c&fff33&\3c&H000000&\pos(522,24.8)}*SPECTRUM - Light It Up* 
+Dialogue: 0,0:00:00.00,0:03:24.81,Default,,0,0,0,,{\fnCorbel\fs11\c&H710FF7&\3c&H000000&\pos(568.889,44.689)}{\c&H710FF7&} {\3c&H000000&}SUB INDO BY ~ FANINDITA PUTRI  
+Dialogue: 0,0:00:23.00,0:00:25.99,Default,,0,0,0,,{\c&H000000&}Katakanlah segalanya, Karena semuanya kan baik-baik saja  
+Dialogue: 0,0:00:26.00,0:00:28.99,Default,,0,0,0,,{\c&H000000&}Aku akan menyadari semuanya, Apa yang kau pikirkan?  
+Dialogue: 0,0:00:29.00,0:00:32.99,Default,,0,0,0,,{\c&H000000&}Aku sama sekali tak bercanda, Jika itu memang harus dilakukan, lakukan saja 
+Dialogue: 0,0:00:33.00,0:00:37.99,Default,,0,0,0,,{\c&H000000&}Hati yang dingin, Terbakar lebih panas daripada bensin  
+Dialogue: 0,0:00:38.00,0:00:39.99,Default,,0,0,0,,{\c&H000000&}Ingin menjadi lebih tinggi (Bakarlah, bakarlah)  
+Dialogue: 0,0:00:40.00,0:00:41.99,Default,,0,0,0,,{\c&H000000&}Ikutilah aku 
+Dialogue: 0,0:00:42.00,0:00:42.99,Default,,0,0,0,,{\c&H000000&}Terangilah pikiranmu  
+Dialogue: 0,0:00:44.00,0:00:45.99,Default,,0,0,0,,{\c&H000000&}Angkat tanganmu di udara  
+Dialogue: 0,0:00:46.00,0:00:47.99,Default,,0,0,0,,{\c&H000000&}Semuanya berdirilah pada garis di sampingku  
+Dialogue: 0,0:00:48.00,0:00:50.99,Default,,0,0,0,,{\c&H000000&}Disana tak ada jalan untuk kembali, Kau tak perlu lagi melihat ke belakang  
+Dialogue: 0,0:00:51.00,0:00:51.99,Default,,0,0,0,,{\c&H000000&}Terangilah pikiranmu  
+Dialogue: 0,0:00:53.00,0:00:54.99,Default,,0,0,0,,{\c&H000000&}Angkat tanganmu di udara  
+Dialogue: 0,0:00:55.00,0:00:56.99,Default,,0,0,0,,{\c&H000000&}Aku menyukai dirimu yang seperti kobaran api  
+Dialogue: 0,0:00:57.00,0:00:59.99,Default,,0,0,0,,{\c&H000000&}Aku menginginkanmu, Hatimu yang membeku 
+Dialogue: 0,0:01:00.00,0:01:00.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:01:04.00,0:01:04.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:01:08.00,0:01:09.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:01:12.00,0:01:13.99,Default,,0,0,0,,{\c&H000000&}Terangi, terangilah itu, terangi, terangilah itu  
+Dialogue: 0,0:01:16.00,0:01:17.99,Default,,0,0,0,,{\c&H000000&}Terangi, terangilah itu, terangi, terangilah itu  
+Dialogue: 0,0:01:18.00,0:01:20.99,Default,,0,0,0,,{\c&H000000&}Beradu pandang bersama denganmu, Dalam sekejap, berada di dalam api, ayo bakarlah
+Dialogue: 0,0:01:21.00,0:01:22.99,Default,,0,0,0,,{\c&H000000&}Seekor serigala tengah mengejarmu, Dari ekornya hingga ke bawah  
+Dialogue: 0,0:01:23.00,0:01:26.99,Default,,0,0,0,,{\c&H000000&}Tunggu, bersiaplah, Untuk mendapatkan hatimu, Carilah waktu dan dapatkan perhatiannya
+Dialogue: 0,0:01:27.00,0:01:29.99,Default,,0,0,0,,{\c&H000000&}Tubuh dan mataku bergerak ke arahmu  
+Dialogue: 0,0:01:30.00,0:01:31.99,Default,,0,0,0,,{\c&H000000&}Jika kau melewatkan saat ini, maka tak akan ada jwabannya  
+Dialogue: 0,0:01:32.00,0:01:33.99,Default,,0,0,0,,{\c&H000000&}Lebih berterus terang, ayolah, hatiku sedang sibuk  
+Dialogue: 0,0:01:34.00,0:01:36.99,Default,,0,0,0,,{\c&H000000&}Berlari lebih cepat dan mulailah tuk membakarnya dari mulai ujung kakiku lebih dulu, Seperti api  
+Dialogue: 0,0:01:37.00,0:01:42.99,Default,,0,0,0,,{\c&H000000&}Selalu berkobar, Bahkan lebih panas di pagi hari, satu jalan 
+Dialogue: 0,0:01:43.00,0:01:44.99,Default,,0,0,0,,{\c&H000000&}Aku mengikuti jalan ini 
+Dialogue: 0,0:01:45.00,0:01:49.99,Default,,0,0,0,,{\c&H000000&}Oh selalu berkobar, Buatlah itu lebih panas lagi  
+Dialogue: 0,0:01:50.00,0:01:52.99,Default,,0,0,0,,{\c&H000000&}Ingin menjadi lebih tinggi (Bakarlah, bakarlah) 
+Dialogue: 0,0:01:53.00,0:01:53.99,Default,,0,0,0,,{\c&H000000&}Ikutilah aku 
+Dialogue: 0,0:01:54.00,0:01:54.99,Default,,0,0,0,,{\c&H000000&}Terangilah pikiranmu  
+Dialogue: 0,0:01:56.00,0:01:57.99,Default,,0,0,0,,{\c&H000000&}Angkat tanganmu di udara 
+Dialogue: 0,0:01:58.00,0:01:59.99,Default,,0,0,0,,{\c&H000000&}Semuanya berdirilah pada garis di sampingku  
+Dialogue: 0,0:02:00.00,0:02:02.99,Default,,0,0,0,,{\c&H000000&}Disana tak ada jalan untuk kembali, Kau tak perlu lagi melihat ke belakang  
+Dialogue: 0,0:02:03.00,0:02:03.99,Default,,0,0,0,,{\c&H000000&}Terangilah pikiranmu  
+Dialogue: 0,0:02:05.00,0:02:06.99,Default,,0,0,0,,{\c&H000000&}Angkat tanganmu di udara  
+Dialogue: 0,0:02:07.00,0:02:08.99,Default,,0,0,0,,{\c&H000000&}Aku menyukai dirimu yang seperti kobaran api  
+Dialogue: 0,0:02:09.00,0:02:11.99,Default,,0,0,0,,{\c&H000000&}Aku menginginkanmu, Hatimu yang membeku  
+Dialogue: 0,0:02:12.00,0:02:12.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:02:16.00,0:02:17.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:02:21.00,0:02:21.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:02:24.00,0:02:25.99,Default,,0,0,0,,{\c&H000000&}Terangi, terangilah itu, terangi, terangilah itu 
+Dialogue: 0,0:02:29.00,0:02:30.99,Default,,0,0,0,,{\c&H000000&}Terangi, terangilah itu, terangi, terangilah itu  
+Dialogue: 0,0:02:31.00,0:02:34.99,Default,,0,0,0,,{\c&H000000&}Tak peduli apapun yang orang katakan, aku hanya melihatmu  
+Dialogue: 0,0:02:35.00,0:02:37.99,Default,,0,0,0,,{\c&H000000&}Percayalah padaku, jangan kau ragu  
+Dialogue: 0,0:02:38.00,0:02:41.99,Default,,0,0,0,,{\c&H000000&}Dalam api, bangunkanlah aku dari tidurku ini, Itu akan meledak jika kau menyentuhnya  
+Dialogue: 0,0:02:42.00,0:02:44.99,Default,,0,0,0,,{\c&H000000&}Seolah itu otomatis, mataku mengikuti arahan instingku 
+Dialogue: 0,0:02:45.00,0:02:49.99,Default,,0,0,0,,{\c&H000000&}Mendekatlah padaku, lebih panas, ayo bakarlah itu 
+Dialogue: 0,0:02:50.00,0:02:51.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:02:55.00,0:02:56.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:02:59.00,0:03:00.99,Default,,0,0,0,,{\c&H000000&}Terangilah itu  
+Dialogue: 0,0:03:03.00,0:03:04.99,Default,,0,0,0,,{\c&H000000&}Terangi, terangilah itu, terangi, terangilah itu  
+

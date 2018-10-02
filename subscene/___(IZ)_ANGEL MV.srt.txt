@@ -1,0 +1,4 @@
+PlayResY: 360
+Video Position: 37260
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+Dialogue: 0,0:03:41.00,0:03:45.99,Default,,0,0,0,,{\c&H000000&}Ketahuilah, kau pasti seorang malaikat  

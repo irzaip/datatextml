@@ -1,0 +1,71 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.125000
+Scroll Position: 362
+Active Line: 372
+Video Position: 37260
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lao UI,18,&H00E31CBF,&H0300FFFF,&HFFFF3,&H02000000,-1,0,0,0,100,100,0,0,3,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:03:14.81,Default,,0,0,0,,{\fnCorbel\fs11\c&fff33&\3c&H000000&\pos(522,24.8)}*TEEN TOP - Seoul Night* 
+Dialogue: 0,0:00:00.00,0:03:14.81,Default,,0,0,0,,{\fnCorbel\fs11\c&H710FF7&\3c&H000000&\pos(568.889,44.689)}{\c&H710FF7&} {\3c&H000000&}SUB INDO BY ~ FANINDITA PUTRI  
+Dialogue: 0,0:00:23.00,0:00:26.99,Default,,0,0,0,,{\c&H000000&}AY! Malam ini sungguh indah, Rasanya seperti aku melihat dirimu yang mempesona 
+Dialogue: 0,0:00:27.00,0:00:30.99,Default,,0,0,0,,{\c&H000000&}Sudah lama, Malam yang sempurna hanya untuk kita berdua  
+Dialogue: 0,0:00:31.00,0:00:34.99,Default,,0,0,0,,{\c&H000000&}Malam di Seoul selalu sibuk seperti biasanya 
+Dialogue: 0,0:00:35.00,0:00:37.99,Default,,0,0,0,,{\c&H000000&}Tak apa-apa, bulan hanya menyinari kita berdua 
+Dialogue: 0,0:00:39.00,0:00:40.99,Default,,0,0,0,,{\c&H000000&}Di kota ini setelah matahari terbenam 
+Dialogue: 0,0:00:41.00,0:00:43.99,Default,,0,0,0,,{\c&H000000&}Mari kita memulai film cinta kita  
+Dialogue: 0,0:00:44.00,0:00:47.99,Default,,0,0,0,,{\c&H000000&}Kekhawatiran mereda, semuanya, tak apa-apa 
+Dialogue: 0,0:00:48.00,0:00:50.99,Default,,0,0,0,,{\c&H000000&}Sebelum malam berakhir 
+Dialogue: 0,0:00:52.00,0:00:54.99,Default,,0,0,0,,{\c&H000000&}Malam di Seoul, ini adalah malam yang indah 
+Dialogue: 0,0:00:55.00,0:00:56.99,Default,,0,0,0,,{\c&H000000&}Aku bilang itu berkelap-kelip 
+Dialogue: 0,0:00:57.00,0:01:00.99,Default,,0,0,0,,{\c&H000000&}Bintang-bintang di langit malam (malam malam malam) 
+Dialogue: 0,0:01:01.00,0:01:04.99,Default,,0,0,0,,{\c&H000000&}Maukah kau masuk ke dalam hatiku? 
+Dialogue: 0,0:01:05.00,0:01:07.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu dalam hati yang penuh gairah ini 
+Dialogue: 0,0:01:10.00,0:01:11.99,Default,,0,0,0,,{\c&H000000&}Malam di Seoul ini 
+Dialogue: 0,0:01:14.00,0:01:14.99,Default,,0,0,0,,{\c&H000000&}Kehidupan jiwa ini 
+Dialogue: 0,0:01:18.00,0:01:18.99,Default,,0,0,0,,{\c&H000000&}Malam di Seoul ini 
+Dialogue: 0,0:01:21.00,0:01:22.99,Default,,0,0,0,,{\c&H000000&}Kehidupan jiwa ini 
+Dialogue: 0,0:01:24.00,0:01:26.99,Default,,0,0,0,,{\c&H000000&}Musiknya semakin dalam, memenuhi kita 
+Dialogue: 0,0:01:27.00,0:01:30.99,Default,,0,0,0,,{\c&H000000&}Sepanjang waktu aku menabung, aku gunakan itu untukmu 
+Dialogue: 0,0:01:31.00,0:01:33.99,Default,,0,0,0,,{\c&H000000&}Jika kau menginginkan tak ada seorangpun, Aku hanya membutuhkanmu
+Dialogue: 0,0:01:34.00,0:01:37.99,Default,,0,0,0,,{\c&H000000&}Sekali lagi hari ini, kau membuat hatiku berdebar 
+Dialogue: 0,0:01:38.00,0:01:40.99,Default,,0,0,0,,{\c&H000000&}Di kota ini setelah matahari terbenam 
+Dialogue: 0,0:01:41.00,0:01:43.99,Default,,0,0,0,,{\c&H000000&}Mari kita memulai film cinta kita  
+Dialogue: 0,0:01:44.00,0:01:47.99,Default,,0,0,0,,{\c&H000000&}Kekhawatiran mereda, semuanya, tak apa-apa 
+Dialogue: 0,0:01:48.00,0:01:50.99,Default,,0,0,0,,{\c&H000000&}Sebelum malam berakhir 
+Dialogue: 0,0:01:52.00,0:01:54.99,Default,,0,0,0,,{\c&H000000&}Malam di Seoul, ini adalah malam yang indah 
+Dialogue: 0,0:01:55.00,0:01:56.99,Default,,0,0,0,,{\c&H000000&}Aku bilang itu berkelap-kelip  
+Dialogue: 0,0:01:57.00,0:02:00.99,Default,,0,0,0,,{\c&H000000&}Bintang-bintang di langit malam (malam malam malam) 
+Dialogue: 0,0:02:01.00,0:02:04.99,Default,,0,0,0,,{\c&H000000&}Maukah kau masuk ke dalam hatiku? 
+Dialogue: 0,0:02:05.00,0:02:07.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu dalam hati yang penuh gairah ini 
+Dialogue: 0,0:02:08.00,0:02:10.99,Default,,0,0,0,,{\c&H000000&}Hari ini langit begitu biru, Dia adalah burung biruku 
+Dialogue: 0,0:02:11.00,0:02:14.99,Default,,0,0,0,,{\c&H000000&}Sekali lagi hari ini, aku bernyanyi tentangmu, Sekali lagi hari ini, malam Seoul yang panas 
+Dialogue: 0,0:02:15.00,0:02:16.99,Default,,0,0,0,,{\c&H000000&}Malam yang panjang karna itu mari kita pelan-pelan saja 
+Dialogue: 0,0:02:17.00,0:02:21.99,Default,,0,0,0,,{\c&H000000&}Kau adalah bungaku, Bagaimanapun, aku masih memimpikan malam untukmu, Kota Seoul
+Dialogue: 0,0:02:23.00,0:02:26.99,Default,,0,0,0,,{\c&H000000&}Udara malam yang panas juga sama 
+Dialogue: 0,0:02:27.00,0:02:30.99,Default,,0,0,0,,{\c&H000000&}Saat malam semakin larut 
+Dialogue: 0,0:02:31.00,0:02:32.99,Default,,0,0,0,,{\c&H000000&}Aku bisa merasakannya 
+Dialogue: 0,0:02:33.00,0:02:34.99,Default,,0,0,0,,{\c&H000000&}Sekarang kau lihat itu 
+Dialogue: 0,0:02:35.00,0:02:37.99,Default,,0,0,0,,{\c&H000000&}Malam di Seoul, malam ini 
+Dialogue: 0,0:02:39.00,0:02:41.99,Default,,0,0,0,,{\c&H000000&}Malam di Seoul, ini adalah malam yang indah 
+Dialogue: 0,0:02:42.00,0:02:43.99,Default,,0,0,0,,{\c&H000000&}Aku bilang itu berkelap-kelip 
+Dialogue: 0,0:02:44.00,0:02:47.99,Default,,0,0,0,,{\c&H000000&}Bintang-bintang di langit malam (malam malam malam) 
+Dialogue: 0,0:02:48.00,0:02:51.99,Default,,0,0,0,,{\c&H000000&}Maukah kau masuk ke dalam hatiku? 
+Dialogue: 0,0:02:52.00,0:02:54.99,Default,,0,0,0,,{\c&H000000&}Aku ingin memelukmu dalam hati yang penuh gairah ini 
+Dialogue: 0,0:02:55.00,0:02:58.99,Default,,0,0,0,,{\c&H000000&}Malam ini, malam ini, di hatiku 
+Dialogue: 0,0:02:59.00,0:03:01.99,Default,,0,0,0,,{\c&H000000&}Di dalamnya, di dalamnya (Malam di Seoul ini) 
+Dialogue: 0,0:03:03.00,0:03:05.99,Default,,0,0,0,,{\c&H000000&}Malam ini, malam ini, cepat katakan padaku 
+Dialogue: 0,0:03:07.00,0:03:09.99,Default,,0,0,0,,{\c&H000000&}Malam ini, malam ini, Semuanya bersama, di malam di kota Seoul ini 
+
